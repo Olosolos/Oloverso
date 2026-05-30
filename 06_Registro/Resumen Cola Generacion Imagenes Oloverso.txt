@@ -1,15 +1,15 @@
-RESUMEN COLA GENERACION IMAGENES OLOVERSO
+﻿RESUMEN COLA GENERACION IMAGENES OLOVERSO
 Fecha: 2026-05-30
 
 Items totales: 3843
-Pendientes: 3817
-Correctas detectadas: 26
+Pendientes: 3816
+Correctas detectadas: 27
 Fallidas registradas: 0
 Lotes: 385 lotes de hasta 10 items.
 
 Distribucion por bloque:
 - 00_Referencia: 1 items (0 generales, 0 principios, 0 apartados), Ley -, pendientes 0, correctas 1
-- Bloque 1.33 - Leyes Mentales: 168 items (33 generales, 135 principios, 0 apartados), Ley 0001-0033, pendientes 143, correctas 25
+- Bloque 1.33 - Leyes Mentales: 168 items (33 generales, 135 principios, 0 apartados), Ley 0001-0033, pendientes 142, correctas 26
 - Bloque 1.73 - Leyes Mentales 2: 210 items (40 generales, 168 principios, 2 apartados), Ley 0034-0073, pendientes 210, correctas 0
 - Bloque 2.00 - Leyes Mentales 3: 142 items (27 generales, 115 principios, 0 apartados), Ley 0074-0100, pendientes 142, correctas 0
 - Bloque 2.50 - Psicologia de Ventas: 253 items (50 generales, 203 principios, 0 apartados), Ley 0101-0150, pendientes 253, correctas 0
