@@ -1,0 +1,465 @@
+﻿LOTE 0107 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-01060 | 0208 | La Ley del Interes Financiero | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - La Ley del Interes Financiero - Principio 1 - Reinvertir es la clave.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 208 — La Ley del Interes Financiero
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Reinvertir es la clave del crecimiento. Aparte una cantidad de dinero, no la toque y reinvierta todo lo que obtenga en intereses, dividendos o beneficios. Este hábito alimenta un ciclo de crecimiento exponencial. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0208 - La Ley del Interes Financiero - Principio 1 - Reinvertir es la clave.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01061 | 0208 | La Ley del Interes Financiero | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - La Ley del Interes Financiero - Principio 2 - La magia esta en el.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 208 — La Ley del Interes Financiero
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La magia está en el tiempo. El interés compuesto no actúa de inmediato, pero con los años, su efecto se multiplica de forma desproporcionada. Cuanto antes empiece, más grande será el resultado final. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0208 - La Ley del Interes Financiero - Principio 2 - La magia esta en el.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01062 | 0208 | La Ley del Interes Financiero | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - La Ley del Interes Financiero - Principio 3 - No rompa el proceso.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 208 — La Ley del Interes Financiero
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: No rompa el proceso. La mayoría pierde los beneficios del interés compuesto por impulsos emocionales, 170 gastos innecesarios o falta de constancia. La clave es seguir sin interrupciones. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0208 - La Ley del Interes Financiero - Principio 3 - No rompa el proceso.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01063 | 0208 | La Ley del Interes Financiero | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0208 - La Ley del Interes Financiero\Ley 0208 - La Ley del Interes Financiero - Principio 4 - Es la ley de los que.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 208 — La Ley del Interes Financiero
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Es la ley de los que piensan a largo plazo. Las personas ricas no se hacen ricas en un día. Se hacen ricas porque entienden que el tiempo puede ser un aliado financiero imparable. “El interés compuesto es el sueldo que el tiempo le paga a los disciplinados.”
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 4 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0208 - La Ley del Interes Financiero - Principio 4 - Es la ley de los que.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01064 | 0209 | La Ley de la Acumulacion Financiera | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 209 — La Ley de la Acumulacion Financiera
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que todo gran logro financiero es el resultado de cientos de pequeños esfuerzos bien hechos, sostenidos a lo largo del tiempo.
+
+Personajes:
+OLO como guia principal. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Acumulación Financiera en un calendario minimalista conectado a escalones verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0209 - La Ley de la Acumulacion Financiera - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 171. Bloque: Bloque 3.50 - Pensamiento Financiero.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01065 | 0209 | La Ley de la Acumulacion Financiera | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Principio 1 - Cada euro.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 209 — La Ley de la Acumulacion Financiera
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Cada euro cuenta. Cada euro que ahorre, cada compra que evite, cada inversión que piense bien... todo se acumula como ladrillos invisibles hacia su libertad económica. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un flujo ordenado de energia y recursos bajo control consciente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un flujo ordenado de energia y recursos bajo control consciente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0209 - La Ley de la Acumulacion Financiera - Principio 1 - Cada euro.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01066 | 0209 | La Ley de la Acumulacion Financiera | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Principio 2 - La riqueza.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 209 — La Ley de la Acumulacion Financiera
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La riqueza no llega de golpe. No se construye un imperio financiero en un día. Es la acumulación diaria de pequeñas victorias lo que crea el patrimonio duradero. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un flujo ordenado de energia y recursos bajo control consciente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un flujo ordenado de energia y recursos bajo control consciente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0209 - La Ley de la Acumulacion Financiera - Principio 2 - La riqueza.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01067 | 0209 | La Ley de la Acumulacion Financiera | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Principio 3 - Mentalidad.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 209 — La Ley de la Acumulacion Financiera
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Mentalidad de siembra constante. Si usted piensa como un acumulador inteligente, sabrá que cada acción financiera tiene un efecto compuesto en el tiempo. No hay gasto “pequeño” si se repite. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0209 - La Ley de la Acumulacion Financiera - Principio 3 - Mentalidad.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01068 | 0209 | La Ley de la Acumulacion Financiera | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0209 - La Ley de la Acumulacion Financiera\Ley 0209 - La Ley de la Acumulacion Financiera - Principio 4 - Constancia.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 209 — La Ley de la Acumulacion Financiera
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Constancia como estrategia. Ahorrar, invertir, evitar deudas inútiles y gastar con inteligencia no son actos aislados, sino un estilo de vida. Y quien lo adopta, inevitablemente prospera. “El dinero no se acumula con suerte, sino con constancia y visión.”
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante un flujo ordenado de energia y recursos bajo control consciente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un flujo ordenado de energia y recursos bajo control consciente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0209 - La Ley de la Acumulacion Financiera - Principio 4 - Constancia.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01069 | 0210 | La Ley del Magnetismo Financiero | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 3.50 - Pensamiento Financiero\Ley 0210 - La Ley del Magnetismo Financiero\Ley 0210 - La Ley del Magnetismo Financiero - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 3.50 - Pensamiento Financiero\Ley 0210 - La Ley del Magnetismo Financiero\Ley 0210 - La Ley del Magnetismo Financiero - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 210 — La Ley del Magnetismo Financiero
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que mientras más dinero ahorre y más cultive una mentalidad de abundancia, más dinero atraerá a su vida.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Magnetismo Financiero en un campo magnetico verde que ordena los elementos; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un campo magnetico verde que ordena los elementos
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0210 - La Ley del Magnetismo Financiero - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 171. Bloque: Bloque 3.50 - Pensamiento Financiero.
+
+--- FIN DEL ITEM ---
+

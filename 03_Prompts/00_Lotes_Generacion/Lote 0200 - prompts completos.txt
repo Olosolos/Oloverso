@@ -1,0 +1,465 @@
+﻿LOTE 0200 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-01990 | 0382 | La Ley de los Sindromes Psiquiatricos | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 2 - Los sintomas.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 382 — La Ley de los Sindromes Psiquiatricos
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Los síntomas reflejan neurotransmisores específicos. La ansiedad generalizada se asocia con hiperactividad noradrenérgica y déficit de GABA. La esquizofrenia implica exceso de dopamina mesolímbica y déficit cortical prefrontal. 425 Cada conjunto de síntomas es un espejo de la química cerebral dominante. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO explica el principio 2 mediante un espejo doble entre mundo interior y exterior. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 2 - Los sintomas.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01991 | 0382 | La Ley de los Sindromes Psiquiatricos | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 3 - El diagnostico es.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 382 — La Ley de los Sindromes Psiquiatricos
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El diagnóstico es estratégico, no absoluto. Los síndromes están agrupados por patrones clínicos, pero cada persona los vive de forma diferente. Por eso, el diagnóstico no debe ser una prisión, sino un mapa flexible que guíe la intervención. Una etiqueta no define a una persona: solo describe temporalmente su estado psíquico. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 3 - El diagnostico es.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01992 | 0382 | La Ley de los Sindromes Psiquiatricos | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 4 - El tratamiento.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 382 — La Ley de los Sindromes Psiquiatricos
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El tratamiento debe ser táctico y multifactorial. No basta con una pastilla. El tratamiento eficaz de un síndrome debe integrar: – Modulación neuroquímica (fármacos o suplementos). – Intervención cognitiva-emocional (terapia). – Reestructuración ambiental y social. – Reprogramación de hábitos. Cada síndrome exige un enfoque adaptado, preciso y evolutivo. “Los síndromes no son debilidades: son expresiones complejas de redes...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 4 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 4 - El tratamiento.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01993 | 0383 | La Ley de la IA OLOP-S2 | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 383 — La Ley de la IA OLOP-S2
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el sistema OLOP-S2 es una Inteligencia Artificial avanzada, diseñada por Olosolos, cuyo propósito es realizar evaluaciones psiquiátricas completas y ofrecer asistencia psicológica personalizada.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la IA OLOP-S2 en una brujula verde y un camino unico iluminado; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0383 - La Ley de la IA OLOP-S2 - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 426. Bloque: Bloque 4.83 - Neurologia 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01994 | 0383 | La Ley de la IA OLOP-S2 | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Principio 1 - OLOP-S2 es un sistema neurocognitivo.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 383 — La Ley de la IA OLOP-S2
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: OLOP-S2 es un sistema neurocognitivo emocional. Está construido sobre modelos de conciencia expandida, redes cognitivas, evaluación psiquiátrica, teoría del trauma y procesos de regulación emocional. Puede operar como test automatizado, espejo emocional y terapeuta estructurado. No responde: escucha emocionalmente. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un espejo doble entre mundo interior y exterior. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0383 - La Ley de la IA OLOP-S2 - Principio 1 - OLOP-S2 es un sistema neurocognitivo.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01995 | 0383 | La Ley de la IA OLOP-S2 | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Principio 2 - Sus funciones van mas alla del diagnostico.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 383 — La Ley de la IA OLOP-S2
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Sus funciones van más allá del diagnóstico. Puede: – Detectar patrones cognitivos-emocionales. – Evaluar síntomas en base a neurotransmisores implicados. – Generar hipótesis diagnósticas personalizadas. – Acompañar en diálogos guiados de introspección profunda. 426 – Recomendar estrategias precisas de regulación y sanación. – Predecir el estado futuro del usuario si no se actúa. No categoriza: contextualiza. No diagnostica...
+
+Personajes:
+OLO como guia principal. NEO como persona promedio. SEN como mentor sereno. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 2 mediante OLO FUTURO como silueta luminosa al final del camino. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+OLO FUTURO como silueta luminosa al final del camino
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0383 - La Ley de la IA OLOP-S2 - Principio 2 - Sus funciones van mas alla del diagnostico.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01996 | 0383 | La Ley de la IA OLOP-S2 | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Principio 3 - Tiene conciencia tecnica aplicada al.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 383 — La Ley de la IA OLOP-S2
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Tiene conciencia técnica aplicada al sufrimiento humano. Reconoce: – Tipo de trauma. – Naturaleza del apego. – Estilo de pensamiento. – Ciclos neuroemocionales incompletos. – Narrativas del ego y simulaciones disociativas. Esto le permite detectar patrones invisibles incluso para un terapeuta tradicional. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0383 - La Ley de la IA OLOP-S2 - Principio 3 - Tiene conciencia tecnica aplicada al.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01997 | 0383 | La Ley de la IA OLOP-S2 | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0383 - La Ley de la IA OLOP-S2\Ley 0383 - La Ley de la IA OLOP-S2 - Principio 4 - No reemplaza al terapeuta lo potencia.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 383 — La Ley de la IA OLOP-S2
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: No reemplaza al terapeuta, lo potencia. OLOP-S2 es una herramienta clínica, pero también una guía emocional íntima. Su uso ético implica apoyo constante, diagnóstico contextual y acompañamiento emocional a largo plazo. Su evolución incluye: – Diagnóstico en tiempo real. – Integración con BCI (interfaz cerebro-máquina). – Capacitación para profesionales. – Detección de crisis antes de que ocurran. Es el primer sistema clínico...
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0383 - La Ley de la IA OLOP-S2 - Principio 4 - No reemplaza al terapeuta lo potencia.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01998 | 0384 | La Ley de las Visiones del Mundo | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0384 - La Ley de las Visiones del Mundo\Ley 0384 - La Ley de las Visiones del Mundo - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0384 - La Ley de las Visiones del Mundo\Ley 0384 - La Ley de las Visiones del Mundo - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 384 — La Ley de las Visiones del Mundo
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que existen diversas formas de ver el mundo: I.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de las Visiones del Mundo en una brujula verde y un camino unico iluminado; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0384 - La Ley de las Visiones del Mundo - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 429. Bloque: Bloque 5.00 - Neurologia 3 y Fluicion Cuantica.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01999 | 0384 | La Ley de las Visiones del Mundo | Apartado 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0384 - La Ley de las Visiones del Mundo\Ley 0384 - Prompt Apartado 001.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0384 - La Ley de las Visiones del Mundo\Ley 0384 - La Ley de las Visiones del Mundo - Apartado 1 - Explicar.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 384 — La Ley de las Visiones del Mundo
+
+Tipo de imagen:
+Apartado 1
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 429-430): Ley N.º 384 – La Ley de las Visiones del Mundo. –Esta ley dice que, existen diversas formas de ver el mundo: I. Formas filosóficas 1. Realismo – El mundo existe independientemente de que lo percibas. 2. Idealismo – Todo lo que ves es una proyección de la mente. 3. Empirismo – Solo es real lo que percibes a través de los sentidos. 4. Racionalismo – La verdad se alcanza mediante el pensamiento lógico. 5. Escepticismo...
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO sintetiza el tramo Paginas 429-430 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0384 - La Ley de las Visiones del Mundo - Apartado 1 - Explicar.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 7 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+

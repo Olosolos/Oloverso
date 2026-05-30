@@ -1,0 +1,465 @@
+﻿LOTE 0273 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-02720 | 0526 | La Ley del Favor Envenenado | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 526 — La Ley del Favor Envenenado
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que algunas personas hacen cosas por ti no para ayudarte, sino para crear una deuda emocional que luego usarán como moneda de control.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Favor Envenenado en un flujo ordenado de energia y recursos bajo control consciente; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un flujo ordenado de energia y recursos bajo control consciente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0526 - La Ley del Favor Envenenado - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 568. Bloque: Bloque 6.50 - Perfeccionador de Bloques 3.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02721 | 0526 | La Ley del Favor Envenenado | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Principio 1 - No todo lo que parece.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 526 — La Ley del Favor Envenenado
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: No todo lo que parece ayuda es altruismo. Hay quien te presta atención, favores o apoyo emocional, pero no por empatía. Lo hacen para sembrar algo en ti: una obligación invisible, una culpa futura o una sensación de que les debes algo. "Te ayudé… ¿y ahora me haces esto?" Boom. El veneno estaba dentro del regalo. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0526 - La Ley del Favor Envenenado - Principio 1 - No todo lo que parece.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02722 | 0526 | La Ley del Favor Envenenado | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Principio 2 - Como se reconoce un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 526 — La Ley del Favor Envenenado
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: ¿Cómo se reconoce un favor envenenado?– Se hace sin que tú lo pidas. – Se recuerda constantemente: “¿Te acuerdas cuando hice esto por ti?” – Se usa como escudo: “Yo he hecho mucho por ti.” – Viene con expectativas disfrazadas de bondad. – Si no agradeces como esperan, te castigan con decepción, culpa o distancia. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0526 - La Ley del Favor Envenenado - Principio 2 - Como se reconoce un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02723 | 0526 | La Ley del Favor Envenenado | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Principio 3 - La formula del control.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 526 — La Ley del Favor Envenenado
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: La fórmula del control. – Te ayudan. – Te lo hacen sentir como excepcional. – Esperan algo a cambio. – Tú no lo das. – Te culpan, te hacen sentir desagradecido, te debilitan emocionalmente. – Ya te controlan. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0526 - La Ley del Favor Envenenado - Principio 3 - La formula del control.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02724 | 0526 | La Ley del Favor Envenenado | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0526 - La Ley del Favor Envenenado\Ley 0526 - La Ley del Favor Envenenado - Principio 4 - Como desactivar el.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 526 — La Ley del Favor Envenenado
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Cómo desactivar el favor envenenado sin romper la relación (si es necesario). – Agradece con límites claros. “Gracias por ayudarme. No lo pedí, pero lo valoro.” – No devuelvas por presión. Devuelve por elección. Tu energía debe responder al presente, no a la deuda emocional. – Desactiva la culpa. Repite internamente: “Soy libre de agradecer sin ser poseído. Nadie me controla por lo que me dio.” – Si el chantaje es constante…...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 4 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0526 - La Ley del Favor Envenenado - Principio 4 - Como desactivar el.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02725 | 0527 | La Ley de la Victima Estrategica | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 527 — La Ley de la Victima Estrategica
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que algunas personas adoptan el rol de víctima no porque estén heridas, sino porque descubrieron que el victimismo da poder, excusa, atención y 569 control.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Víctima Estratégica en un circulo estable de control alrededor de OLO; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un circulo estable de control alrededor de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0527 - La Ley de la Victima Estrategica - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 569. Bloque: Bloque 6.50 - Perfeccionador de Bloques 3.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02726 | 0527 | La Ley de la Victima Estrategica | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Principio 1 - No toda.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 527 — La Ley de la Victima Estrategica
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: No toda víctima es inocente. Sí, existen personas que sufren de verdad. Pero también existen aquellas que usan el sufrimiento como herramienta de manipulación emocional. Lloran, se quiebran, se hacen los incomprendidos… pero en el fondo saben exactamente lo que están haciendo. Ser víctima otorga autoridad moral. Y desde ahí, pueden destruir sin ser juzgados. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0527 - La Ley de la Victima Estrategica - Principio 1 - No toda.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02727 | 0527 | La Ley de la Victima Estrategica | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Principio 2 - Como actua.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 527 — La Ley de la Victima Estrategica
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Cómo actúa una víctima estratégica. – Siempre hay un culpable externo. Nunca ellos. – Sus errores son “consecuencia de lo que les hicieron”. – Necesitan que los salves, pero nunca se dejan ayudar del todo. – Cuando te alejas, dicen que les abandonaste. – Si los enfrentas, te acusan de no tener corazón. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 2 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0527 - La Ley de la Victima Estrategica - Principio 2 - Como actua.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02728 | 0527 | La Ley de la Victima Estrategica | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Principio 3 - Por que.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 527 — La Ley de la Victima Estrategica
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: ¿Por qué funciona tan bien esta estrategia?– Porque activa tu culpa. – Porque parece noble preocuparte. – Porque socialmente está mal visto cuestionar a alguien que “está mal”. – Y porque los empáticos caen con más facilidad. (Sí, tú, el que siente todo... eres el objetivo favorito.) ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0527 - La Ley de la Victima Estrategica - Principio 3 - Por que.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02729 | 0527 | La Ley de la Victima Estrategica | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.50 - Perfeccionador de Bloques 3\Ley 0527 - La Ley de la Victima Estrategica\Ley 0527 - La Ley de la Victima Estrategica - Principio 4 - Como.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 527 — La Ley de la Victima Estrategica
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Cómo defenderte sin parecer insensible. – Valida sin ceder. “Entiendo que lo estés pasando mal, pero eso no justifica lo que estás haciendo.” – No asumas el rol de salvador. No puedes salvar a quien usa su dolor para mantenerse en el centro. – Observa si mejora… o si siempre vuelve al mismo punto. Una víctima real quiere avanzar. Una víctima estratégica necesita el problema para seguir teniendo control. – Di esto (con cariño...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0527 - La Ley de la Victima Estrategica - Principio 4 - Como.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

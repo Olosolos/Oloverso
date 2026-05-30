@@ -1,0 +1,465 @@
+﻿LOTE 0012 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-00110 | 0022 | La Ley de la Expectativa | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0022 - La Ley de la Expectativa\Ley 0022 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0022 - La Ley de la Expectativa\Ley 0022 - La Ley de la Expectativa - Principio 4 - El patron mental de los mas exitosos.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 22 — La Ley de la Expectativa
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El patrón mental de los más exitosos. Las personas con más éxito han desarrollado el hábito de esperar con confianza que les pasen cosas buenas, reforzando así un ciclo continuo de logros. "No obtienes lo que deseas: obtienes lo que esperas con todo tu ser."
+
+Personajes:
+OLO como guia principal. NEO como persona promedio. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0022 - La Ley de la Expectativa - Principio 4 - El patron mental de los mas exitosos.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00111 | 0023 | La Ley 3 6 9 | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 23 — La Ley 3 6 9
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que inventada por Nikola Tesla, dice que si usted piensa en un deseo y escribe sobre cómo lograrlo durante 3 veces por la mañana, 6 veces por la tarde y 9 veces por la noche, las posibilidades de encontrar la solución aumentan exponencialmente.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley 3/6/9 en un calendario minimalista conectado a escalones verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0023 - La Ley 3 6 9 - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 23. Bloque: Bloque 1.33 - Leyes Mentales.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00112 | 0023 | La Ley 3 6 9 | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Principio 1 - La manana fija la intencion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 23 — La Ley 3 6 9
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: La mañana fija la intención. Escribir 3 veces al despertar enfoca la mente en una dirección específica, programando el subconsciente desde el primer momento del día. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0023 - La Ley 3 6 9 - Principio 1 - La manana fija la intencion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00113 | 0023 | La Ley 3 6 9 | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Principio 2 - La tarde reafirma el compromiso.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 23 — La Ley 3 6 9
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La tarde reafirma el compromiso. Repetirlo 6 veces durante la tarde fortalece la conexión emocional con el objetivo y mantiene activa la atención consciente. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0023 - La Ley 3 6 9 - Principio 2 - La tarde reafirma el compromiso.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00114 | 0023 | La Ley 3 6 9 | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Principio 3 - La noche solidifica la visualizacion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 23 — La Ley 3 6 9
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: La noche solidifica la visualización. Escribirlo 9 veces antes de dormir crea una impresión profunda en la mente subconsciente, lo cual puede generar soluciones creativas incluso durante el sueño. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 3 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0023 - La Ley 3 6 9 - Principio 3 - La noche solidifica la visualizacion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00115 | 0023 | La Ley 3 6 9 | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0023 - La Ley 3 6 9\Ley 0023 - La Ley 3 6 9 - Principio 4 - El objetivo debe ser pequeno y alcanzable.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 23 — La Ley 3 6 9
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El objetivo debe ser pequeño y alcanzable. Esta técnica funciona mejor con metas específicas y realistas, no con 23 propósitos grandes o difusos que violen la Ley de la Acumulación. “El número no tiene poder por sí solo: lo tiene tu mente cuando se enfoca con intención repetida.”
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0023 - La Ley 3 6 9 - Principio 4 - El objetivo debe ser pequeno y alcanzable.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00116 | 0024 | La Ley de la Felicidad | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - La Ley de la Felicidad - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - La Ley de la Felicidad - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 24 — La Ley de la Felicidad
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que si usted sonríe un poco exageradamente, liberará endorfinas, hormonas de la felicidad que despejan el cerebro y ayudan a la relajación.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Felicidad en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0024 - La Ley de la Felicidad - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 24. Bloque: Bloque 1.33 - Leyes Mentales.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00117 | 0024 | La Ley de la Felicidad | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - La Ley de la Felicidad - Principio 1 - Activacion fisiologica de la felicidad.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 24 — La Ley de la Felicidad
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Activación fisiológica de la felicidad. La sonrisa, incluso si es forzada al principio, provoca una reacción química que eleva el estado de ánimo. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0024 - La Ley de la Felicidad - Principio 1 - Activacion fisiologica de la felicidad.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00118 | 0024 | La Ley de la Felicidad | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - La Ley de la Felicidad - Principio 2 - Conexion cuerpo-mente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 24 — La Ley de la Felicidad
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Conexión cuerpo-mente. La felicidad se puede activar desde el cuerpo, demostrando que la postura y los gestos pueden influir en las emociones. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0024 - La Ley de la Felicidad - Principio 2 - Conexion cuerpo-mente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-00119 | 0024 | La Ley de la Felicidad | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0024 - La Ley de la Felicidad\Ley 0024 - La Ley de la Felicidad - Principio 3 - Reduccion del estres.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 24 — La Ley de la Felicidad
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Reducción del estrés. Al liberar endorfinas, se reduce la tensión muscular y se mejora la oxigenación cerebral, favoreciendo la calma mental. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0024 - La Ley de la Felicidad - Principio 3 - Reduccion del estres.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+

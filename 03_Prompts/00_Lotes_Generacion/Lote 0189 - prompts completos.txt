@@ -1,0 +1,465 @@
+﻿LOTE 0189 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-01880 | 0369 | La Ley de las Ondas Cerebrales en el Campo | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0369 - La Ley de las Ondas Cerebrales en el Campo\Ley 0369 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0369 - La Ley de las Ondas Cerebrales en el Campo\Ley 0369 - La Ley de las Ondas Cerebrales en el Campo - Principio 4 - El.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 369 — La Ley de las Ondas Cerebrales en el Campo
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El dominio de tus frecuencias mentales es el dominio de tu destino. Ajustar tus ondas cerebrales es ajustar tu realidad. Quien domina sus frecuencias, domina su energía. Y quien domina su energía, gobierna su destino en todos los niveles: emocional, mental y cuántico. "Si quieres conectarte con los demás o con el universo de forma profunda, primero has de cuidar tu estado mental."
+
+Personajes:
+OLO como guia principal. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0369 - La Ley de las Ondas Cerebrales en el Campo - Principio 4 - El.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01881 | 0370 | La Ley del Estado Emocional en el Campo Cuantico | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - La Ley del Estado Emocional en el Campo - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 370 — La Ley del Estado Emocional en el Campo Cuantico
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el estado emocional que predomina en tu interior determina directamente la energía que emites y, por tanto, las experiencias que atraes a tu vida.
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Estado Emocional en el Campo Cuántico en un campo magnetico verde que ordena los elementos; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un campo magnetico verde que ordena los elementos
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0370 - La Ley del Estado Emocional en el Campo - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 304. Bloque: Bloque 4.79 - Neurologia.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01882 | 0370 | La Ley del Estado Emocional en el Campo Cuantico | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 1 - La.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 370 — La Ley del Estado Emocional en el Campo Cuantico
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: La emoción como frecuencia vibratoria determinante. Si tu emoción predominante es negativa —tristeza, miedo, ira o desesperanza—, estarás colapsando las probabilidades positivas del campo cuántico. Tu vibración cierra caminos y te lleva a repetir experiencias similares. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. SEN como mentor sereno.
+
+Escena:
+OLO explica el principio 1 mediante UMBRA como sombra psicologica reducida por la luz de OLO. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+UMBRA como sombra psicologica reducida por la luz de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 1 - La.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01883 | 0370 | La Ley del Estado Emocional en el Campo Cuantico | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 2 - Las.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 370 — La Ley del Estado Emocional en el Campo Cuantico
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Las emociones elevadas como catalizadoras de destino. Cuando cultivas alegría, gratitud, amor o serenidad, tu energía se eleva y tus partículas se reordenan. Entonces, el campo cuántico responde abriendo rutas nuevas, inesperadas y favorables. ●
+
+Personajes:
+OLO como guia principal. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 2 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 2 - Las.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01884 | 0370 | La Ley del Estado Emocional en el Campo Cuantico | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 3.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 370 — La Ley del Estado Emocional en el Campo Cuantico
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Repetir una emoción es reforzar tu identidad. Cada vez que repites una emoción, fortaleces un circuito neuronal. Ese circuito moldea tu carácter, tus decisiones y el tipo de realidad que terminas viviendo. No es casualidad: es retroalimentación cuántica emocional. 304 ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 3.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01885 | 0370 | La Ley del Estado Emocional en el Campo Cuantico | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0370 - La Ley del Estado Emocional en el Campo Cuantico\Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 4 - La.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 370 — La Ley del Estado Emocional en el Campo Cuantico
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: La causa emocional como origen de los efectos externos. La mayoría de cosas que te ocurren no son suerte ni azar, sino efectos que provienen de tu energía interna. Si cambias tu frecuencia, cambias lo que atraes. Lo que sientes… se manifiesta. "Para atraer mejores circunstancias, primero debes convertirte en una mejor frecuencia."
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0370 - La Ley del Estado Emocional en el Campo - Principio 4 - La.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01886 | 0371 | La Ley de Hebb | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - La Ley de Hebb - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - La Ley de Hebb - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 371 — La Ley de Hebb
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que “las neuronas que se activan juntas, se conectan juntas.” Es decir, si dos neuronas se activan simultáneamente de forma repetida, se fortalecen sus conexiones sinápticas, lo que crea una vía neuronal más rápida, estable y automática.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de Hebb en un mapa mental oscuro activado por nodos verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0371 - La Ley de Hebb - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 305. Bloque: Bloque 4.79 - Neurologia.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01887 | 0371 | La Ley de Hebb | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - La Ley de Hebb - Principio 1 - La repeticion como arquitecta del cerebro.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 371 — La Ley de Hebb
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: La repetición como arquitecta del cerebro. Cada pensamiento, emoción o conducta que repites moldea físicamente la estructura de tu cerebro. Si todos los días piensas igual, sientes igual y actúas igual, tu mente se convierte en un circuito cerrado de reacciones automáticas. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0371 - La Ley de Hebb - Principio 1 - La repeticion como arquitecta del cerebro.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01888 | 0371 | La Ley de Hebb | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - La Ley de Hebb - Principio 2 - Del entorno al habito la trampa invisible.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 371 — La Ley de Hebb
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Del entorno al hábito — la trampa invisible. Con el tiempo, lo que fue una elección se convierte en una reacción. Tu entorno moldea tu mente, y tu mente se convierte en una réplica inconsciente de ese entorno. Tu hábitat se transforma en tu hábito. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0371 - La Ley de Hebb - Principio 2 - Del entorno al habito la trampa invisible.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01889 | 0371 | La Ley de Hebb | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.79 - Neurologia\Ley 0371 - La Ley de Hebb\Ley 0371 - La Ley de Hebb - Principio 3 - La necesidad de romper el circuito.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 371 — La Ley de Hebb
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: La necesidad de romper el circuito automático. Si no cambias tus pensamientos, no cambiarás tu mente. Y si no cambias tu mente, nunca cambiarás tu realidad. Cambiar tu cerebro es posible, pero exige repetición consciente. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0371 - La Ley de Hebb - Principio 3 - La necesidad de romper el circuito.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+

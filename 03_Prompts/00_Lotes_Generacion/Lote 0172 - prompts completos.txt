@@ -1,0 +1,465 @@
+﻿LOTE 0172 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-01710 | 0336 | La Ley del Ecosistema Fisico-Emocional de | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0336 - La Ley del Ecosistema Fisico-Emocional de\Ley 0336 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0336 - La Ley del Ecosistema Fisico-Emocional de\Ley 0336 - La Ley del Ecosistema Fisico-Emocional de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 336 — La Ley del Ecosistema Fisico-Emocional de
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: La evolución de patrones mentales por entorno. El entorno puede ser diseñado para desmantelar patrones negativos o sembrar nuevas ideas, que crecerán hasta sentirse naturales con el paso del tiempo, como parte del ecosistema interno. "No necesitas convencer. Solo tienes que alterar el clima mental."
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0336 - La Ley del Ecosistema Fisico-Emocional de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01711 | 0337 | La Ley de la Reconexion Trascendental por | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - La Ley de la Reconexion Trascendental por.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 337 — La Ley de la Reconexion Trascendental por
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que dos individuos pueden acceder a una conexión emocional profunda cuando comparten un mismo contexto emocional significativo, lo cual actúa como un espejo que refleja sus pensamientos, emociones y necesidades sin que sean conscientes del proceso.
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Reconexión Trascendental por Reflejo Contextual en un espejo doble entre mundo interior y exterior; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0337 - La Ley de la Reconexion Trascendental por.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 274. Bloque: Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01712 | 0337 | La Ley de la Reconexion Trascendental por | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - La Ley de la Reconexion Trascendental por.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 337 — La Ley de la Reconexion Trascendental por
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El contexto como catalizador emocional. La sincronía no nace del esfuerzo, sino del ambiente compartido. Cuando dos personas están en la misma frecuencia emocional, sus sistemas se reflejan automáticamente: gestos, tono, ritmo… todo se alinea sin forzarlo. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante un espejo doble entre mundo interior y exterior. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0337 - La Ley de la Reconexion Trascendental por.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01713 | 0337 | La Ley de la Reconexion Trascendental por | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - La Ley de la Reconexion Trascendental por.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 337 — La Ley de la Reconexion Trascendental por
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El reflejo implícito de estados internos. Durante este fenómeno, las emociones de uno activan zonas internas del otro, creando un campo de resonancia emocional. No es imitación: es transmisión subconsciente. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0337 - La Ley de la Reconexion Trascendental por.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01714 | 0337 | La Ley de la Reconexion Trascendental por | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - La Ley de la Reconexion Trascendental por.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 337 — La Ley de la Reconexion Trascendental por
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: La apertura de zonas profundas del ser. Al compartir el mismo clima emocional, ambos acceden a zonas ocultas de su mente y memoria, que normalmente estarían selladas. Esto permite que afloren decisiones, recuerdos, o emociones enterradas. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 3 mediante un espejo doble entre mundo interior y exterior. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0337 - La Ley de la Reconexion Trascendental por.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01715 | 0337 | La Ley de la Reconexion Trascendental por | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0337 - La Ley de la Reconexion Trascendental por\Ley 0337 - La Ley de la Reconexion Trascendental por.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 337 — La Ley de la Reconexion Trascendental por
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: La aplicación terapéutica y vincular. Esta ley es clave en terapia, amistad o amor profundo. Cuando se activa, las máscaras caen y emerge el yo real, permitiendo catarsis, confesiones, o reconexiones intensas. "Cuando dos almas comparten contexto, las máscaras se caen solas."
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0337 - La Ley de la Reconexion Trascendental por.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01716 | 0338 | La Ley de la Transferencia de Umbrales Cognitivos | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - La Ley de la Transferencia de Umbrales.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 338 — La Ley de la Transferencia de Umbrales Cognitivos
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que puedes conectar profundamente con una persona al identificar y cruzar sus umbrales cognitivos: puntos críticos donde sus creencias, emociones o percepciones cambian significativamente debido a estímulos externos específicos.
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Transferencia de Umbrales Cognitivos en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0338 - La Ley de la Transferencia de Umbrales.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 275. Bloque: Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01717 | 0338 | La Ley de la Transferencia de Umbrales Cognitivos | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - La Ley de la Transferencia de Umbrales.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 338 — La Ley de la Transferencia de Umbrales Cognitivos
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: La detección del umbral emocional. Los umbrales se reconocen por señales sutiles: cambios en el tono de voz, pausas largas, contradicciones internas, dudas intensas o gestos como mirar hacia abajo, respirar más lento o apretar las manos. Son puertas que se abren por segundos. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0338 - La Ley de la Transferencia de Umbrales.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01718 | 0338 | La Ley de la Transferencia de Umbrales Cognitivos | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - La Ley de la Transferencia de Umbrales.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 338 — La Ley de la Transferencia de Umbrales Cognitivos
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El momento de intervenir estratégicamente. Cuando detectas un umbral, debes introducir un estímulo significativo: una 275 pregunta provocadora, una frase con peso emocional, una historia simbólica o una visión de futuro. La clave es tocar la fibra adecuada en el instante preciso. ●
+
+Personajes:
+OLO como guia principal. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0338 - La Ley de la Transferencia de Umbrales.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01719 | 0338 | La Ley de la Transferencia de Umbrales Cognitivos | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2\Ley 0338 - La Ley de la Transferencia de Umbrales Cognitivos\Ley 0338 - La Ley de la Transferencia de Umbrales.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 338 — La Ley de la Transferencia de Umbrales Cognitivos
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El cruce que reestructura la mente. Una vez que la persona cruza el umbral, su percepción ya no es la misma. Si tú estás presente con una narrativa clara y poderosa, se agarrará a ella como punto de reconstrucción emocional o cognitiva. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0338 - La Ley de la Transferencia de Umbrales.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+

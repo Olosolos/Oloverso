@@ -1,0 +1,465 @@
+﻿LOTE 0257 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-02560 | 0494 | La Ley del Agua | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 494 — La Ley del Agua
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que beber agua durante una conversación o exposición no solo cuida tu voz, sino que fortalece tu presencia, tu autoridad y tu claridad mental, siendo una herramienta estratégica tanto fisiológica como psicológica.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Agua en un simbolo central simple: camino, puerta y nucleo energetico del Oloverso; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0494 - La Ley del Agua - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 538. Bloque: Bloque 6.00 - Perfeccionador de Bloques 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02561 | 0494 | La Ley del Agua | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Principio 1 - Hidratar es preservar tu instrumento.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 494 — La Ley del Agua
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Hidratar es preservar tu instrumento principal. Al hablar mucho, las cuerdas vocales se resecan y pierden elasticidad, lo que puede generar voz ronca, fatiga vocal o pérdida de autoridad. Beber agua a intervalos regulares mantiene la voz firme, clara y resistente. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0494 - La Ley del Agua - Principio 1 - Hidratar es preservar tu instrumento.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02562 | 0494 | La Ley del Agua | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Principio 2 - La forma correcta importa.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 494 — La Ley del Agua
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La forma correcta importa. No esperes a tener sed. Bebe pequeñas cantidades de agua cada 5–10 minutos si la exposición es prolongada. El agua debe estar a temperatura ambiente o tibia. Evita líquidos fríos, azucarados o con cafeína, ya que alteran la voz y el sistema nervioso. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0494 - La Ley del Agua - Principio 2 - La forma correcta importa.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02563 | 0494 | La Ley del Agua | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Principio 3 - Hidratar transmite control emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 494 — La Ley del Agua
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Hidratar transmite control emocional. Beber agua con naturalidad durante una conversación comunica calma, autocuidado y reflexión, lo que genera una percepción de seguridad emocional en el entorno. Incluso una simple pausa para beber puede reforzar tu autoridad. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante un circulo estable de control alrededor de OLO. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un circulo estable de control alrededor de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0494 - La Ley del Agua - Principio 3 - Hidratar transmite control emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02564 | 0494 | La Ley del Agua | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0494 - La Ley del Agua\Ley 0494 - La Ley del Agua - Principio 4 - Estrategia comunicativa silenciosa.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 494 — La Ley del Agua
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Estrategia comunicativa silenciosa. El gesto de beber puede usarse como herramienta retórica: una pausa antes de una respuesta tensa, un momento de respiro en un conflicto o una forma elegante de pensar sin romper la dinámica del diálogo. 538 “Quien sabe cuándo beber, sabe cuándo dominar.”
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 4 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0494 - La Ley del Agua - Principio 4 - Estrategia comunicativa silenciosa.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02565 | 0495 | La Ley del Dolor | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 495 — La Ley del Dolor
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el dolor no es solo una experiencia física, sino una percepción mental amplificada por el foco de atención, lo que significa que puede regularse, disminuirse o incluso disolverse mediante estrategias psicológicas y emocionales.
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Dolor en un simbolo central simple: camino, puerta y nucleo energetico del Oloverso; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0495 - La Ley del Dolor - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 539. Bloque: Bloque 6.00 - Perfeccionador de Bloques 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02566 | 0495 | La Ley del Dolor | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Principio 1 - El foco mental intensifica la percepcion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 495 — La Ley del Dolor
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El foco mental intensifica la percepción. Cuando te concentras en el dolor —ya sea una herida, una molestia o una emoción negativa—, el sistema nervioso aumenta la señal enviada al cerebro. Pero si desvías la atención, esa misma señal pierde fuerza, y el dolor disminuye. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0495 - La Ley del Dolor - Principio 1 - El foco mental intensifica la percepcion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02567 | 0495 | La Ley del Dolor | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Principio 2 - El dolor emocional responde al mismo patron.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 495 — La Ley del Dolor
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El dolor emocional responde al mismo patrón. El sufrimiento no siempre está en lo que ocurre, sino en cómo lo piensas. Quien revive una traición amorosa una y otra vez sufrirá más que quien la resignifica o se enfoca en otras áreas de su vida. La obsesión intensifica. La comprensión libera. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0495 - La Ley del Dolor - Principio 2 - El dolor emocional responde al mismo patron.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02568 | 0495 | La Ley del Dolor | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Principio 3 - El dolor puede modularse con tecnicas.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 495 — La Ley del Dolor
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El dolor puede modularse con técnicas mentales. Usar distracción cognitiva, respiración consciente o visualización cuántica permite al cerebro reducir la intensidad de la señal. Además, cambiar la creencia de “esto me destruye” por “esto me informa” transforma radicalmente la experiencia. ●
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0495 - La Ley del Dolor - Principio 3 - El dolor puede modularse con tecnicas.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02569 | 0495 | La Ley del Dolor | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0495 - La Ley del Dolor\Ley 0495 - La Ley del Dolor - Principio 4 - El umbral del dolor es moldeable.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 495 — La Ley del Dolor
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El umbral del dolor es moldeable. Personas que practican meditación, artes marciales o resistencia psicológica desarrollan una capacidad entrenada para tolerar el dolor, no porque el dolor desaparezca, sino porque han aprendido a no amplificarlo con la mente. “El cuerpo siente… pero la mente decide cuánto.”
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 4 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0495 - La Ley del Dolor - Principio 4 - El umbral del dolor es moldeable.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

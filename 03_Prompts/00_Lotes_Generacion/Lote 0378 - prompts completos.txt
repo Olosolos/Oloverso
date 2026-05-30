@@ -1,0 +1,465 @@
+﻿LOTE 0378 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-03770 | 0654 | La Ley del Modo Mental de 5 Capas | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0654 - La Ley del Modo Mental de 5 Capas\Ley 0654 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0654 - La Ley del Modo Mental de 5 Capas\Ley 0654 - La Ley del Modo Mental de 5 Capas - Principio 4 - Usa.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 654 — La Ley del Modo Mental de 5 Capas
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Usa el modo 5 capas antes y durante situaciones de presión. Antes de una conversación, decisión, texto o acción: respira, activa tu gesto o símbolo y piensa: “No soy reacción. Soy estructura.” Y en medio del caos: gesto → activación → entrada en 5 capas → dominio interno. “Activa tu estructura… y dominarás tu estado sin esfuerzo.”
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 4 mediante un circulo estable de control alrededor de OLO. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un circulo estable de control alrededor de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0654 - La Ley del Modo Mental de 5 Capas - Principio 4 - Usa.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03771 | 0655 | La Ley del Escaneo Ocular Horizontal de Presion | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 655 — La Ley del Escaneo Ocular Horizontal de Presion
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que mover los ojos de izquierda a derecha rápidamente y de forma repetitiva cuando se piensa bajo presión es una estrategia natural del cerebro para estimular ambos hemisferios cerebrales, sincronizar la información entre lógica e intuición, y desbloquear la resolución de problemas complejos.
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Escaneo Ocular Horizontal de Presión en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 911. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03772 | 0655 | La Ley del Escaneo Ocular Horizontal de Presion | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 655 — La Ley del Escaneo Ocular Horizontal de Presion
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: ¿Por qué se activa este escaneo horizontal?Cuando piensas bajo presión, el cerebro aumenta la actividad en el hemisferio izquierdo (lógica, cálculo, lenguaje) y también en el derecho (visualización, intuición, contexto emocional). Pero normalmente, esos dos sistemas no se comunican bien en tiempo real. El escaneo ocular de izquierda a derecha (y vuelta) fuerza esa conexión, como si fueran pases rápidos de pelota entre dos...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03773 | 0655 | La Ley del Escaneo Ocular Horizontal de Presion | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 655 — La Ley del Escaneo Ocular Horizontal de Presion
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: ¿Qué logra este movimiento?Aumenta la claridad mental en situaciones caóticas. Estimula la creatividad lógica (pensar con estructura y visión). Ayuda a conectar ideas que están separadas. Reduce la carga emocional, porque el cerebro deja de estar dominado por un solo hemisferio. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03774 | 0655 | La Ley del Escaneo Ocular Horizontal de Presion | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 655 — La Ley del Escaneo Ocular Horizontal de Presion
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Actívalo cuando estés bloqueado pensando. Mueve tus ojos lateralmente (de izquierda a derecha) durante 10–20 segundos, a velocidad media. Hazlo sin mover la cabeza. Solo los ojos, como si escanearas una pantalla invisible frente a ti. 911 Esto activa ambos hemisferios y mejora la conectividad entre ellos. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03775 | 0655 | La Ley del Escaneo Ocular Horizontal de Presion | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0655 - La Ley del Escaneo Ocular Horizontal de Presion\Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 655 — La Ley del Escaneo Ocular Horizontal de Presion
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Úsalo como ritual de acceso al “modo genio”. Haz este escaneo rápido cada vez que te enfrentes a un problema de alto nivel, para entrenar a tu cerebro a vincular este movimiento con rendimiento intelectual elevado. Con el tiempo, basta con comenzar el escaneo… y tu mente entra automáticamente en modo resolución. “Mover los ojos como una interfaz… sincroniza el cerebro como una máquina perfecta.”
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0655 - La Ley del Escaneo Ocular Horizontal de.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03776 | 0656 | La Ley del Dominio Hemisferico Consciente | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 656 — La Ley del Dominio Hemisferico Consciente
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que en cada momento de tu vida, uno de tus dos hemisferios cerebrales está liderando tu pensamiento: el izquierdo (lógico, verbal, analítico) o el derecho (emocional, creativo, intuitivo).
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Dominio Hemisférico Consciente en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 912. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03777 | 0656 | La Ley del Dominio Hemisferico Consciente | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 656 — La Ley del Dominio Hemisferico Consciente
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Cómo detectar en tiempo real qué hemisferio estás usando Dominancia hemisférica izquierda (lógica): Señales mentales: • Piensas en palabras, frases, explicaciones • Buscas reglas, causas, pasos • Te enfocas en el detalle, no en la totalidad • Necesitas que todo tenga sentido • Te bloquea el caos o la ambigüedad Señales físicas: • Mirada más fija o hacia la izquierda • Tensión en mandíbula o cejas • Postura más rígida...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03778 | 0656 | La Ley del Dominio Hemisferico Consciente | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 656 — La Ley del Dominio Hemisferico Consciente
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Usa el cuerpo como palanca para equilibrarlos. Si estás demasiado lógico: dibuja, escucha música sin letra, respira lento. Si estás demasiado emocional: escribe paso a paso lo que ocurre, haz una lista, verbaliza el problema. Lo físico reequilibra lo mental. Siempre. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03779 | 0656 | La Ley del Dominio Hemisferico Consciente | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0656 - La Ley del Dominio Hemisferico Consciente\Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 656 — La Ley del Dominio Hemisferico Consciente
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Activa el escaneo ocular bilateral (Ley 655). Mueve los ojos de lado a lado durante 15 segundos. Esto estimula ambos hemisferios y los obliga a colaborar. Es una técnica sencilla para restaurar la simetría mental en segundos. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0656 - La Ley del Dominio Hemisferico Consciente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+

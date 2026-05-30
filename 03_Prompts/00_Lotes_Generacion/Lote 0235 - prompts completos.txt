@@ -1,0 +1,465 @@
+﻿LOTE 0235 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-02340 | 0451 | La Ley del Patron de los Chistes | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 451 — La Ley del Patron de los Chistes
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que para que un chiste funcione, debe seguir una estructura precisa basada en la expectativa y su ruptura repentina.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Patrón de los Chistes en ondas verdes y amarillas saliendo del nucleo del Oloverso; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0451 - La Ley del Patron de los Chistes - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 503. Bloque: Bloque 6.00 - Perfeccionador de Bloques 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02341 | 0451 | La Ley del Patron de los Chistes | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Principio 1 - Todo buen.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 451 — La Ley del Patron de los Chistes
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Todo buen chiste se basa en una secuencia lógica. El inicio del chiste establece una lógica comprensible. El oyente baja la guardia, se relaja y cree que sabe hacia dónde va la historia. Esa sensación de previsibilidad es esencial para que luego haya sorpresa. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0451 - La Ley del Patron de los Chistes - Principio 1 - Todo buen.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02342 | 0451 | La Ley del Patron de los Chistes | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Principio 2 - La ruptura.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 451 — La Ley del Patron de los Chistes
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La ruptura es el alma del humor. El giro final rompe con la lógica previa mediante lo absurdo, lo irónico o lo inesperado. Ejemplo: “El otro día invité a todos mis vecinos a casa por Acción de Gracias… y luego los maté y me quedé con sus tierras.” La risa es una descarga emocional ante lo inesperado que no representa peligro. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 2 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0451 - La Ley del Patron de los Chistes - Principio 2 - La ruptura.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02343 | 0451 | La Ley del Patron de los Chistes | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Principio 3 - El contraste.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 451 — La Ley del Patron de los Chistes
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El contraste amplifica el impacto. Todo chiste eficaz juega con contrastes: lo dulce y lo macabro, lo lógico y lo ilógico, lo inocente y lo perverso. Sin contraste, no hay humor: solo narración neutra. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0451 - La Ley del Patron de los Chistes - Principio 3 - El contraste.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02344 | 0451 | La Ley del Patron de los Chistes | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0451 - La Ley del Patron de los Chistes\Ley 0451 - La Ley del Patron de los Chistes - Principio 4 - El ritmo y.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 451 — La Ley del Patron de los Chistes
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El ritmo y la pausa son herramientas clave. Un buen chiste se mide como una canción: El planteamiento debe tener cadencia. El remate debe ser seco, directo y contundente. Un mal ritmo puede arruinar incluso la mejor idea. “El humor bien estructurado no solo entretiene: revela inteligencia, rompe tensiones y crea carisma inmediato.”
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0451 - La Ley del Patron de los Chistes - Principio 4 - El ritmo y.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02345 | 0452 | La Ley de la Ropa Negra | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 452 — La Ley de la Ropa Negra
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que cuando estés dando una presentación, exposición o charla en público, lo mejor es usar ropa negra o de colores oscuros, ya que ocultan el sudor, reducen la distracción visual y transmiten una presencia más firme, segura y elegante.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Ropa Negra en un simbolo central simple: camino, puerta y nucleo energetico del Oloverso; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0452 - La Ley de la Ropa Negra - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 503. Bloque: Bloque 6.00 - Perfeccionador de Bloques 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02346 | 0452 | La Ley de la Ropa Negra | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Principio 1 - El sudor no debe restarte.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 452 — La Ley de la Ropa Negra
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El sudor no debe restarte autoridad escénica. Al hablar en público, es normal sudar, pero si llevas ropa clara, el sudor se notará fácilmente en axilas, pecho o espalda. Esto puede provocar inseguridad en ti, distracción en el público y pérdida de autoridad visual. La ropa negra actúa como “ocultador de inseguridades físicas”, permitiéndote centrarte en lo que realmente importa: tu mensaje. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0452 - La Ley de la Ropa Negra - Principio 1 - El sudor no debe restarte.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02347 | 0452 | La Ley de la Ropa Negra | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Principio 2 - La ropa debe ser funcional y.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 452 — La Ley de la Ropa Negra
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La ropa debe ser funcional y estética a la vez. No basta con ponerse algo negro: debe quedarte bien, permitirte moverte cómodamente y representar tu personalidad. Un jersey o camisa sin estampados, pantalones oscuros sin arrugas y zapatos cuidados refuerzan tu presencia sin esfuerzo. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0452 - La Ley de la Ropa Negra - Principio 2 - La ropa debe ser funcional y.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02348 | 0452 | La Ley de la Ropa Negra | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Principio 3 - Nada debe bloquear tu.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 452 — La Ley de la Ropa Negra
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Nada debe bloquear tu expresión corporal. Evita prendas que oculten tu rostro, tus manos o tu postura. No uses capuchas, gorros o gafas de sol, ni chaquetas innecesarias. Tu lenguaje corporal es una parte esencial de tu comunicación emocional. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0452 - La Ley de la Ropa Negra - Principio 3 - Nada debe bloquear tu.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02349 | 0452 | La Ley de la Ropa Negra | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0452 - La Ley de la Ropa Negra\Ley 0452 - La Ley de la Ropa Negra - Principio 4 - El negro proyecta poder.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 452 — La Ley de la Ropa Negra
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El negro proyecta poder silencioso. Este color transmite autoridad, profesionalismo, sobriedad y foco. Psicológicamente, desvía la atención de tu ropa hacia tus palabras, creando una atmósfera de respeto inmediato. “Tu presentación empieza desde el primer segundo en que te ven: que tu ropa diga lo que tú aún no has dicho.”
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0452 - La Ley de la Ropa Negra - Principio 4 - El negro proyecta poder.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

@@ -1,0 +1,465 @@
+﻿LOTE 0326 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-03250 | 0561 | La Ley de la Acupresion | Apartado 354
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 354.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 354 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 354
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 354: CV5 – Shimen (Puerta de la Piedra)": ● Ubicación: 2 cun por debajo del ombligo, en la línea media. ● Cómo presionarlo: Usa tres dedos para presionar hacia dentro y abajo. ● Beneficios: ○ Regula la energía reproductiva emocional ○ Libera la presión por represión emocional pélvica ○ Estimula la autosanación sexual consciente ○ Ideal para trabajar confianza y límites íntimos 786 ○ Potente en meditaciones de purificación del vientre
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 354: CV5 – Shimen (Puerta de la Piedra)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central ondas verdes y amarillas saliendo del nucleo del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 354 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 354: CV5 – Shimen (Puerta de la Piedra).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03251 | 0561 | La Ley de la Acupresion | Apartado 355
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 355.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 355 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 355
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 355: GB35 – Yangjiao (Intersección del Yang Exterior)": ● Ubicación: A 7 cun por encima del maléolo lateral, parte externa de la pierna. ● Cómo presionarlo: Presiona con el pulgar hacia el peroné. ● Beneficios: ○ Potente para tomar acción sin dudar ○ Estimula el paso emocional limpio hacia el cambio ○ Refuerza la decisión alineada con el corazón ○ Ideal en transiciones de vida importantes ○ Ayuda a dejar atrás relaciones, lugares o ciclos sin dolor
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 355: GB35 – Yangjiao (Intersección del Yang Exterior)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un simbolo central simple: camino, puerta y nucleo energetico del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 355 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 355: GB35 – Yangjiao (Intersección del Yang Exterior).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03252 | 0561 | La Ley de la Acupresion | Apartado 356
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 356.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 356 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 356
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 356: BL54 – Zhibian (Margen del Poder)": ● Ubicación: En la zona glútea, lateral al agujero sacro más externo (S4). ● Cómo presionarlo: Usa pelota o presión intensa mientras estás tumbado boca arriba con rodillas dobladas. ● Beneficios: ○ Libera memorias relacionadas con control, poder o sumisión ○ Estimula la reconexión con tu instinto territorial ○ Potente para recuperar el sentido de “merecer espacio” ○ Ideal para personas que han cedido demasiado en...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO representa el apartado "Punto 356: BL54 – Zhibian (Margen del Poder)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un circulo estable de control alrededor de OLO y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un circulo estable de control alrededor de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 356 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 356: BL54 – Zhibian (Margen del Poder).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03253 | 0561 | La Ley de la Acupresion | Apartado 357
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 357.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 357 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 357
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 357: TW10 – Tianjing (Pozo del Cielo)": ● Ubicación: En la depresión al lado del olécranon (codo), parte posterior del brazo. ● Cómo presionarlo: Aplica presión con el dedo pulgar, doblando ligeramente el codo. ● Beneficios: ○ Libera acumulación emocional en los canales de expresión ○ Estimula la claridad verbal desde la emoción ○ Potente para expresar lo que se ha callado durante años ○ Ideal para iniciar conversaciones difíciles con serenidad ○ Ayuda a...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO representa el apartado "Punto 357: TW10 – Tianjing (Pozo del Cielo)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un mapa mental oscuro activado por nodos verdes y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 357 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 357: TW10 – Tianjing (Pozo del Cielo).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03254 | 0561 | La Ley de la Acupresion | Apartado 358
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 358.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 358 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 358
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 358: BL55 – Heyang (Conexión del Yang Interno)": ● Ubicación: A 2 cun por debajo de BL40, en la línea media posterior de la pierna. ● Cómo presionarlo: Usa nudillos o presión con la mano hacia el centro del músculo gemelo. ● Beneficios: ○ Libera miedo a avanzar con determinación ○ Potente para desbloquear energía de las piernas cuando hay confusión vital ○ Estimula la voluntad interna sin presión ○ Ideal para reconectar con tu camino después de un colapso ○...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 358: BL55 – Heyang (Conexión del Yang Interno)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central UMBRA como sombra psicologica reducida por la luz de OLO y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+UMBRA como sombra psicologica reducida por la luz de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 358 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 358: BL55 – Heyang (Conexión del Yang Interno).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03255 | 0561 | La Ley de la Acupresion | Apartado 359
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 359.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 359 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 359
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 359: CV4 – Guanyuan (Fuente del Origen)": ● Ubicación: 3 cun por debajo del ombligo, línea media. ● Cómo presionarlo: Presiona con la palma entera o tres dedos. Respiración descendente. ● Beneficios: ○ Potente punto de longevidad emocional ○ Reactiva la energía primaria desde la esencia ○ Libera fatiga por agotamiento emocional crónico ○ Estimula la autosanación profunda ○ Excelente para rituales de reconexión contigo mismo
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 359: CV4 – Guanyuan (Fuente del Origen)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central ondas verdes y amarillas saliendo del nucleo del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 359 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 359: CV4 – Guanyuan (Fuente del Origen).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03256 | 0561 | La Ley de la Acupresion | Apartado 360
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 360.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 360 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 360
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 360: ST31 – Biguan (Puerta del Muslo)": ● Ubicación: En la raíz del muslo, línea entre la espina ilíaca anterosuperior y la parte superior de la rótula. ● Cómo presionarlo: Presiona con nudillos en dirección descendente. ● Beneficios: ○ Libera estancamiento energético en el movimiento físico-emocional ○ Estimula la circulación emocional hacia las extremidades ○ Potente para personas que “están pero no se mueven” ○ Ideal en procesos de cambio vital...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO representa el apartado "Punto 360: ST31 – Biguan (Puerta del Muslo)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un simbolo central simple: camino, puerta y nucleo energetico del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 360 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 360: ST31 – Biguan (Puerta del Muslo).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03257 | 0561 | La Ley de la Acupresion | Apartado 361
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 361.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 361 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 361
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 361: GB27 – Wushu (Quinta Residencia)": 789 ● Ubicación: Justo anterior a la espina ilíaca anterosuperior, cerca del borde de la pelvis. ● Cómo presionarlo: Aplica presión con el índice y el medio, acostado boca arriba, con respiración abdominal profunda. ● Beneficios: ○ Potente para armonizar la energía de la pelvis con la parte superior del cuerpo ○ Libera la tensión de decisiones no tomadas ○ Ideal para procesos de integración sexual–emocional ○...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 361: GB27 – Wushu (Quinta Residencia)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central ondas verdes y amarillas saliendo del nucleo del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 361 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 361: GB27 – Wushu (Quinta Residencia).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03258 | 0561 | La Ley de la Acupresion | Apartado 362
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 362.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 362 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 362
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 362: BL56 – Chengjin (Soporte del Músculo)": ● Ubicación: En el centro de la pantorrilla, 5 cun por debajo de BL40. ● Cómo presionarlo: Presiona hacia el músculo profundo con nudillos. Mantén la presión mientras respiras hacia las piernas. ● Beneficios: ○ Libera sobrecarga energética acumulada por responsabilidades ○ Estimula la recuperación de fuerza vital ○ Potente para personas que viven en modo “aguantar” ○ Ayuda a reconectar con la firmeza sin rigidez ○...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO representa el apartado "Punto 362: BL56 – Chengjin (Soporte del Músculo)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un simbolo central simple: camino, puerta y nucleo energetico del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 362 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 362: BL56 – Chengjin (Soporte del Músculo).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03259 | 0561 | La Ley de la Acupresion | Apartado 363
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 363.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 363 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 363
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 363: CV3 – Zhongji (Centro del Polo Inferior)": ● Ubicación: 4 cun por debajo del ombligo, línea media. ● Cómo presionarlo: Aplica presión suave con los dedos índice y medio. Respiración descendente. ● Beneficios: ○ Estimula la energía sexual–emocional con pureza ○ Libera patrones de culpa o vergüenza en la zona pélvica ○ Ideal para restaurar el vínculo cuerpo–placer consciente ○ Potente para desbloquear centros creativos dormidos ○ Reconecta con el poder de...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 363: CV3 – Zhongji (Centro del Polo Inferior)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central una semilla luminosa que une mente y realidad y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 363 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 363: CV3 – Zhongji (Centro del Polo Inferior).
+
+--- FIN DEL ITEM ---
+

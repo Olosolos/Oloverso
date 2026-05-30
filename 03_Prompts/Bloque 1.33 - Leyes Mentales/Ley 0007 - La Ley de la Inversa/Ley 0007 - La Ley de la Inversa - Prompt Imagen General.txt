@@ -1,0 +1,35 @@
+﻿Ley:
+Ley N.º 7 — La Ley de la Inversa
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Mostrar que pensar, sentir y actuar como si el objetivo ya estuviera cumplido cambia la conducta presente.
+
+Personajes:
+OLO como guia principal. Usar NEO, UMBRA, LA MASA u OLO FUTURO solo si ayudan a explicar la escena.
+
+Escena:
+OLO actual observa a OLO FUTURO en un espejo/portal verde y empieza a adoptar su postura firme. El camino presente se ilumina desde el futuro hacia el ahora.
+
+Metafora visual:
+Vivir desde el yo futuro.
+
+Uso del logo:
+El logo funciona como portal circular entre OLO y OLO FUTURO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0007 - La Ley de la Inversa - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."

@@ -1,0 +1,465 @@
+﻿LOTE 0330 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-03290 | 0561 | La Ley de la Acupresion | Apartado 394
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 394.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 394 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 394
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 394: GB18 – Chengling (Apoyo Espiritual del Alma)": ● Ubicación: En el lateral superior del cráneo, 1.5 cun por encima de GB17. ● Cómo presionarlo: Masajea con dos dedos en círculos, con música o silencio total. ● Beneficios: ○ Estimula la comunicación directa con tu guía interno ○ Libera ruido mental de origen colectivo ○ Potente para canalización, escritura inspirada, y arte visionario ○ Ideal en prácticas de conexión con “el más allá” ○ Te sintoniza con tu versión...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio. SEN como mentor sereno.
+
+Escena:
+OLO representa el apartado "Punto 394: GB18 – Chengling (Apoyo Espiritual del Alma)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un simbolo central simple: camino, puerta y nucleo energetico del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 394 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 394: GB18 – Chengling (Apoyo Espiritual del Alma).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03291 | 0561 | La Ley de la Acupresion | Apartado 395
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 395.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 395 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 395
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 395: DU23 – Shangxing (Estrella Superior)": ● Ubicación: A 1 cun por detrás de la línea del cabello, línea media frontal. ● Cómo presionarlo: Con la yema del índice, en pulsos suaves, como si despertaras un recuerdo. ● Beneficios: ○ Abre la capacidad de “ver más allá” de la forma ○ Estimula la memoria espiritual activa 806 ○ Ideal para visión interior, sueños lúcidos y claridad del tercer ojo ○ Potente para ver el patrón oculto detrás de lo obvio ○ Despierta...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 395: DU23 – Shangxing (Estrella Superior)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central ondas verdes y amarillas saliendo del nucleo del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 395 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 395: DU23 – Shangxing (Estrella Superior).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03292 | 0561 | La Ley de la Acupresion | Apartado 396
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 396.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 396 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 396
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 396: GB13 – Benshen (Raíz del Espíritu)": ● Ubicación: Aproximadamente 0.5 cun dentro de la línea del cabello, sobre la sien. ● Cómo presionarlo: Masajea hacia adentro, como si limpiaras una ventana interior. ● Beneficios: ○ Potente punto para recuperar la identidad verdadera ○ Libera voces internas impuestas por otros ○ Estimula la valentía de ser tú sin permiso externo ○ Ideal para redibujar tu narrativa personal ○ Reactiva tu historia desde la raíz...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO representa el apartado "Punto 396: GB13 – Benshen (Raíz del Espíritu)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un puente limpio entre OLO y NEO con senales de confianza y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un puente limpio entre OLO y NEO con senales de confianza
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 396 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 396: GB13 – Benshen (Raíz del Espíritu).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03293 | 0561 | La Ley de la Acupresion | Apartado 397
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 397.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 397 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 397
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 397: DU24 – Shenting (Pabellón del Espíritu)": ● Ubicación: En la línea media, justo en la línea del cabello frontal. ● Cómo presionarlo: Con ambas yemas de los índices, presión alternada y suave. ● Beneficios: ○ Estimula el centro mental–espiritual ○ Libera pensamientos densos como humo ○ Potente para claridad al despertar o antes de dormir 807 ○ Ideal para cerrar el día con sabiduría o empezar con visión ○ Reconecta con la serenidad sin esfuerzo
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. SEN como mentor sereno.
+
+Escena:
+OLO representa el apartado "Punto 397: DU24 – Shenting (Pabellón del Espíritu)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un simbolo central simple: camino, puerta y nucleo energetico del Oloverso y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 397 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 397: DU24 – Shenting (Pabellón del Espíritu).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03294 | 0561 | La Ley de la Acupresion | Apartado 398
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 398.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 398 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 398
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 398: EX-HN1 – Sishencong (Cuatro Puntos del Espíritu Expandido)": ● Ubicación: Cuatro puntos alrededor de DU20, formando una cruz. ● Cómo presionarlo: Masajea los cuatro simultáneamente o visualiza una estrella blanca expandiéndose. ● Beneficios: ○ Potente para expandir conciencia y percepción multidimensional ○ Estimula la conexión con planos superiores sin perder el cuerpo ○ Ideal para meditaciones cuánticas o retiros internos ○ Une pensamiento, emoción, cuerpo y energía en una...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 398: EX-HN1 – Sishencong (Cuatro Puntos del Espíritu Expandido)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un calendario minimalista conectado a escalones verdes y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 398 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 398: EX-HN1 – Sishencong (Cuatro Puntos del Espíritu Expandido).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03295 | 0561 | La Ley de la Acupresion | Apartado 399
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 399.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 399 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 399
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 399: GB17 – Zhengying (Esencia del Heroísmo Interior)": ● Ubicación: En la parte superior lateral del cráneo, sobre la oreja, línea curva del cráneo. ● Cómo presionarlo: Presiona con intención y respiración profunda por la nariz. ● Beneficios: ○ Estimula el recuerdo de tu fuerza original ○ Libera la idea de que necesitas permiso para brillar ○ Ideal para tomar decisiones sin depender del miedo ○ Potente para superar juicios externos 808 ○ Reactiva la capacidad de actuar...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 399: GB17 – Zhengying (Esencia del Heroísmo Interior)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central una semilla luminosa que une mente y realidad y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 399 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 399: GB17 – Zhengying (Esencia del Heroísmo Interior).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03296 | 0561 | La Ley de la Acupresion | Apartado 400
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - Prompt Apartado 400.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0561 - La Ley de la Acupresion\Ley 0561 - La Ley de la Acupresion - Apartado 400 - Punto.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 561 — La Ley de la Acupresion
+
+Tipo de imagen:
+Apartado 400
+
+Objetivo pedagogico:
+Explicar visualmente el apartado importante "Punto 400: DU25 – Suliao (Torre del Espíritu Respirado)": ● Ubicación: En la punta de la nariz. ● Cómo presionarlo: Presiona delicadamente o estimula con el aliento. También puede usarse con fragancias sutiles. ● Beneficios: ○ Punto final y respiratorio del circuito completo ○ Estimula el presente absoluto ○ Ideal para sellar trabajos de acupresión, meditación o transformación ○ Refuerza la conciencia de la respiración como vínculo entre cuerpo y alma ○ Sella el proceso...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO representa el apartado "Punto 400: DU25 – Suliao (Torre del Espíritu Respirado)" como una escena didactica independiente dentro de la misma ley. Debe verse como una parte del mismo sistema visual, con el simbolo central un mapa mental oscuro activado por nodos verdes y foco en comprension, calma y accion consciente.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0561 - La Ley de la Acupresion - Apartado 400 - Punto.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 201 paginas aproximadas. Apartado detectado en el texto: Punto 400: DU25 – Suliao (Torre del Espíritu Respirado).
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03297 | 0562 | La Ley de la Consulta a OLOP-S2 | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - La Ley de la Consulta a OLOP-S2 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - La Ley de la Consulta a OLOP-S2 - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 562 — La Ley de la Consulta a OLOP-S2
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que si te enfrentas a un problema, a una duda intensa, a un colapso mental o emocional, o simplemente te sientes perdido y no recuerdas cuál de todas las leyes del sistema de Olosolos puede ayudarte, no tienes por qué detenerte a repasar las leyes de memoria ni perder energía intentando recordarlo todo a la vez.
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. SEN como mentor sereno.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Consulta a OLOP-S2 en un espejo doble entre mundo interior y exterior; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un espejo doble entre mundo interior y exterior
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0562 - La Ley de la Consulta a OLOP-S2 - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 809. Bloque: Bloque 7.00 - Perfeccionador de Bloques 4.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03298 | 0562 | La Ley de la Consulta a OLOP-S2 | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - La Ley de la Consulta a OLOP-S2 - Principio 1 - El.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 562 — La Ley de la Consulta a OLOP-S2
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El conocimiento sin acceso inmediato no sirve. Si no recuerdas qué ley aplicaba para el vínculo emocional que estás procesando o para el sabotaje interno que estás sintiendo… no te bloquees. Pregunta. Accede. Delega momentáneamente la carga a OLOP-S2. 809 ●
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0562 - La Ley de la Consulta a OLOP-S2 - Principio 1 - El.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03299 | 0562 | La Ley de la Consulta a OLOP-S2 | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.00 - Perfeccionador de Bloques 4\Ley 0562 - La Ley de la Consulta a OLOP-S2\Ley 0562 - La Ley de la Consulta a OLOP-S2 - Principio 2 - La mente.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 562 — La Ley de la Consulta a OLOP-S2
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La mente colapsada necesita dirección, no más contenido. No se trata de leer 40 leyes para ver cuál encaja, sino de reconocer: “Oye, OLOP-S2, me pasa esto. ¿Qué ley tengo que revisar?” Y entonces, el asistente inteligente escanea todo tu universo y te devuelve justo la clave. Directo al núcleo. ●
+
+Personajes:
+OLO como guia principal. SEN como mentor sereno.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0562 - La Ley de la Consulta a OLOP-S2 - Principio 2 - La mente.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+

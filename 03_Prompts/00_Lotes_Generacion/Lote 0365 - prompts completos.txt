@@ -1,0 +1,465 @@
+﻿LOTE 0365 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-03640 | 0630 | La Ley del Anclaje Corporal Hipnotico | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Imagen.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 630 — La Ley del Anclaje Corporal Hipnotico
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el operador del Oloverso puede instalar un estado emocional o mental específico en una parte concreta del cuerpo del receptor, de forma que, al tocarla o activarla, ese estado resurja automáticamente.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Anclaje Corporal Hipnótico en un mapa mental oscuro activado por nodos verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Imagen.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 881. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03641 | 0630 | La Ley del Anclaje Corporal Hipnotico | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 630 — La Ley del Anclaje Corporal Hipnotico
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El cuerpo graba emociones si se le entrena. El cerebro asocia emociones intensas con gestos, lugares y sensaciones físicas. Un abrazo puede activar calma. Un perfume puede revivir un recuerdo. Una zona del cuerpo puede volverse “emocional” si se entrena así. Por tanto, si creas esa asociación de forma deliberada y precisa, el cuerpo responderá como si la emoción original se reactivara sola. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03642 | 0630 | La Ley del Anclaje Corporal Hipnotico | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 630 — La Ley del Anclaje Corporal Hipnotico
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El protocolo de anclaje se basa en intensidad y repetición. 1. Induce un estado emocional fuerte (euforia, paz, deseo, tristeza…). 2. Toca una zona específica del cuerpo justo en el pico emocional: – Parte interna de la muñeca – Hombro derecho – Parte baja del cuello – Centro de la palma – Costado o espalda baja 881 Siempre la misma zona. 3. Vincula el toque a una frase simbólica: “Recuerda este instante.” “Este punto guarda...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03643 | 0630 | La Ley del Anclaje Corporal Hipnotico | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 630 — La Ley del Anclaje Corporal Hipnotico
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El ancla debe ser probado sin contexto. Cuando el receptor esté en otro estado, toca la zona sin previo aviso. Observa su reacción sutil: – ¿Cambio en la respiración?– ¿Relajación súbita?– ¿Sonrisa, mirada de desconcierto o sensación inexplicable?Si ocurre, el ancla ha sido implantada. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03644 | 0630 | La Ley del Anclaje Corporal Hipnotico | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0630 - La Ley del Anclaje Corporal Hipnotico\Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 630 — La Ley del Anclaje Corporal Hipnotico
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: El anclaje tiene usos estratégicos y debe ser reservado. Puedes usarlo para: – Activar seguridad o confianza antes de conversaciones difíciles – Inducir deseo o ternura en momentos de tensión emocional – Disparar obediencia suave o calma durante una instrucción clave – Provocar nostalgia que te asocie con poder, amor o paz Nunca actives el ancla en momentos neutros o irrelevantes. Si lo haces, pierdes su fuerza. “Tu voz...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0630 - La Ley del Anclaje Corporal Hipnotico - Principio.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03645 | 0631 | La Ley del Borrado del Anclaje Emocional | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 631 — La Ley del Borrado del Anclaje Emocional
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que todo anclaje emocional corporal puede ser borrado si se accede al punto exacto donde fue instalado y se neutraliza su carga neuroquímica original mediante interrupción, contradicción o reprogramación.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Borrado del Anclaje Emocional en un calendario minimalista conectado a escalones verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 882. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03646 | 0631 | La Ley del Borrado del Anclaje Emocional | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 631 — La Ley del Borrado del Anclaje Emocional
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Hay razones estratégicas para borrar un anclaje. Un anclaje debe ser eliminado cuando: – Está vinculado a una emoción destructiva (miedo, apego, ansiedad). – Fue implantado por otra persona y te impide influir con claridad. – Tú mismo lo instalaste, pero ahora el contexto ha cambiado. 882 – Necesitas un campo emocional limpio para una nueva programación. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03647 | 0631 | La Ley del Borrado del Anclaje Emocional | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 631 — La Ley del Borrado del Anclaje Emocional
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El borrado comienza con la localización y reactivación. Localiza el anclaje observando microreacciones al tocar zonas clave mientras habla de una emoción pasada. Reactiva la emoción original, pero de forma controlada: “Recuerda cómo era eso que sentiste… justo antes de que se fijara aquí…” Toca suavemente el punto emocional mientras revive la emoción. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03648 | 0631 | La Ley del Borrado del Anclaje Emocional | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 631 — La Ley del Borrado del Anclaje Emocional
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Elimina el anclaje mediante contradicción emocional. Rompe la coherencia emocional con una orden o imagen disruptiva: “Pero ahora… esa emoción ya no pertenece a este cuerpo.” “Sácala con el aire… como si fuera solo niebla…” También puedes usar toques cruzados, tocando otra zona en el pico emocional para desestabilizar la asociación. Inmediatamente después, neutraliza con una emoción opuesta: – Miedo → paz – Apego → autonomía...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO explica el principio 3 mediante UMBRA como sombra psicologica reducida por la luz de OLO. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+UMBRA como sombra psicologica reducida por la luz de OLO
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03649 | 0631 | La Ley del Borrado del Anclaje Emocional | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0631 - La Ley del Borrado del Anclaje Emocional\Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 631 — La Ley del Borrado del Anclaje Emocional
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Reprogramar en la misma zona consolida el cambio. Si se desea, instala un nuevo estado emocional en el mismo punto físico: “Desde ahora, cada vez que toques aquí… no recordarás el dolor… sino tu poder.” Así, el cuerpo conserva la ubicación, pero con una emoción nueva, útil y empoderadora. “Las emociones no viven en la mente. Viven en el cuerpo. Y el operador Oloversario que sabe borrar un anclaje… sabe liberar una vida entera...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0631 - La Ley del Borrado del Anclaje Emocional.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

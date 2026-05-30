@@ -1,0 +1,17 @@
+LEYES LARGAS Y APARTADOS IMPORTANTES - OLOVERSO
+Fecha: 30/05/2026
+Criterio: leyes cuyo siguiente encabezado aparece a mas de 3 paginas de distancia.
+Nota: los apartados se crearon desde encabezados internos tipo Punto/Apartado/Fase/Paso/Seccion cuando existian; si no, por grupos de paginas para no inventar titulos.
+
+Ley 0049 | Pagina 45 | 4 paginas aprox. | Apartados preparados: 2 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Aprendizaje Rápido
+Ley 0282 | Pagina 227 | 4 paginas aprox. | Apartados preparados: 2 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Lenguaje del Trading
+Ley 0341 | Pagina 277 | 5 paginas aprox. | Apartados preparados: 3 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Fragmentación Onírica Consciente
+Ley 0366 | Pagina 298 | 4 paginas aprox. | Apartados preparados: 2 | Bloque 4.66 - Estoicismo | La Ley de los Géneros
+Ley 0373 | Pagina 306 | 49 paginas aprox. | Apartados preparados: 25 | Bloque 4.79 - Neurologia | La Ley de los Neurotransmisores
+Ley 0379 | Pagina 359 | 28 paginas aprox. | Apartados preparados: 14 | Bloque 4.79 - Neurologia | La Ley de los Efectos de los Neurotransmisores
+Ley 0380 | Pagina 387 | 25 paginas aprox. | Apartados preparados: 13 | Bloque 4.83 - Neurologia 2 | La Ley de los Efectos de los Neurotransmisores
+Ley 0381 | Pagina 412 | 13 paginas aprox. | Apartados preparados: 7 | Bloque 4.83 - Neurologia 2 | La Ley de las Acciones Mutantes de Neurotransmisores
+Ley 0384 | Pagina 429 | 7 paginas aprox. | Apartados preparados: 4 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de las Visiones del Mundo
+Ley 0400 | Pagina 452 | 5 paginas aprox. | Apartados preparados: 3 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de los Eventos Secundarios de Cerrar el Vacío
+Ley 0561 | Pagina 608 | 201 paginas aprox. | Apartados preparados: 400 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Acupresión
+Ley 0600 | Pagina 842 | 5 paginas aprox. | Apartados preparados: 3 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Roca Eterna

@@ -1,0 +1,38 @@
+Ley:
+Ley N.º 373 — La Ley de los Neurotransmisores
+
+Tipo de imagen:
+Apartado 20
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 344-345): 3.96. Signal Peptide C (SP-C) Función principal: ● Participa en la consolidación de memoria auditiva ● Modula la percepción de tonos y frecuencias Ubicación: ● Corteza auditiva ● Tálamo sensorial Curiosidades: ● Se explora en personas con hiperacusia o sensibilidad al sonido ● Posible influencia en la memoria musical 3.97. Neuropéptido X (nombre provisional, descubierto en 2022) Función principal: ● Afecta el estado...
+
+Personajes:
+OLO como guia principal. NEO como persona promedio. SEN como mentor sereno.
+
+Escena:
+OLO sintetiza el tramo Paginas 344-345 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0373 - La Ley de los Neurotransmisores - Apartado 20 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 49 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.

@@ -1,0 +1,19 @@
+﻿BLOQUEO DE AUTOMATIZACION CHROME / CHATGPT
+Fecha: 30/05/2026
+
+Computer Use se detiene al intentar inspeccionar o controlar Chrome porque no puede determinar con suficiente confianza la URL actual del navegador en Windows para aplicar sus politicas.
+
+Intentos observados:
+- Abrir/lanzar Chrome hacia ChatGPT.
+- Usar ventana ya abierta de Chrome.
+- Inspeccionar ventana de Chrome con titulo relacionado con ChatGPT Images.
+
+Estado al pausar:
+- Las carpetas base existen.
+- El logo esta guardado correctamente.
+- La Biblia Visual base y prompts preparatorios quedan en disco para copiar en ChatGPT cuando el navegador sea controlable.
+
+Punto de reanudacion recomendado:
+1. Abrir manualmente ChatGPT en Chrome y dejar visible un chat nuevo o temporal.
+2. Reintentar Computer Use sobre esa ventana.
+3. Si Computer Use valida la URL, subir el logo y pegar el prompt "Prompt para pedir Biblia Visual en ChatGPT.txt".

@@ -1,0 +1,465 @@
+﻿LOTE 0199 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-01980 | 0381 | La Ley de las Acciones Mutantes de | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que los neurotransmisores pueden mutarse (revolucionarse) base a acciones en concreto: 1.
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de las Acciones Mutantes de Neurotransmisores en una brujula verde y un camino unico iluminado; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 412. Bloque: Bloque 4.83 - Neurologia 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01981 | 0381 | La Ley de las Acciones Mutantes de | Apartado 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 001.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 1 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 1
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 412-413): ● Recibir masajes linfáticos durante estados de fatiga ● Realizar meditación reparadora tras un resfriado o fiebre ● Evitar estímulos durante fases de dolor crónico ● Respirar hondo en silencio sin mover el cuerpo ● Estar envuelto en una manta o presión mecánica pasiva “Cada cosa que haces moldea tu mente. Cada vez que decides, estás químicamente cambiando tu destino.” Ley N.º 381 – La Ley de las Acciones Mutantes...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. LA MASA como fondo gris discreto. SEN como mentor sereno. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO sintetiza el tramo Paginas 412-413 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 1 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01982 | 0381 | La Ley de las Acciones Mutantes de | Apartado 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 002.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 2 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 2
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 414-415): 11. Ayunar 16 a 24 horas y romper el ayuno con algo nutritivo y delicioso Neurotransmisores activados: grelina, dopamina, CART, leptina (tras saciedad). 12. Dormir profundo y reparador varias noches seguidas Neurotransmisores activados: melatonina, GABA, BDNF, NGF, serotonina, galanina. 13. Tener conversaciones emocionalmente intensas y sin máscaras Ejemplo: hablar de lo que te duele, abrirte con alguien sin...
+
+Personajes:
+OLO como guia principal. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO sintetiza el tramo Paginas 414-415 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 2 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01983 | 0381 | La Ley de las Acciones Mutantes de | Apartado 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 003.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 3 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 3
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 416-417): 26. Hacer una confesión emocional difícil sabiendo que puede doler Ejemplo: declarar amor, confesar algo del pasado, asumir un error grave. Neurotransmisores activados: oxitocina, BDNF, serotonina, GABA, CRH. 27. Grabar un vídeo extremadamente vulnerable o sincero para el mundo Neurotransmisores activados: dopamina, CART, oxitocina, adrenalina. 28. Entrar en estado de flow físico y mental durante más de 30 minutos...
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO sintetiza el tramo Paginas 416-417 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 3 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01984 | 0381 | La Ley de las Acciones Mutantes de | Apartado 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 004.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 4 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 4
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 418-419): Neurotransmisores activados: oxitocina, dopamina, anandamida, GABA, vasopresina. 41. Visualizar tu muerte con detalle y aceptar completamente tu fin Neurotransmisores activados: anandamida, serotonina, GABA, fractalkina, BDNF. 42. Perdonar profundamente a alguien que te hizo daño real, sin pedir nada a cambio Neurotransmisores activados: oxitocina, CART, GABA, BDNF, galanina. 43. Aceptar una pérdida sin resistencia...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO sintetiza el tramo Paginas 418-419 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 4 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01985 | 0381 | La Ley de las Acciones Mutantes de | Apartado 5
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 005.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 5 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 5
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 420-421): Neurotransmisores activados: anandamida, BDNF, serotonina, oxitocina, galanina. 57. Recibir un masaje tántrico o emocional con respiración consciente Neurotransmisores activados: oxitocina, GABA, anandamida, kisspeptina, vasopresina. 58. Luchar por alguien emocionalmente cuando ya lo dabas por perdido Neurotransmisores activados: dopamina, oxitocina, vasopresina, CART. 59. Hacer un ritual personal de cierre de ciclo...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. NEO como persona promedio.
+
+Escena:
+OLO sintetiza el tramo Paginas 420-421 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 5 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01986 | 0381 | La Ley de las Acciones Mutantes de | Apartado 6
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 006.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 6 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 6
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Paginas 422-423): 73. Dormir acompañado por alguien con quien no necesitas hablar Neurotransmisores activados: oxitocina, GABA, vasopresina, phoenixin. 74. Mirarte al espejo y decir algo bueno con total sinceridad Neurotransmisores activados: dopamina, serotonina, CART, anandamida. 75. Acompañar a alguien en su dolor sin intentar cambiarlo Neurotransmisores activados: fractalkina, galanina, oxitocina, phoenixin, GABA. 76. Cumplir una...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO sintetiza el tramo Paginas 422-423 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 6 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01987 | 0381 | La Ley de las Acciones Mutantes de | Apartado 7
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - Prompt Apartado 007.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0381 - La Ley de las Acciones Mutantes de\Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 7 - Explicar visualmente un.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 381 — La Ley de las Acciones Mutantes de
+
+Tipo de imagen:
+Apartado 7
+
+Objetivo pedagogico:
+Explicar visualmente un apartado largo de la ley (Pagina 424): 89. Soltar el deseo de que las cosas hubieran sido diferentes Neurotransmisores activados: fractalkina, GABA, CART, galanina. 90. Saber que vas a perder algo y no querer aferrarte a ello Neurotransmisores activados: GABA, oxitocina, vasopresina, fractalkina. 91. Sentir el amor de alguien que ya no está como si te hablara desde dentro Neurotransmisores activados: oxitocina, phoenixin, galanina, anandamida, BDNF. 92....
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO sintetiza el tramo Pagina 424 como una escena pedagogica limpia. Usar pocos elementos, una lectura visual clara y el nucleo del Oloverso como energia organizadora.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0381 - La Ley de las Acciones Mutantes de - Apartado 7 - Explicar visualmente un.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Ley larga: 13 paginas aproximadas. Se creo por grupo de paginas porque no habia encabezados claros.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01988 | 0382 | La Ley de los Sindromes Psiquiatricos | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - La Ley de los Sindromes Psiquiatricos - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 382 — La Ley de los Sindromes Psiquiatricos
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que los síndromes psiquiátricos no son simples etiquetas diagnósticas, sino patrones profundos de comportamiento, emoción y cognición alterados que reflejan desajustes neuroquímicos, traumáticos o adaptativos dentro de la mente.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de los Síndromes Psiquiátricos en un mapa mental oscuro activado por nodos verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0382 - La Ley de los Sindromes Psiquiatricos - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 425. Bloque: Bloque 4.83 - Neurologia 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-01989 | 0382 | La Ley de los Sindromes Psiquiatricos | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 4.83 - Neurologia 2\Ley 0382 - La Ley de los Sindromes Psiquiatricos\Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 1 - Cada sindrome.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 382 — La Ley de los Sindromes Psiquiatricos
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Cada síndrome representa una red alterada. No hay síndrome sin una red cerebral desorganizada o hiperactivada. El trastorno depresivo mayor, por ejemplo, implica una inhibición de la corteza prefrontal, exceso de actividad en la red de modo predeterminado y deficiencia de serotonina. Comprender el síndrome es mapear la red alterada que lo sostiene. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0382 - La Ley de los Sindromes Psiquiatricos - Principio 1 - Cada sindrome.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+

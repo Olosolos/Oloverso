@@ -1,0 +1,35 @@
+﻿Ley:
+Ley N.º 8 — La Ley del Planteamiento
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar que tiempo bien distribuido y habitos correctos sostienen una meta.
+
+Personajes:
+OLO como guia principal. Usar NEO, UMBRA, LA MASA u OLO FUTURO solo si ayudan a explicar la escena.
+
+Escena:
+OLO organiza un mapa oscuro minimalista con calendario, escalones y rutas verdes. NEO observa una ruta caotica gris que se disuelve al entrar en el plan.
+
+Metafora visual:
+Mapa, ritmo y estructura.
+
+Uso del logo:
+El logo aparece como sello de energia en el centro del plan.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0008 - La Ley del Planteamiento - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."

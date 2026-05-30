@@ -1,0 +1,694 @@
+INDICE DE LEYES DETECTADAS - OLOVERSO
+Fecha: 30/05/2026
+PDF origen: C:\Users\david\Downloads\Las Leyes de Olosolos 1 (1).pdf
+Paginas del PDF: 928
+Leyes detectadas: 665
+Rango detectado: 1 a 666
+Leyes no detectadas en el texto extraido: 0259
+
+Bloques usados para organizar carpetas:
+- Bloque 1.33 - Leyes Mentales: Ley 0001 a Ley 0033 (33 leyes detectadas)
+- Bloque 1.73 - Leyes Mentales 2: Ley 0034 a Ley 0073 (40 leyes detectadas)
+- Bloque 2.00 - Leyes Mentales 3: Ley 0074 a Ley 0100 (27 leyes detectadas)
+- Bloque 2.50 - Psicologia de Ventas: Ley 0101 a Ley 0150 (50 leyes detectadas)
+- Bloque 3.00 - Psicologia de Ventas 2: Ley 0151 a Ley 0200 (50 leyes detectadas)
+- Bloque 3.50 - Pensamiento Financiero: Ley 0201 a Ley 0250 (50 leyes detectadas)
+- Bloque 3.90 - Pensamiento Financiero 2: Ley 0251 a Ley 0290 (39 leyes detectadas)
+- Bloque 4.15 - Leyes Mentales 4 y Manipulacion: Ley 0291 a Ley 0315 (25 leyes detectadas)
+- Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2: Ley 0316 a Ley 0341 (26 leyes detectadas)
+- Bloque 4.66 - Estoicismo: Ley 0342 a Ley 0366 (25 leyes detectadas)
+- Bloque 4.79 - Neurologia: Ley 0367 a Ley 0379 (13 leyes detectadas)
+- Bloque 4.83 - Neurologia 2: Ley 0380 a Ley 0383 (4 leyes detectadas)
+- Bloque 5.00 - Neurologia 3 y Fluicion Cuantica: Ley 0384 a Ley 0400 (17 leyes detectadas)
+- Bloque 5.40 - Perfeccionador de Bloques: Ley 0401 a Ley 0440 (40 leyes detectadas)
+- Bloque 6.00 - Perfeccionador de Bloques 2: Ley 0441 a Ley 0500 (60 leyes detectadas)
+- Bloque 6.50 - Perfeccionador de Bloques 3: Ley 0501 a Ley 0550 (50 leyes detectadas)
+- Bloque 7.00 - Perfeccionador de Bloques 4: Ley 0551 a Ley 0600 (50 leyes detectadas)
+- Bloque 7.66 - Leyes del Oloverso y Potenciadores: Ley 0601 a Ley 0666 (66 leyes detectadas)
+
+Detalle por ley:
+Ley 0001 | Pagina 7 | Bloque 1.33 - Leyes Mentales | La Ley del Objetivo | Prompts: 1 general + 4 principios
+Ley 0002 | Pagina 8 | Bloque 1.33 - Leyes Mentales | La Ley de la Creencia | Prompts: 1 general + 4 principios
+Ley 0003 | Pagina 9 | Bloque 1.33 - Leyes Mentales | La Ley de la Correspondencia | Prompts: 1 general + 4 principios
+Ley 0004 | Pagina 10 | Bloque 1.33 - Leyes Mentales | La Ley de la Atracción | Prompts: 1 general + 4 principios
+Ley 0005 | Pagina 11 | Bloque 1.33 - Leyes Mentales | La Ley del Sacrificio | Prompts: 1 general + 4 principios
+Ley 0006 | Pagina 11 | Bloque 1.33 - Leyes Mentales | La Ley de la Psicología del “Llegar a Ser” | Prompts: 1 general + 4 principios
+Ley 0007 | Pagina 12 | Bloque 1.33 - Leyes Mentales | La Ley de la Inversa | Prompts: 1 general + 4 principios
+Ley 0008 | Pagina 13 | Bloque 1.33 - Leyes Mentales | La Ley del Planteamiento | Prompts: 1 general + 4 principios
+Ley 0009 | Pagina 14 | Bloque 1.33 - Leyes Mentales | La Ley de la Inercia Humana | Prompts: 1 general + 4 principios
+Ley 0010 | Pagina 14 | Bloque 1.33 - Leyes Mentales | La Ley de los Poderes | Prompts: 1 general + 4 principios
+Ley 0011 | Pagina 15 | Bloque 1.33 - Leyes Mentales | La Ley del Hábito | Prompts: 1 general + 4 principios
+Ley 0012 | Pagina 16 | Bloque 1.33 - Leyes Mentales | La Ley de la Emoción | Prompts: 1 general + 4 principios
+Ley 0013 | Pagina 16 | Bloque 1.33 - Leyes Mentales | La Ley de la Expresión | Prompts: 1 general + 4 principios
+Ley 0014 | Pagina 17 | Bloque 1.33 - Leyes Mentales | La Ley de la Práctica de la Repetición | Prompts: 1 general + 4 principios
+Ley 0015 | Pagina 18 | Bloque 1.33 - Leyes Mentales | La Ley de la Dieta AMT de 21 Días | Prompts: 1 general + 4 principios
+Ley 0016 | Pagina 19 | Bloque 1.33 - Leyes Mentales | La Ley de la Concentración | Prompts: 1 general + 4 principios
+Ley 0017 | Pagina 19 | Bloque 1.33 - Leyes Mentales | La Ley de la Vibración | Prompts: 1 general + 4 principios
+Ley 0018 | Pagina 20 | Bloque 1.33 - Leyes Mentales | La Ley de la Radiación | Prompts: 1 general + 4 principios
+Ley 0019 | Pagina 21 | Bloque 1.33 - Leyes Mentales | La Ley de la Relajación | Prompts: 1 general + 4 principios
+Ley 0020 | Pagina 21 | Bloque 1.33 - Leyes Mentales | La Ley de la Acumulación | Prompts: 1 general + 4 principios
+Ley 0021 | Pagina 22 | Bloque 1.33 - Leyes Mentales | La Ley del Accidente | Prompts: 1 general + 4 principios
+Ley 0022 | Pagina 22 | Bloque 1.33 - Leyes Mentales | La Ley de la Expectativa | Prompts: 1 general + 4 principios
+Ley 0023 | Pagina 23 | Bloque 1.33 - Leyes Mentales | La Ley 3/6/9 | Prompts: 1 general + 4 principios
+Ley 0024 | Pagina 24 | Bloque 1.33 - Leyes Mentales | La Ley de la Felicidad | Prompts: 1 general + 4 principios
+Ley 0025 | Pagina 24 | Bloque 1.33 - Leyes Mentales | La Ley del Chi | Prompts: 1 general + 4 principios
+Ley 0026 | Pagina 25 | Bloque 1.33 - Leyes Mentales | La Ley de los Ingredientes del Éxito | Prompts: 1 general + 7 principios
+Ley 0027 | Pagina 26 | Bloque 1.33 - Leyes Mentales | La Ley para Aplicar los Ingredientes del Éxito | Prompts: 1 general + 4 principios
+Ley 0028 | Pagina 27 | Bloque 1.33 - Leyes Mentales | La Ley de la Paciencia | Prompts: 1 general + 4 principios
+Ley 0029 | Pagina 27 | Bloque 1.33 - Leyes Mentales | La Ley del Sueño de Calidad | Prompts: 1 general + 4 principios
+Ley 0030 | Pagina 28 | Bloque 1.33 - Leyes Mentales | La Ley de la Programación del Sueño | Prompts: 1 general + 4 principios
+Ley 0031 | Pagina 29 | Bloque 1.33 - Leyes Mentales | La Ley de la Libertad | Prompts: 1 general + 4 principios
+Ley 0032 | Pagina 29 | Bloque 1.33 - Leyes Mentales | La Ley de los Diez Minutos | Prompts: 1 general + 4 principios
+Ley 0033 | Pagina 30 | Bloque 1.33 - Leyes Mentales | La Ley del 33 | Prompts: 1 general + 4 principios
+Ley 0034 | Pagina 33 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Facilidad | Prompts: 1 general + 4 principios
+Ley 0035 | Pagina 34 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Ciclo Mileurista | Prompts: 1 general + 4 principios
+Ley 0036 | Pagina 35 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Imaginación Negativa | Prompts: 1 general + 4 principios
+Ley 0037 | Pagina 36 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Sustitución | Prompts: 1 general + 4 principios
+Ley 0038 | Pagina 36 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Control | Prompts: 1 general + 4 principios
+Ley 0039 | Pagina 37 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Administración del Tiempo | Prompts: 1 general + 6 principios
+Ley 0040 | Pagina 38 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Descanso | Prompts: 1 general + 4 principios
+Ley 0041 | Pagina 39 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Ganancia Continua | Prompts: 1 general + 4 principios
+Ley 0042 | Pagina 40 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Comienzo | Prompts: 1 general + 4 principios
+Ley 0043 | Pagina 40 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Mente Subconsciente | Prompts: 1 general + 8 principios
+Ley 0044 | Pagina 41 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Actividad Superconsciente | Prompts: 1 general + 4 principios
+Ley 0045 | Pagina 42 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Soledad | Prompts: 1 general + 4 principios
+Ley 0046 | Pagina 43 | Bloque 1.73 - Leyes Mentales 2 | La Ley de las Fuentes de la Solución Superconsciente | Prompts: 1 general + 4 principios
+Ley 0047 | Pagina 44 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Conocimiento de la Solución Superconsciente | Prompts: 1 general + 4 principios
+Ley 0048 | Pagina 44 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Inteligencia | Prompts: 1 general + 4 principios
+Ley 0049 | Pagina 45 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Aprendizaje Rápido | Prompts: 1 general + 4 principios | Ley larga: 4 paginas aprox.
+Ley 0050 | Pagina 49 | Bloque 1.73 - Leyes Mentales 2 | La Ley de Feynman | Prompts: 1 general + 4 principios
+Ley 0051 | Pagina 49 | Bloque 1.73 - Leyes Mentales 2 | La Ley OEP Studio | Prompts: 1 general + 3 principios
+Ley 0052 | Pagina 50 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Repaso de IA | Prompts: 1 general + 4 principios
+Ley 0053 | Pagina 51 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Efecto de Posición Seria | Prompts: 1 general + 4 principios
+Ley 0054 | Pagina 52 | Bloque 1.73 - Leyes Mentales 2 | La Ley de las Técnicas Asociativas | Prompts: 1 general + 4 principios
+Ley 0055 | Pagina 53 | Bloque 1.73 - Leyes Mentales 2 | La Ley de Parkinson | Prompts: 1 general + 4 principios
+Ley 0056 | Pagina 53 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Funcionalidad de la Inteligencia | Prompts: 1 general + 4 principios
+Ley 0057 | Pagina 55 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Programación por Escrito | Prompts: 1 general + 4 principios
+Ley 0058 | Pagina 56 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Funcionamiento de la Relajación | Prompts: 1 general + 4 principios
+Ley 0059 | Pagina 57 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Programación Rápida | Prompts: 1 general + 4 principios
+Ley 0060 | Pagina 58 | Bloque 1.73 - Leyes Mentales 2 | La Ley de Repaso Mental | Prompts: 1 general + 4 principios
+Ley 0061 | Pagina 59 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Afirmación Estándar | Prompts: 1 general + 4 principios
+Ley 0062 | Pagina 60 | Bloque 1.73 - Leyes Mentales 2 | La Ley de Causa y Efecto | Prompts: 1 general + 4 principios
+Ley 0063 | Pagina 61 | Bloque 1.73 - Leyes Mentales 2 | La Ley de las Condiciones Primarias del Estrés | Prompts: 1 general + 4 principios
+Ley 0064 | Pagina 62 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Educación de Hijos y la Crítica Destructiva | Prompts: 1 general + 4 principios
+Ley 0065 | Pagina 63 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Uso | Prompts: 1 general + 4 principios
+Ley 0066 | Pagina 64 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Creatividad | Prompts: 1 general + 4 principios
+Ley 0067 | Pagina 65 | Bloque 1.73 - Leyes Mentales 2 | La Ley de las Personalidades | Prompts: 1 general + 4 principios
+Ley 0068 | Pagina 66 | Bloque 1.73 - Leyes Mentales 2 | La Ley de las Relaciones | Prompts: 1 general + 4 principios
+Ley 0069 | Pagina 67 | Bloque 1.73 - Leyes Mentales 2 | La Ley de los Errores de las Relaciones | Prompts: 1 general + 5 principios
+Ley 0070 | Pagina 68 | Bloque 1.73 - Leyes Mentales 2 | La Ley del Amor Propio | Prompts: 1 general + 6 principios
+Ley 0071 | Pagina 69 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Escala del Amor | Prompts: 1 general + 4 principios
+Ley 0072 | Pagina 70 | Bloque 1.73 - Leyes Mentales 2 | La Ley de la Compensación | Prompts: 1 general + 4 principios
+Ley 0073 | Pagina 71 | Bloque 1.73 - Leyes Mentales 2 | La Ley de 73 versus 33 | Prompts: 1 general + 4 principios
+Ley 0074 | Pagina 73 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Aumento de Energía | Prompts: 1 general + 4 principios
+Ley 0075 | Pagina 74 | Bloque 2.00 - Leyes Mentales 3 | La Ley de Bilbo | Prompts: 1 general + 4 principios
+Ley 0076 | Pagina 75 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Madurez | Prompts: 1 general + 4 principios
+Ley 0077 | Pagina 76 | Bloque 2.00 - Leyes Mentales 3 | La Ley de las Emociones Negativas | Prompts: 1 general + 4 principios
+Ley 0078 | Pagina 77 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Actividad Subconsciente | Prompts: 1 general + 4 principios
+Ley 0079 | Pagina 78 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Personalidad Saludable | Prompts: 1 general + 5 principios
+Ley 0080 | Pagina 78 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Esfuerzo Indirecto | Prompts: 1 general + 4 principios
+Ley 0081 | Pagina 79 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Siembra y la Cosecha | Prompts: 1 general + 4 principios
+Ley 0082 | Pagina 80 | Bloque 2.00 - Leyes Mentales 3 | La ley de la Reciprocidad | Prompts: 1 general + 4 principios
+Ley 0083 | Pagina 81 | Bloque 2.00 - Leyes Mentales 3 | La Ley de las Fuentes de Energía | Prompts: 1 general + 4 principios
+Ley 0084 | Pagina 82 | Bloque 2.00 - Leyes Mentales 3 | La Ley de las Leyes | Prompts: 1 general + 4 principios
+Ley 0085 | Pagina 82 | Bloque 2.00 - Leyes Mentales 3 | La Ley de las Pantallas | Prompts: 1 general + 4 principios
+Ley 0086 | Pagina 83 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Actitud Mental Positiva | Prompts: 1 general + 4 principios
+Ley 0087 | Pagina 84 | Bloque 2.00 - Leyes Mentales 3 | La Ley de los Conceptos Propios | Prompts: 1 general + 4 principios
+Ley 0088 | Pagina 85 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Aprendizaje de los Niños | Prompts: 1 general + 4 principios
+Ley 0089 | Pagina 85 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Procrastinación | Prompts: 1 general + 4 principios
+Ley 0090 | Pagina 86 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Amor Condicional hacia los Hijos | Prompts: 1 general + 4 principios
+Ley 0091 | Pagina 87 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Manifestación Adulta de la Culpa | Prompts: 1 general + 4 principios
+Ley 0092 | Pagina 88 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Eliminación de la Culpa | Prompts: 1 general + 4 principios
+Ley 0093 | Pagina 88 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Perdón | Prompts: 1 general + 4 principios
+Ley 0094 | Pagina 89 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Establecimiento de Metas | Prompts: 1 general + 10 principios
+Ley 0095 | Pagina 90 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Compensación | Prompts: 1 general + 4 principios
+Ley 0096 | Pagina 91 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Sobrecompensación | Prompts: 1 general + 4 principios
+Ley 0097 | Pagina 92 | Bloque 2.00 - Leyes Mentales 3 | La Ley del Establecimiento de Metas 2 | Prompts: 1 general + 4 principios
+Ley 0098 | Pagina 92 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Alarma | Prompts: 1 general + 4 principios
+Ley 0099 | Pagina 93 | Bloque 2.00 - Leyes Mentales 3 | La Ley de la Lectura de Leyes | Prompts: 1 general + 4 principios
+Ley 0100 | Pagina 94 | Bloque 2.00 - Leyes Mentales 3 | La Ley del 100% | Prompts: 1 general + 4 principios
+Ley 0101 | Pagina 96 | Bloque 2.50 - Psicologia de Ventas | La Ley del 80/20 | Prompts: 1 general + 4 principios
+Ley 0102 | Pagina 96 | Bloque 2.50 - Psicologia de Ventas | La Ley del Borde de la Victoria | Prompts: 1 general + 4 principios
+Ley 0103 | Pagina 97 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Fuentes Vitales del Vendedor | Prompts: 1 general + 7 principios
+Ley 0104 | Pagina 98 | Bloque 2.50 - Psicologia de Ventas | La Ley del Comienzo en las Grandes Ventas | Prompts: 1 general + 4 principios
+Ley 0105 | Pagina 99 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Regla de Oro | Prompts: 1 general + 4 principios
+Ley 0106 | Pagina 99 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Causa y Efecto en las Ventas | Prompts: 1 general + 4 principios
+Ley 0107 | Pagina 100 | Bloque 2.50 - Psicologia de Ventas | Las Leyes Mentales de las Ventas | Prompts: 1 general + 4 principios
+Ley 0108 | Pagina 101 | Bloque 2.50 - Psicologia de Ventas | La Ley del Fracaso | Prompts: 1 general + 4 principios
+Ley 0109 | Pagina 102 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Emoción Inversa | Prompts: 1 general + 4 principios
+Ley 0110 | Pagina 102 | Bloque 2.50 - Psicologia de Ventas | La Ley del Trabajo | Prompts: 1 general + 4 principios
+Ley 0111 | Pagina 103 | Bloque 2.50 - Psicologia de Ventas | La Ley del Rendimiento en Aumento | Prompts: 1 general + 4 principios
+Ley 0112 | Pagina 103 | Bloque 2.50 - Psicologia de Ventas | La Ley de los Tipos de Compradores | Prompts: 1 general + 4 principios
+Ley 0113 | Pagina 104 | Bloque 2.50 - Psicologia de Ventas | La Ley del Comportamiento de los Clientes | Prompts: 1 general + 4 principios
+Ley 0114 | Pagina 105 | Bloque 2.50 - Psicologia de Ventas | La Ley de los Enfoques | Prompts: 1 general + 4 principios
+Ley 0115 | Pagina 106 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Actitudes Mágicas | Prompts: 1 general + 4 principios
+Ley 0116 | Pagina 106 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Atención | Prompts: 1 general + 4 principios
+Ley 0117 | Pagina 107 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Preguntas | Prompts: 1 general + 4 principios
+Ley 0118 | Pagina 108 | Bloque 2.50 - Psicologia de Ventas | La Ley del Tiempo | Prompts: 1 general + 4 principios
+Ley 0119 | Pagina 108 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Reciprocidad 2 | Prompts: 1 general + 4 principios
+Ley 0120 | Pagina 109 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Búsqueda de Compromiso y la Consistencia | Prompts: 1 general + 4 principios
+Ley 0121 | Pagina 110 | Bloque 2.50 - Psicologia de Ventas | La Ley del Incremento del Compromiso | Prompts: 1 general + 4 principios
+Ley 0122 | Pagina 110 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Técnica de la Rebanada de Salami | Prompts: 1 general + 4 principios
+Ley 0123 | Pagina 111 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Prueba Social | Prompts: 1 general + 4 principios
+Ley 0124 | Pagina 112 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Simpatía | Prompts: 1 general + 4 principios
+Ley 0125 | Pagina 112 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Autoridad | Prompts: 1 general + 4 principios
+Ley 0126 | Pagina 113 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Escasez | Prompts: 1 general + 4 principios
+Ley 0127 | Pagina 113 | Bloque 2.50 - Psicologia de Ventas | La Ley del Principio de Contraste | Prompts: 1 general + 4 principios
+Ley 0128 | Pagina 114 | Bloque 2.50 - Psicologia de Ventas | La Ley del ABC | Prompts: 1 general + 4 principios
+Ley 0129 | Pagina 115 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Necesidades de la Compra | Prompts: 1 general + 4 principios
+Ley 0130 | Pagina 115 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Razón de la Compra | Prompts: 1 general + 4 principios
+Ley 0131 | Pagina 116 | Bloque 2.50 - Psicologia de Ventas | La Ley de los Prospectos | Prompts: 1 general + 4 principios
+Ley 0132 | Pagina 116 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Preguntas de los Prospectos | Prompts: 1 general + 4 principios
+Ley 0133 | Pagina 117 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Necesidades del Prospecto | Prompts: 1 general + 4 principios
+Ley 0134 | Pagina 118 | Bloque 2.50 - Psicologia de Ventas | La Ley del Significado de Vender | Prompts: 1 general + 4 principios
+Ley 0135 | Pagina 119 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Sugestión Positiva | Prompts: 1 general + 4 principios
+Ley 0136 | Pagina 119 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Credibilidad | Prompts: 1 general + 4 principios
+Ley 0137 | Pagina 120 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Reseñas | Prompts: 1 general + 4 principios
+Ley 0138 | Pagina 121 | Bloque 2.50 - Psicologia de Ventas | La Ley del Aprovechamiento de la Creatividad | Prompts: 1 general + 4 principios
+Ley 0139 | Pagina 121 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Razón del Deseo y la Creatividad | Prompts: 1 general + 4 principios
+Ley 0140 | Pagina 122 | Bloque 2.50 - Psicologia de Ventas | La Ley de los Prospectos Telefónicos | Prompts: 1 general + 4 principios
+Ley 0141 | Pagina 123 | Bloque 2.50 - Psicologia de Ventas | La Ley de los 4 Minutos Telefónicos | Prompts: 1 general + 4 principios
+Ley 0142 | Pagina 124 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Emoción 2.0 | Prompts: 1 general + 4 principios
+Ley 0143 | Pagina 124 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Presentaciones | Prompts: 1 general + 4 principios
+Ley 0144 | Pagina 125 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Ayudas Visuales de Ventas | Prompts: 1 general + 4 principios
+Ley 0145 | Pagina 126 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Seis Objeciones | Prompts: 1 general + 4 principios
+Ley 0146 | Pagina 127 | Bloque 2.50 - Psicologia de Ventas | La Ley de la Demanda de Información | Prompts: 1 general + 4 principios
+Ley 0147 | Pagina 128 | Bloque 2.50 - Psicologia de Ventas | La Ley del Comportamiento del Prospecto | Prompts: 1 general + 4 principios
+Ley 0148 | Pagina 129 | Bloque 2.50 - Psicologia de Ventas | La Ley de las Excusas | Prompts: 1 general + 4 principios
+Ley 0149 | Pagina 129 | Bloque 2.50 - Psicologia de Ventas | La Ley del Equipo | Prompts: 1 general + 4 principios
+Ley 0150 | Pagina 130 | Bloque 2.50 - Psicologia de Ventas | La Ley del Registro | Prompts: 1 general + 4 principios
+Ley 0151 | Pagina 133 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Personal | Prompts: 1 general + 4 principios
+Ley 0152 | Pagina 133 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del 80/20 en Personal | Prompts: 1 general + 4 principios
+Ley 0153 | Pagina 134 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de los Círculos de la Calidad | Prompts: 1 general + 4 principios
+Ley 0154 | Pagina 135 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Disciplina de los Empleados | Prompts: 1 general + 4 principios
+Ley 0155 | Pagina 136 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Plan AB | Prompts: 1 general + 4 principios
+Ley 0156 | Pagina 136 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Estrategia | Prompts: 1 general + 4 principios
+Ley 0157 | Pagina 137 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Máxima Eficacia | Prompts: 1 general + 4 principios
+Ley 0158 | Pagina 137 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Planeación Estratégica Simplificada | Prompts: 1 general + 4 principios
+Ley 0159 | Pagina 138 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Concentración del Poder Personal | Prompts: 1 general + 4 principios
+Ley 0160 | Pagina 139 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Pensamiento Básico Cero | Prompts: 1 general + 4 principios
+Ley 0161 | Pagina 140 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de las Preguntas | Prompts: 1 general + 4 principios
+Ley 0162 | Pagina 140 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Desecho del Pasado | Prompts: 1 general + 4 principios
+Ley 0163 | Pagina 141 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Producto No Vendido | Prompts: 1 general + 4 principios
+Ley 0164 | Pagina 142 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la División | Prompts: 1 general + 4 principios
+Ley 0165 | Pagina 142 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Equipo Administrativo | Prompts: 1 general + 4 principios
+Ley 0166 | Pagina 143 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de las Preguntas Estratégicas | Prompts: 1 general + 4 principios
+Ley 0167 | Pagina 144 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de las Medidas Financieras | Prompts: 1 general + 4 principios
+Ley 0168 | Pagina 144 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Rentabilidad Estratégica | Prompts: 1 general + 4 principios
+Ley 0169 | Pagina 145 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Reconocimiento de la Calidad | Prompts: 1 general + 4 principios
+Ley 0170 | Pagina 145 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Representación del Producto | Prompts: 1 general + 4 principios
+Ley 0171 | Pagina 146 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Relajación en el Trabajo | Prompts: 1 general + 4 principios
+Ley 0172 | Pagina 147 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Extremismo | Prompts: 1 general + 4 principios
+Ley 0173 | Pagina 148 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Lápiz en la Boca | Prompts: 1 general + 4 principios
+Ley 0174 | Pagina 148 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Actividad Laboral | Prompts: 1 general + 4 principios
+Ley 0175 | Pagina 149 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Integridad | Prompts: 1 general + 4 principios
+Ley 0176 | Pagina 149 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Valentía | Prompts: 1 general + 4 principios
+Ley 0177 | Pagina 150 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Realismo | Prompts: 1 general + 4 principios
+Ley 0178 | Pagina 151 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Poder | Prompts: 1 general + 4 principios
+Ley 0179 | Pagina 151 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Ambición | Prompts: 1 general + 4 principios
+Ley 0180 | Pagina 152 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Optimismo | Prompts: 1 general + 4 principios
+Ley 0181 | Pagina 152 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Empatía | Prompts: 1 general + 4 principios
+Ley 0182 | Pagina 153 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Flexibilidad | Prompts: 1 general + 4 principios
+Ley 0183 | Pagina 154 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Independencia | Prompts: 1 general + 4 principios
+Ley 0184 | Pagina 154 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Madurez Emocional | Prompts: 1 general + 4 principios
+Ley 0185 | Pagina 155 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Excelente Ejecución | Prompts: 1 general + 4 principios
+Ley 0186 | Pagina 155 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Visión de los Líderes | Prompts: 1 general + 4 principios
+Ley 0187 | Pagina 156 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Propósito | Prompts: 1 general + 4 principios
+Ley 0188 | Pagina 157 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Organización | Prompts: 1 general + 4 principios
+Ley 0189 | Pagina 157 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Satisfacción | Prompts: 1 general + 4 principios
+Ley 0190 | Pagina 158 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de los Clientes | Prompts: 1 general + 4 principios
+Ley 0191 | Pagina 158 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Calidad | Prompts: 1 general + 4 principios
+Ley 0192 | Pagina 159 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Obsolescencia | Prompts: 1 general + 4 principios
+Ley 0193 | Pagina 160 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Innovación | Prompts: 1 general + 4 principios
+Ley 0194 | Pagina 160 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de los Factores Críticos | Prompts: 1 general + 4 principios
+Ley 0195 | Pagina 161 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley del Mercado | Prompts: 1 general + 4 principios
+Ley 0196 | Pagina 161 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Especialización | Prompts: 1 general + 4 principios
+Ley 0197 | Pagina 162 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Digitalización | Prompts: 1 general + 4 principios
+Ley 0198 | Pagina 163 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Segmentación | Prompts: 1 general + 4 principios
+Ley 0199 | Pagina 163 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Excelencia | Prompts: 1 general + 4 principios
+Ley 0200 | Pagina 164 | Bloque 3.00 - Psicologia de Ventas 2 | La Ley de la Incógnita en las Leyes | Prompts: 1 general + 4 principios
+Ley 0201 | Pagina 166 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Abundancia | Prompts: 1 general + 4 principios
+Ley 0202 | Pagina 166 | Bloque 3.50 - Pensamiento Financiero | La Ley del Intercambio | Prompts: 1 general + 4 principios
+Ley 0203 | Pagina 167 | Bloque 3.50 - Pensamiento Financiero | La Ley del Capital | Prompts: 1 general + 4 principios
+Ley 0204 | Pagina 168 | Bloque 3.50 - Pensamiento Financiero | La Ley del Ahorro | Prompts: 1 general + 4 principios
+Ley 0205 | Pagina 168 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Conservación | Prompts: 1 general + 4 principios
+Ley 0206 | Pagina 169 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Tres Claves | Prompts: 1 general + 4 principios
+Ley 0207 | Pagina 169 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Inversión | Prompts: 1 general + 4 principios
+Ley 0208 | Pagina 170 | Bloque 3.50 - Pensamiento Financiero | La Ley del Interés Financiero | Prompts: 1 general + 4 principios
+Ley 0209 | Pagina 171 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Acumulación Financiera | Prompts: 1 general + 4 principios
+Ley 0210 | Pagina 171 | Bloque 3.50 - Pensamiento Financiero | La Ley del Magnetismo Financiero | Prompts: 1 general + 4 principios
+Ley 0211 | Pagina 172 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Aceleración Financiera | Prompts: 1 general + 4 principios
+Ley 0212 | Pagina 173 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Ventas | Prompts: 1 general + 4 principios
+Ley 0213 | Pagina 173 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Determinación en el Ámbito Financiero | Prompts: 1 general + 4 principios
+Ley 0214 | Pagina 174 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Necesidades Financieras | Prompts: 1 general + 4 principios
+Ley 0215 | Pagina 175 | Bloque 3.50 - Pensamiento Financiero | La Ley de los Problemas Financieros | Prompts: 1 general + 4 principios
+Ley 0216 | Pagina 175 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Persuasión Financiera | Prompts: 1 general + 4 principios
+Ley 0217 | Pagina 176 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Seguridad Financiera | Prompts: 1 general + 4 principios
+Ley 0218 | Pagina 177 | Bloque 3.50 - Pensamiento Financiero | La Ley del Riesgo Financiero | Prompts: 1 general + 4 principios
+Ley 0219 | Pagina 178 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Confianza Financiera | Prompts: 1 general + 4 principios
+Ley 0220 | Pagina 179 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Relaciones Financieras | Prompts: 1 general + 4 principios
+Ley 0221 | Pagina 180 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Amistad Financiera | Prompts: 1 general + 4 principios
+Ley 0222 | Pagina 181 | Bloque 3.50 - Pensamiento Financiero | La Ley del Posicionamiento Financiero | Prompts: 1 general + 4 principios
+Ley 0223 | Pagina 181 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Universalidad | Prompts: 1 general + 4 principios
+Ley 0224 | Pagina 182 | Bloque 3.50 - Pensamiento Financiero | La Ley del Futuro Financiero | Prompts: 1 general + 4 principios
+Ley 0225 | Pagina 183 | Bloque 3.50 - Pensamiento Financiero | La Ley del Ganar-Ganar | Prompts: 1 general + 4 principios
+Ley 0226 | Pagina 184 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Posibilidades Ilimitadas | Prompts: 1 general + 4 principios
+Ley 0227 | Pagina 185 | Bloque 3.50 - Pensamiento Financiero | La Ley de los Cuatro Asuntos | Prompts: 1 general + 4 principios
+Ley 0228 | Pagina 186 | Bloque 3.50 - Pensamiento Financiero | La Ley del Tiempo en los Negocios | Prompts: 1 general + 4 principios
+Ley 0229 | Pagina 186 | Bloque 3.50 - Pensamiento Financiero | La Ley de los Términos | Prompts: 1 general + 4 principios
+Ley 0230 | Pagina 187 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Preparación | Prompts: 1 general + 4 principios
+Ley 0231 | Pagina 188 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Autoridad | Prompts: 1 general + 4 principios
+Ley 0232 | Pagina 189 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Transposición | Prompts: 1 general + 4 principios
+Ley 0233 | Pagina 190 | Bloque 3.50 - Pensamiento Financiero | La Ley del Poder en el Negocio | Prompts: 1 general + 4 principios
+Ley 0234 | Pagina 191 | Bloque 3.50 - Pensamiento Financiero | La Ley del Deseo Financiero | Prompts: 1 general + 4 principios
+Ley 0235 | Pagina 192 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Reciprocidad 2 | Prompts: 1 general + 4 principios
+Ley 0236 | Pagina 193 | Bloque 3.50 - Pensamiento Financiero | La Ley del Abandono | Prompts: 1 general + 4 principios
+Ley 0237 | Pagina 194 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Finalidad | Prompts: 1 general + 4 principios
+Ley 0238 | Pagina 194 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Prioridades | Prompts: 1 general + 4 principios
+Ley 0239 | Pagina 195 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Postergación | Prompts: 1 general + 4 principios
+Ley 0240 | Pagina 195 | Bloque 3.50 - Pensamiento Financiero | La Ley del Activo Valioso | Prompts: 1 general + 4 principios
+Ley 0241 | Pagina 196 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Planificación | Prompts: 1 general + 4 principios
+Ley 0242 | Pagina 197 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Conversaciones | Prompts: 1 general + 4 principios
+Ley 0243 | Pagina 197 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Secuencialidad | Prompts: 1 general + 4 principios
+Ley 0244 | Pagina 198 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Oportunidad | Prompts: 1 general + 4 principios
+Ley 0245 | Pagina 199 | Bloque 3.50 - Pensamiento Financiero | La Ley de las Fechas Límite | Prompts: 1 general + 4 principios
+Ley 0246 | Pagina 199 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Práctica | Prompts: 1 general + 4 principios
+Ley 0247 | Pagina 200 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Prescripción del Tiempo | Prompts: 1 general + 4 principios
+Ley 0248 | Pagina 200 | Bloque 3.50 - Pensamiento Financiero | La Ley del Enfoque | Prompts: 1 general + 4 principios
+Ley 0249 | Pagina 201 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Competencia | Prompts: 1 general + 4 principios
+Ley 0250 | Pagina 202 | Bloque 3.50 - Pensamiento Financiero | La Ley de la Eficiencia ante el Problema | Prompts: 1 general + 4 principios
+Ley 0251 | Pagina 204 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Inflación | Prompts: 1 general + 4 principios
+Ley 0252 | Pagina 204 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Deflación | Prompts: 1 general + 4 principios
+Ley 0253 | Pagina 205 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Bolsa de Valores | Prompts: 1 general + 4 principios
+Ley 0254 | Pagina 206 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Economía | Prompts: 1 general + 4 principios
+Ley 0255 | Pagina 206 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Capital y su Significado | Prompts: 1 general + 4 principios
+Ley 0256 | Pagina 207 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Agenda Tributaria | Prompts: 1 general + 4 principios
+Ley 0257 | Pagina 208 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de los Impuestos | Prompts: 1 general + 4 principios
+Ley 0258 | Pagina 210 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Patrimonio | Prompts: 1 general + 4 principios
+Ley 0260 | Pagina 210 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Cono del Aprendizaje | Prompts: 1 general + 4 principios
+Ley 0261 | Pagina 211 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Decisión Financiera | Prompts: 1 general + 4 principios
+Ley 0262 | Pagina 212 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Manejo Financiero | Prompts: 1 general + 4 principios
+Ley 0263 | Pagina 212 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Rata | Prompts: 1 general + 4 principios
+Ley 0264 | Pagina 213 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de los Activos y los Pasivos | Prompts: 1 general + 4 principios
+Ley 0265 | Pagina 214 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de los Patrones de Flujo de Efectivo Según la Clase Social | Prompts: 1 general + 4 principios
+Ley 0266 | Pagina 216 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de los Inmuebles | Prompts: 1 general + 4 principios
+Ley 0267 | Pagina 217 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de los Ricos | Prompts: 1 general + 4 principios
+Ley 0268 | Pagina 218 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Estado Financiero y Balance General | Prompts: 1 general + 4 principios
+Ley 0269 | Pagina 218 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Hipoteca | Prompts: 1 general + 4 principios
+Ley 0270 | Pagina 219 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Regla del Oro | Prompts: 1 general + 4 principios
+Ley 0271 | Pagina 220 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Bono | Prompts: 1 general + 4 principios
+Ley 0272 | Pagina 220 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Negocio | Prompts: 1 general + 4 principios
+Ley 0273 | Pagina 221 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Inteligencia Financiera | Prompts: 1 general + 4 principios
+Ley 0274 | Pagina 222 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Inexistencia del Dinero | Prompts: 1 general + 4 principios
+Ley 0275 | Pagina 222 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Inteligencia Financiera | Prompts: 1 general + 4 principios
+Ley 0276 | Pagina 223 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Existencia del Dinero | Prompts: 1 general + 4 principios
+Ley 0277 | Pagina 224 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Gente de tu Alrededor | Prompts: 1 general + 4 principios
+Ley 0278 | Pagina 224 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de la Estrategia Financiera | Prompts: 1 general + 4 principios
+Ley 0279 | Pagina 225 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de Pagarse a Uno Mismo es Prioridad | Prompts: 1 general + 4 principios
+Ley 0280 | Pagina 226 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de Forex | Prompts: 1 general + 4 principios
+Ley 0281 | Pagina 227 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Trading | Prompts: 1 general + 4 principios
+Ley 0282 | Pagina 227 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Lenguaje del Trading | Prompts: 1 general + 8 principios | Ley larga: 4 paginas aprox.
+Ley 0283 | Pagina 231 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de las Posiciones Long y Short | Prompts: 1 general + 4 principios
+Ley 0284 | Pagina 231 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Spread | Prompts: 1 general + 4 principios
+Ley 0285 | Pagina 232 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Lotaje | Prompts: 1 general + 4 principios
+Ley 0286 | Pagina 234 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Riesgo en el Trading | Prompts: 1 general + 4 principios
+Ley 0287 | Pagina 234 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del Orden Stop o Límite | Prompts: 1 general + 4 principios
+Ley 0288 | Pagina 235 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de las Sesiones del Trading | Prompts: 1 general + 4 principios
+Ley 0289 | Pagina 236 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley del TradingView | Prompts: 1 general + 4 principios
+Ley 0290 | Pagina 237 | Bloque 3.90 - Pensamiento Financiero 2 | La Ley de las Velas Japonesas | Prompts: 1 general + 4 principios
+Ley 0291 | Pagina 240 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Dominio y la Autodisciplina | Prompts: 1 general + 7 principios
+Ley 0292 | Pagina 241 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Mejora de la Actitud Positiva | Prompts: 1 general + 7 principios
+Ley 0293 | Pagina 242 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Imaginación Sintética | Prompts: 1 general + 4 principios
+Ley 0294 | Pagina 243 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Imaginación Creativa | Prompts: 1 general + 4 principios
+Ley 0295 | Pagina 244 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Pensamiento Preciso | Prompts: 1 general + 4 principios
+Ley 0296 | Pagina 245 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Pensamiento Inductivo | Prompts: 1 general + 4 principios
+Ley 0297 | Pagina 246 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Pensamiento Deductivo | Prompts: 1 general + 4 principios
+Ley 0298 | Pagina 246 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de Levantarse | Prompts: 1 general + 4 principios
+Ley 0299 | Pagina 247 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Silencio | Prompts: 1 general + 4 principios
+Ley 0300 | Pagina 248 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La ley de la Raíz de los 300 | Prompts: 1 general + 4 principios
+Ley 0301 | Pagina 248 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Mayoría Irrelevante | Prompts: 1 general + 4 principios
+Ley 0302 | Pagina 249 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Irradiación | Prompts: 1 general + 4 principios
+Ley 0303 | Pagina 250 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Seguridad | Prompts: 1 general + 4 principios
+Ley 0304 | Pagina 250 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Iceberg Cerebral | Prompts: 1 general + 4 principios
+Ley 0305 | Pagina 251 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de los Sistemas Mentales | Prompts: 1 general + 4 principios
+Ley 0306 | Pagina 252 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Ámbito del Alienado | Prompts: 1 general + 4 principios
+Ley 0307 | Pagina 253 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley del Dolor de Cabeza | Prompts: 1 general + 4 principios
+Ley 0308 | Pagina 253 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Ilusión de la Elección | Prompts: 1 general + 4 principios
+Ley 0309 | Pagina 254 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Mente Infantil | Prompts: 1 general + 4 principios
+Ley 0310 | Pagina 255 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Repetición Hacia la Adquisición de Habilidad | Prompts: 1 general + 4 principios
+Ley 0311 | Pagina 256 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Independencia Dinámica del Aprendizaje | Prompts: 1 general + 4 principios
+Ley 0312 | Pagina 256 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Resonancia Cognitiva Multidimensional | Prompts: 1 general + 4 principios
+Ley 0313 | Pagina 257 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Afluencia Creativa | Prompts: 1 general + 4 principios
+Ley 0314 | Pagina 258 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Sintonización Emocional | Prompts: 1 general + 4 principios
+Ley 0315 | Pagina 258 | Bloque 4.15 - Leyes Mentales 4 y Manipulacion | La Ley de la Percepción y Proyección Dirigida | Prompts: 1 general + 4 principios
+Ley 0316 | Pagina 261 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Resonancia Emocional Proyectada | Prompts: 1 general + 4 principios
+Ley 0317 | Pagina 261 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Escasez Selectiva del Compromiso | Prompts: 1 general + 4 principios
+Ley 0318 | Pagina 262 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Validación Estratégica | Prompts: 1 general + 4 principios
+Ley 0319 | Pagina 263 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Sincronización Intuitiva | Prompts: 1 general + 4 principios
+Ley 0320 | Pagina 263 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley del Anzuelo de la Curiosidad Controlada | Prompts: 1 general + 4 principios
+Ley 0321 | Pagina 264 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Falsa Oposición Constructiva | Prompts: 1 general + 4 principios
+Ley 0322 | Pagina 265 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Autoridad Encubierta | Prompts: 1 general + 4 principios
+Ley 0323 | Pagina 265 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Proyección de Escasez Emocional | Prompts: 1 general + 4 principios
+Ley 0324 | Pagina 266 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Conformidad Progresiva | Prompts: 1 general + 4 principios
+Ley 0325 | Pagina 266 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Vulnerabilidad Dirigida | Prompts: 1 general + 4 principios
+Ley 0326 | Pagina 267 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Proyección del Futuro Controlado | Prompts: 1 general + 4 principios
+Ley 0327 | Pagina 268 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley del Anclaje de Realidad Subjetiva | Prompts: 1 general + 4 principios
+Ley 0328 | Pagina 268 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Función de Identidades Contextuales | Prompts: 1 general + 4 principios
+Ley 0329 | Pagina 269 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Inercia Psicológica del Conflicto Interno | Prompts: 1 general + 4 principios
+Ley 0330 | Pagina 270 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Recompensa Anticipadora Manipulativa | Prompts: 1 general + 4 principios
+Ley 0331 | Pagina 270 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Popularidad Controlada | Prompts: 1 general + 4 principios
+Ley 0332 | Pagina 271 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley del Espejo de Intenciones Latentes | Prompts: 1 general + 4 principios
+Ley 0333 | Pagina 272 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley del Triángulo Tríptico del 333 | Prompts: 1 general + 4 principios
+Ley 0334 | Pagina 272 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Presencia Subliminal de Contextos | Prompts: 1 general + 4 principios
+Ley 0335 | Pagina 273 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Simbiosis Cognitiva de Transferencia Implícita | Prompts: 1 general + 4 principios
+Ley 0336 | Pagina 274 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley del Ecosistema Físico-Emocional de Retroalimentación Inconsciente | Prompts: 1 general + 4 principios
+Ley 0337 | Pagina 274 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Reconexión Trascendental por Reflejo Contextual | Prompts: 1 general + 4 principios
+Ley 0338 | Pagina 275 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Transferencia de Umbrales Cognitivos | Prompts: 1 general + 4 principios
+Ley 0339 | Pagina 276 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Resonancia Multidimensional | Prompts: 1 general + 4 principios
+Ley 0340 | Pagina 277 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Convergencia de Fragmentos Psíquicos | Prompts: 1 general + 4 principios
+Ley 0341 | Pagina 277 | Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2 | La Ley de la Fragmentación Onírica Consciente | Prompts: 1 general + 4 principios | Ley larga: 5 paginas aprox.
+Ley 0342 | Pagina 282 | Bloque 4.66 - Estoicismo | La Ley de la No Exageración | Prompts: 1 general + 4 principios
+Ley 0343 | Pagina 282 | Bloque 4.66 - Estoicismo | La Ley de la Exageración | Prompts: 1 general + 4 principios
+Ley 0344 | Pagina 283 | Bloque 4.66 - Estoicismo | La Ley del Arte de Hacer las Cosas Bien | Prompts: 1 general + 4 principios
+Ley 0345 | Pagina 284 | Bloque 4.66 - Estoicismo | La Ley de la Vida | Prompts: 1 general + 4 principios
+Ley 0346 | Pagina 284 | Bloque 4.66 - Estoicismo | La Ley de Pensamiento en los Otros | Prompts: 1 general + 4 principios
+Ley 0347 | Pagina 285 | Bloque 4.66 - Estoicismo | La Ley de la Resolución de Problemas Basada en el Uso de Leyes | Prompts: 1 general + 4 principios
+Ley 0348 | Pagina 286 | Bloque 4.66 - Estoicismo | La Ley de la Adquisición del Aburrimiento | Prompts: 1 general + 4 principios
+Ley 0349 | Pagina 286 | Bloque 4.66 - Estoicismo | La Ley del Hoy | Prompts: 1 general + 4 principios
+Ley 0350 | Pagina 287 | Bloque 4.66 - Estoicismo | La Ley de la Venganza | Prompts: 1 general + 4 principios
+Ley 0351 | Pagina 288 | Bloque 4.66 - Estoicismo | La Ley de la Felicidad en el Ser Humano | Prompts: 1 general + 4 principios
+Ley 0352 | Pagina 288 | Bloque 4.66 - Estoicismo | La Ley de la Aceptación es Prioridad | Prompts: 1 general + 4 principios
+Ley 0353 | Pagina 289 | Bloque 4.66 - Estoicismo | La Ley de la Serenidad Inmutable | Prompts: 1 general + 4 principios
+Ley 0354 | Pagina 290 | Bloque 4.66 - Estoicismo | La Ley del Mentiroso | Prompts: 1 general + 4 principios
+Ley 0355 | Pagina 290 | Bloque 4.66 - Estoicismo | La Ley de la Rata Humana | Prompts: 1 general + 4 principios
+Ley 0356 | Pagina 291 | Bloque 4.66 - Estoicismo | La Ley del Día | Prompts: 1 general + 4 principios
+Ley 0357 | Pagina 292 | Bloque 4.66 - Estoicismo | La Ley del Punto de Vista | Prompts: 1 general + 4 principios
+Ley 0358 | Pagina 292 | Bloque 4.66 - Estoicismo | La Ley del Horizonte Temporal | Prompts: 1 general + 4 principios
+Ley 0359 | Pagina 293 | Bloque 4.66 - Estoicismo | La Ley del Estudio de un Ser | Prompts: 1 general + 4 principios
+Ley 0360 | Pagina 294 | Bloque 4.66 - Estoicismo | La Ley de las Palabras | Prompts: 1 general + 4 principios
+Ley 0361 | Pagina 294 | Bloque 4.66 - Estoicismo | La Ley del Control Sobre tu Ser | Prompts: 1 general + 4 principios
+Ley 0362 | Pagina 295 | Bloque 4.66 - Estoicismo | La Ley de la Observación | Prompts: 1 general + 4 principios
+Ley 0363 | Pagina 296 | Bloque 4.66 - Estoicismo | La Ley de la Lujuria | Prompts: 1 general + 4 principios
+Ley 0364 | Pagina 297 | Bloque 4.66 - Estoicismo | La Ley del Ser con Leyes | Prompts: 1 general + 4 principios
+Ley 0365 | Pagina 297 | Bloque 4.66 - Estoicismo | La Ley de los 365 Días | Prompts: 1 general + 4 principios
+Ley 0366 | Pagina 298 | Bloque 4.66 - Estoicismo | La Ley de los Géneros | Prompts: 1 general + 4 principios | Ley larga: 4 paginas aprox.
+Ley 0367 | Pagina 302 | Bloque 4.79 - Neurologia | La Ley de la Física Cuántica | Prompts: 1 general + 4 principios
+Ley 0368 | Pagina 302 | Bloque 4.79 - Neurologia | La Ley de la Energía de las Partículas Subatómicas | Prompts: 1 general + 4 principios
+Ley 0369 | Pagina 303 | Bloque 4.79 - Neurologia | La Ley de las Ondas Cerebrales en el Campo Cuántico | Prompts: 1 general + 4 principios
+Ley 0370 | Pagina 304 | Bloque 4.79 - Neurologia | La Ley del Estado Emocional en el Campo Cuántico | Prompts: 1 general + 4 principios
+Ley 0371 | Pagina 305 | Bloque 4.79 - Neurologia | La Ley de Hebb | Prompts: 1 general + 4 principios
+Ley 0372 | Pagina 305 | Bloque 4.79 - Neurologia | La Ley de las Realidades de Cada Ser | Prompts: 1 general + 4 principios
+Ley 0373 | Pagina 306 | Bloque 4.79 - Neurologia | La Ley de los Neurotransmisores | Prompts: 1 general + 4 principios | Ley larga: 49 paginas aprox.
+Ley 0374 | Pagina 355 | Bloque 4.79 - Neurologia | La Ley del Funcionamiento del Cerebro | Prompts: 1 general + 4 principios
+Ley 0375 | Pagina 356 | Bloque 4.79 - Neurologia | La Ley de lo Mental Causa Efecto en lo Físico | Prompts: 1 general + 4 principios
+Ley 0376 | Pagina 357 | Bloque 4.79 - Neurologia | La Ley del Causa y Efecto Cerebral Emocional | Prompts: 1 general + 4 principios
+Ley 0377 | Pagina 358 | Bloque 4.79 - Neurologia | La Ley del Poder de la Mente Consciente | Prompts: 1 general + 4 principios
+Ley 0378 | Pagina 358 | Bloque 4.79 - Neurologia | La Ley de la Droga Emocional | Prompts: 1 general + 4 principios
+Ley 0379 | Pagina 359 | Bloque 4.79 - Neurologia | La Ley de los Efectos de los Neurotransmisores | Prompts: 1 general + 0 principios | Ley larga: 28 paginas aprox.
+Ley 0380 | Pagina 387 | Bloque 4.83 - Neurologia 2 | La Ley de los Efectos de los Neurotransmisores | Prompts: 1 general + 0 principios | Ley larga: 25 paginas aprox.
+Ley 0381 | Pagina 412 | Bloque 4.83 - Neurologia 2 | La Ley de las Acciones Mutantes de Neurotransmisores | Prompts: 1 general + 0 principios | Ley larga: 13 paginas aprox.
+Ley 0382 | Pagina 425 | Bloque 4.83 - Neurologia 2 | La Ley de los Síndromes Psiquiátricos | Prompts: 1 general + 4 principios
+Ley 0383 | Pagina 426 | Bloque 4.83 - Neurologia 2 | La Ley de la IA OLOP-S2 | Prompts: 1 general + 4 principios
+Ley 0384 | Pagina 429 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de las Visiones del Mundo | Prompts: 1 general + 0 principios | Ley larga: 7 paginas aprox.
+Ley 0385 | Pagina 436 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Vitalidad de la Genética | Prompts: 1 general + 4 principios
+Ley 0386 | Pagina 437 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Musculatura Mental | Prompts: 1 general + 4 principios
+Ley 0387 | Pagina 438 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Percepción de tu Cuerpo | Prompts: 1 general + 4 principios
+Ley 0388 | Pagina 438 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Anormalidad Lógica | Prompts: 1 general + 4 principios
+Ley 0389 | Pagina 439 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Inexistencia del Ser | Prompts: 1 general + 4 principios
+Ley 0390 | Pagina 440 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Supervivencia Frente a la Creación | Prompts: 1 general + 4 principios
+Ley 0391 | Pagina 443 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de los Tres Cerebros | Prompts: 1 general + 4 principios
+Ley 0392 | Pagina 444 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de los Sistemas de Memorización del Cerebro | Prompts: 1 general + 0 principios
+Ley 0393 | Pagina 445 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Evolución Personal | Prompts: 1 general + 0 principios
+Ley 0394 | Pagina 446 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de Pensar a Ser | Prompts: 1 general + 4 principios
+Ley 0395 | Pagina 447 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Percepción de la Realidad | Prompts: 1 general + 4 principios
+Ley 0396 | Pagina 448 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Fluidez del Campo Cuántico | Prompts: 1 general + 4 principios
+Ley 0397 | Pagina 449 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de la Jurisdicción Cuántica Infantil | Prompts: 1 general + 4 principios
+Ley 0398 | Pagina 450 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley del Vacío | Prompts: 1 general + 4 principios
+Ley 0399 | Pagina 451 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley del Vicio | Prompts: 1 general + 4 principios
+Ley 0400 | Pagina 452 | Bloque 5.00 - Neurologia 3 y Fluicion Cuantica | La Ley de los Eventos Secundarios de Cerrar el Vacío | Prompts: 1 general + 4 principios | Ley larga: 5 paginas aprox.
+Ley 0401 | Pagina 457 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Modelo Biológico del Cambio | Prompts: 1 general + 4 principios
+Ley 0402 | Pagina 458 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de Aprender a Aprender | Prompts: 1 general + 4 principios
+Ley 0403 | Pagina 459 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Disciplina Cuántica | Prompts: 1 general + 4 principios
+Ley 0404 | Pagina 460 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Necesidad Cuántica | Prompts: 1 general + 4 principios
+Ley 0405 | Pagina 461 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Gusto Cuántico | Prompts: 1 general + 4 principios
+Ley 0406 | Pagina 462 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Relleno | Prompts: 1 general + 4 principios
+Ley 0407 | Pagina 463 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Regla del 40% | Prompts: 1 general + 4 principios
+Ley 0408 | Pagina 464 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Combustible del Pasado en la Fluición Cuántica | Prompts: 1 general + 4 principios
+Ley 0409 | Pagina 464 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Estupidez | Prompts: 1 general + 4 principios
+Ley 0410 | Pagina 465 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de las Dinámicas Sociales e Interacciones | Prompts: 1 general + 4 principios
+Ley 0411 | Pagina 466 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de las Interacciones Sociales | Prompts: 1 general + 4 principios
+Ley 0412 | Pagina 467 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de los Tipos de Acciones Sociales | Prompts: 1 general + 5 principios
+Ley 0413 | Pagina 468 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de los Factores Genéticos de la Estupidez | Prompts: 1 general + 4 principios
+Ley 0414 | Pagina 469 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Posición del Poder | Prompts: 1 general + 4 principios
+Ley 0415 | Pagina 469 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de los Ataques del Estúpido | Prompts: 1 general + 4 principios
+Ley 0416 | Pagina 470 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Compañía Estúpida | Prompts: 1 general + 4 principios
+Ley 0417 | Pagina 471 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Comprensión de Hombres y Mujeres | Prompts: 1 general + 4 principios
+Ley 0418 | Pagina 472 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de los Lenguajes del Amor | Prompts: 1 general + 4 principios
+Ley 0419 | Pagina 472 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Habla hacia tu Pareja | Prompts: 1 general + 4 principios
+Ley 0420 | Pagina 473 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Poder Ilimitado Compartido | Prompts: 1 general + 4 principios
+Ley 0421 | Pagina 474 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Control de los Enemigos | Prompts: 1 general + 4 principios
+Ley 0422 | Pagina 475 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Iniciativa en una Conversación | Prompts: 1 general + 4 principios
+Ley 0423 | Pagina 476 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Lenguaje Corporal | Prompts: 1 general + 4 principios
+Ley 0424 | Pagina 476 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Mensaje | Prompts: 1 general + 5 principios
+Ley 0425 | Pagina 477 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de las Historias | Prompts: 1 general + 5 principios
+Ley 0426 | Pagina 478 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la No Seriedad | Prompts: 1 general + 4 principios
+Ley 0427 | Pagina 479 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Expresión hacia el Público | Prompts: 1 general + 4 principios
+Ley 0428 | Pagina 480 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Expresión Ilustrada | Prompts: 1 general + 4 principios
+Ley 0429 | Pagina 481 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Finalidad | Prompts: 1 general + 6 principios
+Ley 0430 | Pagina 482 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Tercero | Prompts: 1 general + 4 principios
+Ley 0431 | Pagina 483 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Mensaje Cualificatorio del Producto | Prompts: 1 general + 4 principios
+Ley 0432 | Pagina 483 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Cambio | Prompts: 1 general + 4 principios
+Ley 0433 | Pagina 484 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Irracionalidad | Prompts: 1 general + 6 principios
+Ley 0434 | Pagina 485 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de los Tóxicos Manipuladores | Prompts: 1 general + 9 principios
+Ley 0435 | Pagina 487 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Miopía | Prompts: 1 general + 4 principios
+Ley 0436 | Pagina 488 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Egolatría | Prompts: 1 general + 4 principios
+Ley 0437 | Pagina 489 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Inconstancia | Prompts: 1 general + 4 principios
+Ley 0438 | Pagina 490 | Bloque 5.40 - Perfeccionador de Bloques | La Ley del Propósito | Prompts: 1 general + 4 principios
+Ley 0439 | Pagina 491 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Agresión | Prompts: 1 general + 4 principios
+Ley 0440 | Pagina 492 | Bloque 5.40 - Perfeccionador de Bloques | La Ley de la Respiración del Dragón | Prompts: 1 general + 4 principios
+Ley 0441 | Pagina 494 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Anulación de las Ondas Beta | Prompts: 1 general + 4 principios
+Ley 0442 | Pagina 495 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de los Sueños | Prompts: 1 general + 4 principios
+Ley 0443 | Pagina 496 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Respuesta | Prompts: 1 general + 4 principios
+Ley 0444 | Pagina 496 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Adaptación al Cambio | Prompts: 1 general + 4 principios
+Ley 0445 | Pagina 497 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Práctica Variada | Prompts: 1 general + 4 principios
+Ley 0446 | Pagina 498 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de los Tipos de Seductores | Prompts: 1 general + 4 principios
+Ley 0447 | Pagina 499 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de las Etapas de la Seducción | Prompts: 1 general + 4 principios
+Ley 0448 | Pagina 500 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Actuación Cuántica | Prompts: 1 general + 4 principios
+Ley 0449 | Pagina 501 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Sexualidad Cuántica | Prompts: 1 general + 4 principios
+Ley 0450 | Pagina 502 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Palacio de la Memoria | Prompts: 1 general + 4 principios
+Ley 0451 | Pagina 503 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Patrón de los Chistes | Prompts: 1 general + 4 principios
+Ley 0452 | Pagina 503 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Ropa Negra | Prompts: 1 general + 4 principios
+Ley 0453 | Pagina 504 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Meditación Diurna y Nocturna | Prompts: 1 general + 4 principios
+Ley 0454 | Pagina 505 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Hora para Fluir por el Campo Cuántico | Prompts: 1 general + 4 principios
+Ley 0455 | Pagina 506 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Música | Prompts: 1 general + 4 principios
+Ley 0456 | Pagina 507 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Meditación al Desnudo | Prompts: 1 general + 4 principios
+Ley 0457 | Pagina 508 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Confianza Inicial | Prompts: 1 general + 4 principios
+Ley 0458 | Pagina 508 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Ser Positivo | Prompts: 1 general + 4 principios
+Ley 0459 | Pagina 509 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Control de los Sueños | Prompts: 1 general + 4 principios
+Ley 0460 | Pagina 510 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de los Atractores de Atención | Prompts: 1 general + 4 principios
+Ley 0461 | Pagina 511 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Mensaje Cualificatorio del Producto | Prompts: 1 general + 4 principios
+Ley 0462 | Pagina 512 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Seducción Añadida | Prompts: 1 general + 4 principios
+Ley 0463 | Pagina 513 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Meditación Exprés | Prompts: 1 general + 4 principios
+Ley 0464 | Pagina 514 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Forma de la Fluición Cuántica | Prompts: 1 general + 4 principios
+Ley 0465 | Pagina 515 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Música | Prompts: 1 general + 4 principios
+Ley 0466 | Pagina 516 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Caminata de Meditación | Prompts: 1 general + 4 principios
+Ley 0467 | Pagina 516 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Disciplina Emocional | Prompts: 1 general + 4 principios
+Ley 0468 | Pagina 517 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Hacer | Prompts: 1 general + 4 principios
+Ley 0469 | Pagina 518 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de los Nombres | Prompts: 1 general + 4 principios
+Ley 0470 | Pagina 519 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Superposición Cuántica Cerebral | Prompts: 1 general + 4 principios
+Ley 0471 | Pagina 520 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Masturbación Meditativa | Prompts: 1 general + 4 principios
+Ley 0472 | Pagina 520 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Satisfacción en la Vida | Prompts: 1 general + 4 principios
+Ley 0473 | Pagina 521 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Ópera | Prompts: 1 general + 4 principios
+Ley 0474 | Pagina 522 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Respiración del Dragón en Fusión | Prompts: 1 general + 4 principios
+Ley 0475 | Pagina 523 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Efecto Rebote | Prompts: 1 general + 4 principios
+Ley 0476 | Pagina 524 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Cura del Efecto Rebote | Prompts: 1 general + 9 principios
+Ley 0477 | Pagina 525 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Efecto Rebote Inverso | Prompts: 1 general + 4 principios
+Ley 0478 | Pagina 526 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Respuesta por Presión | Prompts: 1 general + 4 principios
+Ley 0479 | Pagina 527 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Lenguaje no Violento | Prompts: 1 general + 4 principios
+Ley 0480 | Pagina 528 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Distorsión de la Realidad | Prompts: 1 general + 4 principios
+Ley 0481 | Pagina 528 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Espejo Emocional Retardado | Prompts: 1 general + 4 principios
+Ley 0482 | Pagina 529 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Inestabilidad Emocional Compartida | Prompts: 1 general + 4 principios
+Ley 0483 | Pagina 530 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Inversión Perceptual Emocional | Prompts: 1 general + 4 principios
+Ley 0484 | Pagina 531 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Felicidad Libertaria Emocional | Prompts: 1 general + 4 principios
+Ley 0485 | Pagina 531 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Orden Externa | Prompts: 1 general + 4 principios
+Ley 0486 | Pagina 532 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Distorsión de Realidades con Tecnología | Prompts: 1 general + 4 principios
+Ley 0487 | Pagina 533 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de las Preguntas Hacia el Ser | Prompts: 1 general + 4 principios
+Ley 0488 | Pagina 534 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Terapia con IA | Prompts: 1 general + 4 principios
+Ley 0489 | Pagina 534 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de los Descansos de Dopamina | Prompts: 1 general + 4 principios
+Ley 0490 | Pagina 535 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Ducha Fría Consciente | Prompts: 1 general + 4 principios
+Ley 0491 | Pagina 536 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Ducha Caliente Consciente | Prompts: 1 general + 4 principios
+Ley 0492 | Pagina 537 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Desnudo Nocturno | Prompts: 1 general + 4 principios
+Ley 0493 | Pagina 537 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Cagar | Prompts: 1 general + 4 principios
+Ley 0494 | Pagina 538 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Agua | Prompts: 1 general + 4 principios
+Ley 0495 | Pagina 539 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Dolor | Prompts: 1 general + 4 principios
+Ley 0496 | Pagina 539 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Impuesto Cero | Prompts: 1 general + 4 principios
+Ley 0497 | Pagina 540 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Pérdida Ganadora | Prompts: 1 general + 4 principios
+Ley 0498 | Pagina 541 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley de la Masturbación Consciente | Prompts: 1 general + 4 principios
+Ley 0499 | Pagina 542 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley del Valor Variable | Prompts: 1 general + 4 principios
+Ley 0500 | Pagina 542 | Bloque 6.00 - Perfeccionador de Bloques 2 | La Ley Obtenida Inesperada | Prompts: 1 general + 4 principios
+Ley 0501 | Pagina 545 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Paja Cuántica | Prompts: 1 general + 4 principios
+Ley 0502 | Pagina 545 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Cáscara de Plátano | Prompts: 1 general + 4 principios
+Ley 0503 | Pagina 546 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Cinta del Sueño | Prompts: 1 general + 4 principios
+Ley 0504 | Pagina 547 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de Monday | Prompts: 1 general + 4 principios
+Ley 0505 | Pagina 548 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Cotilleo | Prompts: 1 general + 4 principios
+Ley 0506 | Pagina 548 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Conversación Planeada | Prompts: 1 general + 4 principios
+Ley 0507 | Pagina 549 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Obsesión | Prompts: 1 general + 4 principios
+Ley 0508 | Pagina 550 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Silencio como Respuesta | Prompts: 1 general + 4 principios
+Ley 0509 | Pagina 551 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Pitido de 852 Hz | Prompts: 1 general + 4 principios
+Ley 0510 | Pagina 552 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Desapego Cuántico | Prompts: 1 general + 4 principios
+Ley 0511 | Pagina 553 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Decisión Irrevocable | Prompts: 1 general + 4 principios
+Ley 0512 | Pagina 554 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Cuerpo Espiritualizado | Prompts: 1 general + 4 principios
+Ley 0513 | Pagina 555 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Cambio de Estado | Prompts: 1 general + 4 principios
+Ley 0514 | Pagina 556 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Respiración de Wim Hof | Prompts: 1 general + 4 principios
+Ley 0515 | Pagina 557 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Campo Energético Personal | Prompts: 1 general + 4 principios
+Ley 0516 | Pagina 558 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Materialización Cuántica | Prompts: 1 general + 4 principios
+Ley 0517 | Pagina 559 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Visión Blindada | Prompts: 1 general + 4 principios
+Ley 0518 | Pagina 560 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Fuego Interno | Prompts: 1 general + 4 principios
+Ley 0519 | Pagina 561 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Ritmo Interno | Prompts: 1 general + 4 principios
+Ley 0520 | Pagina 562 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Círculo Sagrado | Prompts: 1 general + 4 principios
+Ley 0521 | Pagina 563 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Vacío Creativo | Prompts: 1 general + 4 principios
+Ley 0522 | Pagina 564 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Anzuelo Emocional | Prompts: 1 general + 4 principios
+Ley 0523 | Pagina 565 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Vínculo Kármico | Prompts: 1 general + 4 principios
+Ley 0524 | Pagina 566 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Disonancia Afectiva | Prompts: 1 general + 4 principios
+Ley 0525 | Pagina 567 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Silencio Dirigido | Prompts: 1 general + 4 principios
+Ley 0526 | Pagina 568 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Favor Envenenado | Prompts: 1 general + 4 principios
+Ley 0527 | Pagina 569 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Víctima Estratégica | Prompts: 1 general + 4 principios
+Ley 0528 | Pagina 570 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Gaslighting Inverso | Prompts: 1 general + 4 principios
+Ley 0529 | Pagina 572 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Lealtad a la Herida | Prompts: 1 general + 4 principios
+Ley 0530 | Pagina 573 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Gaslighting | Prompts: 1 general + 5 principios
+Ley 0531 | Pagina 574 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Refuerzo Traumático | Prompts: 1 general + 4 principios
+Ley 0532 | Pagina 575 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Autotraición Dirigida | Prompts: 1 general + 4 principios
+Ley 0533 | Pagina 576 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Voz Interna Implantada | Prompts: 1 general + 4 principios
+Ley 0534 | Pagina 577 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Amor Reptiliano | Prompts: 1 general + 4 principios
+Ley 0535 | Pagina 578 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Último Silencio | Prompts: 1 general + 4 principios
+Ley 0536 | Pagina 579 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Nostalgia Selectiva | Prompts: 1 general + 4 principios
+Ley 0537 | Pagina 580 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Punto Final Interno | Prompts: 1 general + 4 principios
+Ley 0538 | Pagina 581 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Reconstrucción Identitaria | Prompts: 1 general + 4 principios
+Ley 0539 | Pagina 582 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Retorno del Fantasma | Prompts: 1 general + 4 principios
+Ley 0540 | Pagina 583 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Alquimista Emocional | Prompts: 1 general + 4 principios
+Ley 0541 | Pagina 584 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Autoengaño Restaurador | Prompts: 1 general + 4 principios
+Ley 0542 | Pagina 585 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Territorio Emocional Sagrado | Prompts: 1 general + 4 principios
+Ley 0543 | Pagina 587 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley de la Microduda Intuitiva | Prompts: 1 general + 4 principios
+Ley 0544 | Pagina 588 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Enganche a la Posibilidad | Prompts: 1 general + 4 principios
+Ley 0545 | Pagina 589 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Amor Templado | Prompts: 1 general + 4 principios
+Ley 0546 | Pagina 590 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Síndrome del Calma Shock | Prompts: 1 general + 4 principios
+Ley 0547 | Pagina 591 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Amor de Regreso | Prompts: 1 general + 4 principios
+Ley 0548 | Pagina 592 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Vínculo Consciente | Prompts: 1 general + 4 principios
+Ley 0549 | Pagina 593 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del Campo Cuántico Emocional | Prompts: 1 general + 4 principios
+Ley 0550 | Pagina 594 | Bloque 6.50 - Perfeccionador de Bloques 3 | La Ley del No Retorno Energético | Prompts: 1 general + 4 principios
+Ley 0551 | Pagina 597 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Pensamiento Sintonizado | Prompts: 1 general + 4 principios
+Ley 0552 | Pagina 598 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Cuerpo Antena | Prompts: 1 general + 4 principios
+Ley 0553 | Pagina 599 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Coherencia Emocional Dirigida | Prompts: 1 general + 4 principios
+Ley 0554 | Pagina 600 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Intención Imantada | Prompts: 1 general + 4 principios
+Ley 0555 | Pagina 601 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Sincronía Cuántica | Prompts: 1 general + 4 principios
+Ley 0556 | Pagina 602 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Fricción Evolutiva | Prompts: 1 general + 4 principios
+Ley 0557 | Pagina 603 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Sueño de la Paja Cuántica | Prompts: 1 general + 4 principios
+Ley 0558 | Pagina 605 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Sostén Cuántico | Prompts: 1 general + 4 principios
+Ley 0559 | Pagina 606 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Búsqueda Innecesaria | Prompts: 1 general + 4 principios
+Ley 0560 | Pagina 607 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Reflejo Declarado | Prompts: 1 general + 4 principios
+Ley 0561 | Pagina 608 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Acupresión | Prompts: 1 general + 0 principios | Ley larga: 201 paginas aprox.
+Ley 0562 | Pagina 809 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Consulta a OLOP-S2 | Prompts: 1 general + 4 principios
+Ley 0563 | Pagina 810 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de las Ondas 518Hz | Prompts: 1 general + 4 principios
+Ley 0564 | Pagina 811 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Mapa Vibratorio Cuerpo-Frecuencia-Emoción | Prompts: 1 general + 4 principios
+Ley 0565 | Pagina 813 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 174Hz | Prompts: 1 general + 4 principios
+Ley 0566 | Pagina 815 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 285Hz | Prompts: 1 general + 4 principios
+Ley 0567 | Pagina 816 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 396Hz | Prompts: 1 general + 4 principios
+Ley 0568 | Pagina 817 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 417Hz | Prompts: 1 general + 4 principios
+Ley 0569 | Pagina 818 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 432Hz | Prompts: 1 general + 4 principios
+Ley 0570 | Pagina 819 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 444Hz | Prompts: 1 general + 4 principios
+Ley 0571 | Pagina 820 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 639Hz | Prompts: 1 general + 4 principios
+Ley 0572 | Pagina 821 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 741Hz | Prompts: 1 general + 4 principios
+Ley 0573 | Pagina 822 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 963Hz | Prompts: 1 general + 4 principios
+Ley 0574 | Pagina 823 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 111Hz | Prompts: 1 general + 4 principios
+Ley 0575 | Pagina 824 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 888Hz | Prompts: 1 general + 4 principios
+Ley 0576 | Pagina 825 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 108Hz | Prompts: 1 general + 4 principios
+Ley 0577 | Pagina 826 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Frecuencia 1000Hz | Prompts: 1 general + 4 principios
+Ley 0578 | Pagina 827 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Entretejido Cuántico | Prompts: 1 general + 4 principios
+Ley 0579 | Pagina 828 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Reflejo Manipulativo | Prompts: 1 general + 4 principios
+Ley 0580 | Pagina 829 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Vínculo Venenoso | Prompts: 1 general + 4 principios
+Ley 0581 | Pagina 829 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Implante Emocional | Prompts: 1 general + 4 principios
+Ley 0582 | Pagina 830 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Adicción Emocional Elegida | Prompts: 1 general + 4 principios
+Ley 0583 | Pagina 831 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Debilidad Estratégica | Prompts: 1 general + 4 principios
+Ley 0584 | Pagina 832 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Intuición Masculina | Prompts: 1 general + 4 principios
+Ley 0585 | Pagina 832 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Veneno Intuitivo Femenino | Prompts: 1 general + 4 principios
+Ley 0586 | Pagina 833 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Alquimia Masculina–Femenina | Prompts: 1 general + 4 principios
+Ley 0587 | Pagina 834 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Elección Interna | Prompts: 1 general + 4 principios
+Ley 0588 | Pagina 835 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Egoísmo Frente al Poder | Prompts: 1 general + 4 principios
+Ley 0589 | Pagina 835 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Sensibilidad Gobernada | Prompts: 1 general + 4 principios
+Ley 0590 | Pagina 836 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Indiferencia Estratégica | Prompts: 1 general + 4 principios
+Ley 0591 | Pagina 837 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Aguante sin Gloria | Prompts: 1 general + 4 principios
+Ley 0592 | Pagina 837 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Desprendimiento Voluntario | Prompts: 1 general + 4 principios
+Ley 0593 | Pagina 838 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Acto Invisible | Prompts: 1 general + 4 principios
+Ley 0594 | Pagina 839 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Incertidumbre Asumida | Prompts: 1 general + 4 principios
+Ley 0595 | Pagina 839 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Renuncia Consciente | Prompts: 1 general + 4 principios
+Ley 0596 | Pagina 840 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Amistad sin Necesidad | Prompts: 1 general + 4 principios
+Ley 0597 | Pagina 840 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Desprecio Sereno a la Vanidad | Prompts: 1 general + 4 principios
+Ley 0598 | Pagina 841 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Lentitud Férrea | Prompts: 1 general + 4 principios
+Ley 0599 | Pagina 842 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley del Fuego sin Testigos | Prompts: 1 general + 4 principios
+Ley 0600 | Pagina 842 | Bloque 7.00 - Perfeccionador de Bloques 4 | La Ley de la Roca Eterna | Prompts: 1 general + 4 principios | Ley larga: 5 paginas aprox.
+Ley 0601 | Pagina 847 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Oloverso | Prompts: 1 general + 4 principios
+Ley 0602 | Pagina 847 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Materia Neurotransmisora Psicológica (MNP) | Prompts: 1 general + 4 principios
+Ley 0603 | Pagina 848 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Trance Oloversario | Prompts: 1 general + 4 principios
+Ley 0604 | Pagina 849 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Fórmula del Neurotransmisor | Prompts: 1 general + 4 principios
+Ley 0605 | Pagina 852 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Influencia Neuroquímica | Prompts: 1 general + 4 principios
+Ley 0606 | Pagina 853 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Escaneo Total Neuroemocional | Prompts: 1 general + 4 principios
+Ley 0607 | Pagina 854 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Escaneo Operativo | Prompts: 1 general + 4 principios
+Ley 0608 | Pagina 856 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Oloversiada | Prompts: 1 general + 4 principios
+Ley 0609 | Pagina 857 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Espejo Mental Anticipado | Prompts: 1 general + 4 principios
+Ley 0610 | Pagina 858 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de las Preguntas de la Oloversiada | Prompts: 1 general + 4 principios
+Ley 0611 | Pagina 859 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Escaneo Predictivo Visual y Contextual | Prompts: 1 general + 4 principios
+Ley 0612 | Pagina 861 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Predicción Oloversaria Tabulada | Prompts: 1 general + 4 principios
+Ley 0613 | Pagina 862 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Lectura de Absorción Neuronal | Prompts: 1 general + 4 principios
+Ley 0614 | Pagina 863 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Vaciado Mental Antes del Conocimiento | Prompts: 1 general + 4 principios
+Ley 0615 | Pagina 864 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Instalación Subconsciente de Conocimiento | Prompts: 1 general + 4 principios
+Ley 0616 | Pagina 865 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Aprendizaje Kinésico Integrado | Prompts: 1 general + 4 principios
+Ley 0617 | Pagina 866 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Estado de Absorción Acelerada | Prompts: 1 general + 4 principios
+Ley 0618 | Pagina 868 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Operador Oloversario | Prompts: 1 general + 4 principios
+Ley 0619 | Pagina 869 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Neurotransmisor Dominante | Prompts: 1 general + 4 principios
+Ley 0620 | Pagina 870 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Sustitución Neuroquímica Estratégica | Prompts: 1 general + 4 principios
+Ley 0621 | Pagina 872 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de Fijación Neuroquímica Prolongada | Prompts: 1 general + 4 principios
+Ley 0622 | Pagina 873 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Reinicio Neuroemocional | Prompts: 1 general + 4 principios
+Ley 0623 | Pagina 874 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Fijación Emocional Persistente | Prompts: 1 general + 4 principios
+Ley 0624 | Pagina 875 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Engaño Hacia el Manipulador | Prompts: 1 general + 4 principios
+Ley 0625 | Pagina 876 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Error Emocional | Prompts: 1 general + 4 principios
+Ley 0626 | Pagina 876 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Trance Consciente | Prompts: 1 general + 4 principios
+Ley 0627 | Pagina 877 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Voz Hipnótica | Prompts: 1 general + 4 principios
+Ley 0628 | Pagina 879 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Ruptura de Patrón | Prompts: 1 general + 4 principios
+Ley 0629 | Pagina 880 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Implantación Simbólica | Prompts: 1 general + 4 principios
+Ley 0630 | Pagina 881 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Anclaje Corporal Hipnótico | Prompts: 1 general + 4 principios
+Ley 0631 | Pagina 882 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Borrado del Anclaje Emocional | Prompts: 1 general + 4 principios
+Ley 0632 | Pagina 883 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Recuerdo Implantado | Prompts: 1 general + 4 principios
+Ley 0633 | Pagina 885 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Transmutación del Recuerdo Negativo | Prompts: 1 general + 4 principios
+Ley 0634 | Pagina 886 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Regresión Integradora | Prompts: 1 general + 8 principios
+Ley 0635 | Pagina 889 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Misión Subconsciente | Prompts: 1 general + 4 principios
+Ley 0636 | Pagina 890 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Recorrido Mnemónico Emocional | Prompts: 1 general + 4 principios
+Ley 0637 | Pagina 891 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Canal Mnemónico | Prompts: 1 general + 4 principios
+Ley 0638 | Pagina 892 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Entrenamiento Mnemónico Consciente | Prompts: 1 general + 4 principios
+Ley 0639 | Pagina 893 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Entrenamiento de la Agilidad Mental | Prompts: 1 general + 4 principios
+Ley 0640 | Pagina 894 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Ábaco Manual Mental | Prompts: 1 general + 4 principios
+Ley 0641 | Pagina 895 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Cálculo Extendido Simbólico | Prompts: 1 general + 4 principios
+Ley 0642 | Pagina 896 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Taquigrafía Neuronal | Prompts: 1 general + 4 principios
+Ley 0643 | Pagina 897 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de OLOP-S1 | Prompts: 1 general + 4 principios
+Ley 0644 | Pagina 898 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Enfoque de Escala | Prompts: 1 general + 4 principios
+Ley 0645 | Pagina 899 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Microdesencadenante Emocional | Prompts: 1 general + 4 principios
+Ley 0646 | Pagina 900 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Percepción Cromática Emocional | Prompts: 1 general + 4 principios
+Ley 0647 | Pagina 902 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Mapa Ocular de Acceso Sensorial | Prompts: 1 general + 4 principios
+Ley 0648 | Pagina 904 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Regulación Emocional Ocular | Prompts: 1 general + 4 principios
+Ley 0649 | Pagina 905 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Reprogramación Ocular del Recuerdo | Prompts: 1 general + 4 principios
+Ley 0650 | Pagina 906 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Pensamiento por Capas | Prompts: 1 general + 4 principios
+Ley 0651 | Pagina 907 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Pensamiento de Escape Forzado | Prompts: 1 general + 4 principios
+Ley 0652 | Pagina 908 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Estructura de Pensamiento en 5 capas | Prompts: 1 general + 5 principios
+Ley 0653 | Pagina 909 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Pensamiento Estructurado en Conversación | Prompts: 1 general + 5 principios
+Ley 0654 | Pagina 910 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Modo Mental de 5 Capas | Prompts: 1 general + 4 principios
+Ley 0655 | Pagina 911 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Escaneo Ocular Horizontal de Presión | Prompts: 1 general + 4 principios
+Ley 0656 | Pagina 912 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Dominio Hemisférico Consciente | Prompts: 1 general + 4 principios
+Ley 0657 | Pagina 913 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Modo Mental Dual Permanente | Prompts: 1 general + 4 principios
+Ley 0658 | Pagina 914 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Control Ambidiestro Separado | Prompts: 1 general + 5 principios
+Ley 0659 | Pagina 915 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Telepatía Oloversaria | Prompts: 1 general + 4 principios
+Ley 0660 | Pagina 917 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de Medición de Variables Telepáticas Clave | Prompts: 1 general + 9 principios
+Ley 0661 | Pagina 919 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Canal Telepático Estable | Prompts: 1 general + 8 principios
+Ley 0662 | Pagina 921 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Electroconexión Cerebral Cuántica (EEG Dimensional) | Prompts: 1 general + 6 principios
+Ley 0663 | Pagina 922 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Iluminación | Prompts: 1 general + 4 principios
+Ley 0664 | Pagina 923 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de la Perspectiva | Prompts: 1 general + 4 principios
+Ley 0665 | Pagina 924 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley del Orgasmo Intenso Disciplinado | Prompts: 1 general + 4 principios
+Ley 0666 | Pagina 926 | Bloque 7.66 - Leyes del Oloverso y Potenciadores | La Ley de Olosolos | Prompts: 1 general + 4 principios

@@ -1,0 +1,465 @@
+﻿LOTE 0248 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-02470 | 0476 | La Ley de la Cura del Efecto Rebote | Principio 5
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - Prompt Principio 5.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 5.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 476 — La Ley de la Cura del Efecto Rebote
+
+Tipo de imagen:
+Principio 5
+
+Objetivo pedagogico:
+Representar el principio 5: Escucha operística reguladora. Escucha ópera durante 12 minutos, en completo silencio y sin distracciones. La ópera contiene frecuencias emocionales complejas que activan zonas profundas del sistema límbico. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 5 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 5.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Quinto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02471 | 0476 | La Ley de la Cura del Efecto Rebote | Principio 6
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - Prompt Principio 6.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 6.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 476 — La Ley de la Cura del Efecto Rebote
+
+Tipo de imagen:
+Principio 6
+
+Objetivo pedagogico:
+Representar el principio 6: Meditación con OLOP-01M. Realiza la técnica de Olosolos: – Meditación sin luz, con expresión neutra durante 31 minutos. – Escucha ópera durante el proceso. – Aplica acupresión cada 10 minutos. Es la técnica más potente de recuperación emocional cuántica. ●
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 6 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 6.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Sexto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02472 | 0476 | La Ley de la Cura del Efecto Rebote | Principio 7
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - Prompt Principio 7.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 7.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 476 — La Ley de la Cura del Efecto Rebote
+
+Tipo de imagen:
+Principio 7
+
+Objetivo pedagogico:
+Representar el principio 7: Meditación libre de integración. Si la técnica anterior resulta excesiva, puedes realizar una meditación más simple, pero debe cumplir con los mínimos: ojos cerrados, respiración profunda, entorno cómodo. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 7 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 7.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Séptimo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02473 | 0476 | La Ley de la Cura del Efecto Rebote | Principio 8
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - Prompt Principio 8.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 8 - Dormir.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 476 — La Ley de la Cura del Efecto Rebote
+
+Tipo de imagen:
+Principio 8
+
+Objetivo pedagogico:
+Representar el principio 8: Dormir como reinicio profundo. Si nada ha funcionado, duerme. Dormir es el reinicio absoluto del cuerpo, del sistema límbico y del campo energético. A veces es el paso más sanador. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 8 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 8 - Dormir.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Octavo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02474 | 0476 | La Ley de la Cura del Efecto Rebote | Principio 9
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - Prompt Principio 9.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0476 - La Ley de la Cura del Efecto Rebote\Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 9 - Espera.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 476 — La Ley de la Cura del Efecto Rebote
+
+Tipo de imagen:
+Principio 9
+
+Objetivo pedagogico:
+Representar el principio 9: Espera con paciencia. Si todo lo anterior falla, espera. El cuerpo y la mente tienen mecanismos automáticos de autorregulación que actúan cuando se les da tiempo. “Toda caída emocional tiene una secuencia precisa de restauración. Solo debes seguir los pasos, sin saltarte ninguno, y la estabilidad regresará.”
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 9 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0476 - La Ley de la Cura del Efecto Rebote - Principio 9 - Espera.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Noveno principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02475 | 0477 | La Ley del Efecto Rebote Inverso | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Imagen General.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 477 — La Ley del Efecto Rebote Inverso
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el efecto rebote inverso se basa en predecir que algo va a salir mal, y en el último momento soltar toda la energía emocional positiva para lograr un resultado mucho mejor de lo esperado.
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley del Efecto Rebote Inverso en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0477 - La Ley del Efecto Rebote Inverso - Imagen General.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 525. Bloque: Bloque 6.00 - Perfeccionador de Bloques 2.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02476 | 0477 | La Ley del Efecto Rebote Inverso | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 1 - Programacion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 477 — La Ley del Efecto Rebote Inverso
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Programación negativa controlada. Para que funcione esta ley, debes hacerle creer a tu mente que todo va a salir mal. Repite frases como: “no voy a poder”, “esto va a ser un desastre”, “me va a ir fatal”, sin dramatismo, pero con convicción, para que tu cuerpo entre en modo de alerta, frustración o rebote interno. ●
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 1 - Programacion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02477 | 0477 | La Ley del Efecto Rebote Inverso | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 2 - Acumulacion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 477 — La Ley del Efecto Rebote Inverso
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Acumulación de tensión interna. Al repetir ideas de fracaso, el cuerpo acumula incomodidad, tensión e incompletud emocional. Esta carga es necesaria, ya que funcionará como resorte que se estira antes de ser liberado. Cuanto más intensa sea esta acumulación, mayor será el impulso posterior si se libera bien. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 2 - Acumulacion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02478 | 0477 | La Ley del Efecto Rebote Inverso | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 3 - Liberacion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 477 — La Ley del Efecto Rebote Inverso
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Liberación emocional estratégica. Justo antes de actuar (en segundos previos), debes liberar toda la energía emocional positiva contenida. Aplica la Ley de la Emoción, la Ley de la Vibración y la Ley de la Recepción a la vez. Visualiza, respira y siente que todo va a salir bien, como si tu alma explotara en un grito de certeza. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 3 - Liberacion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02479 | 0477 | La Ley del Efecto Rebote Inverso | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 6.00 - Perfeccionador de Bloques 2\Ley 0477 - La Ley del Efecto Rebote Inverso\Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 4 - Activacion.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 477 — La Ley del Efecto Rebote Inverso
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Activación del rendimiento extremo. Este choque entre lo que esperabas (fracaso) y lo que sientes en el momento (éxito absoluto), activa un rendimiento elevado, repentino y poderoso. Tu cuerpo pasa del colapso a la energía máxima como si dijera: “¡Entonces sí que podemos hacerlo!”. “La tensión emocional negativa, si se libera con conciencia en el momento justo, se transforma en una catapulta hacia el éxito.”
+
+Personajes:
+OLO como guia principal. UMBRA como sombra psicologica elegante. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0477 - La Ley del Efecto Rebote Inverso - Principio 4 - Activacion.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

@@ -1,0 +1,465 @@
+﻿LOTE 0360 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-03590 | 0620 | La Ley de la Sustitucion Neuroquimica Estrategica | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 620 — La Ley de la Sustitucion Neuroquimica Estrategica
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que el operador Oloversario, una vez ha identificado el neurotransmisor dominante en el receptor (Ley 619), puede inducir conscientemente un cambio químico emocional reemplazando ese neurotransmisor por otro más útil para su propósito.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Sustitución Neuroquímica Estratégica en una brujula verde y un camino unico iluminado; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 870. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03591 | 0620 | La Ley de la Sustitucion Neuroquimica Estrategica | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 620 — La Ley de la Sustitucion Neuroquimica Estrategica
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Sustituir es más eficaz que atacar. Atacar el estado emocional de una persona provoca resistencia emocional (↑Rr). En cambio, la sustitución neuroquímica crea una transición suave, sin activar las defensas. Es una forma de infiltración estratégica: no luchas contra su estado emocional, lo transformas desde dentro. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03592 | 0620 | La Ley de la Sustitucion Neuroquimica Estrategica | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 620 — La Ley de la Sustitucion Neuroquimica Estrategica
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Toda sustitución debe tener dirección. El operador debe establecer la fórmula: Neurotransmisor actual (dominante) → Neurotransmisor objetivo (deseado) → Acción estratégica emocional para inducir el cambio. Cada tipo de estado químico requiere una táctica específica basada en el canal, la intención y la conexión. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una brujula verde y un camino unico iluminado. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03593 | 0620 | La Ley de la Sustitucion Neuroquimica Estrategica | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 620 — La Ley de la Sustitucion Neuroquimica Estrategica
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Existen patrones tácticos específicos según el caso. Aquí se muestran cinco sustituciones clave: ○ Cortisol (estrés) → GABA (calma): Síntomas: tensión, mirada dura, reacciones defensivas. Estrategia: baja el tono de voz, reduce el ritmo, haz pausas largas, usa recuerdos emocionales calmantes, proyecta ternura, no lógica. ○ Dopamina (hiperestimulación) → Oxitocina (vínculo): Síntomas: exceso de energía, deseo de resultados...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03594 | 0620 | La Ley de la Sustitucion Neuroquimica Estrategica | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0620 - La Ley de la Sustitucion Neuroquimica Estrategica\Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 620 — La Ley de la Sustitucion Neuroquimica Estrategica
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Todo cambio debe ser monitoreado en tiempo real. Una vez aplicada la táctica, el operador debe observar el cuerpo del receptor: cambios en la mirada, tono de voz, postura, respiración y reacción emocional. 871 El éxito no se mide por el impacto inmediato, sino por el desplazamiento neuroquímico observable. “No se conquista la mente con presión… sino sustituyendo su química sin que lo note.”
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante un calendario minimalista conectado a escalones verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un calendario minimalista conectado a escalones verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0620 - La Ley de la Sustitucion Neuroquimica.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03595 | 0621 | La Ley de Fijacion Neuroquimica Prolongada | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 621 — La Ley de Fijacion Neuroquimica Prolongada
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que una vez inducido un neurotransmisor específico en el receptor, el operador del Oloverso puede fijarlo para que su efecto no sea momentáneo, sino que se mantenga durante minutos, horas o incluso días.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de Fijación Neuroquímica Prolongada en una brujula verde y un camino unico iluminado; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una brujula verde y un camino unico iluminado
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 872. Bloque: Bloque 7.66 - Leyes del Oloverso y Potenciadores.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03596 | 0621 | La Ley de Fijacion Neuroquimica Prolongada | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 621 — La Ley de Fijacion Neuroquimica Prolongada
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El cerebro asocia repetición con importancia. Para fijar un neurotransmisor, debes repetir el estímulo tres veces bajo la misma emoción. Por ejemplo, si activas oxitocina con ternura, repítela con palabras suaves, contacto visual y una microacción física (gesto, pausa, caricia). Esto le dice al sistema límbico: “esto importa”. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante un bucle que se transforma en escalera ascendente. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un bucle que se transforma en escalera ascendente
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03597 | 0621 | La Ley de Fijacion Neuroquimica Prolongada | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 621 — La Ley de Fijacion Neuroquimica Prolongada
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: Toda fijación necesita una ancla simbólica. Una frase cargada emocionalmente, dicha en el pico de la emoción, crea una asociación química inmediata. Ejemplos: “Cuando estamos así… todo se detiene.” “Esto es real. Tú lo sientes también.” El cerebro guarda esa frase junto a la sustancia activa. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03598 | 0621 | La Ley de Fijacion Neuroquimica Prolongada | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 621 — La Ley de Fijacion Neuroquimica Prolongada
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: El símbolo físico convierte la emoción en recuerdo. Puede ser una canción, olor, objeto, lugar, postura o incluso un silencio. Cada vez que el receptor lo perciba, su sistema revivirá el mismo estado emocional. Esto transforma un pico emocional en una huella prolongada. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 3 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-03599 | 0621 | La Ley de Fijacion Neuroquimica Prolongada | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 7.66 - Leyes del Oloverso y Potenciadores\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada\Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 621 — La Ley de Fijacion Neuroquimica Prolongada
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: La desconexión estratégica sella la memoria. Si desapareces justo después del momento emocional más alto, congelas la química en su punto de máxima intensidad. El sistema del receptor buscará inconscientemente recrearla luego. Más tarde, al reconectar con una frase clave, mirada o gesto sutil, refuerzas la sinapsis original. No estás reactivando la emoción: estás reviviendo su instalación 872 neuroquímica. “El manipulador...
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0621 - La Ley de Fijacion Neuroquimica Prolongada.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

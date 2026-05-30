@@ -1,0 +1,7 @@
+LEYES NO DETECTADAS O PARA REVISION MANUAL - OLOVERSO
+Fecha: 30/05/2026
+Leyes no detectadas en extraccion textual: 0259
+
+Decision de coherencia:
+- No se inventa una ley ausente del PDF extraido.
+- Si el usuario localiza visualmente una ley faltante en el PDF, se puede agregar despues con su titulo y texto real.

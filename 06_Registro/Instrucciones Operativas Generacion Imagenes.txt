@@ -1,0 +1,26 @@
+﻿INSTRUCCIONES OPERATIVAS PARA GENERAR IMAGENES DEL OLOVERSO
+Fecha: 30/05/2026
+
+Objetivo:
+Generar las imagenes en ChatGPT Imagen sin perder coherencia, nombres ni carpetas.
+
+Orden obligatorio:
+1. Generar primero la hoja de referencia: Referencia Personajes Oloverso.png.
+2. Despues generar por lotes, siguiendo Cola Generacion Imagenes Oloverso.csv.
+3. Mantener maximo 3 pestanas abiertas.
+4. Generar una imagen cada vez si ChatGPT empieza a fallar o degradar coherencia.
+5. Descargar cada imagen, renombrarla exactamente como OutputFilename y guardarla en OutputFolder.
+6. Actualizar Status en la cola: Correcta / Fallida / Pendiente.
+7. Si falla una imagen, anotar el problema en 05_Errores.
+
+Control de calidad minimo:
+- OLO reconocible y consistente.
+- Logo del Oloverso integrado, no como pegatina caotica.
+- Fondo oscuro elegante, energia verde y pulso amarillo.
+- Sin texto gigante dentro de la imagen.
+- La imagen explica la ley o el principio, no solo decora.
+
+Archivos principales:
+- 06_Registro/Cola Generacion Imagenes Oloverso.csv
+- 06_Registro/Indice Lotes Generacion Oloverso.csv
+- 03_Prompts/00_Lotes_Generacion/Lote 0001 - Referencia y primeras imagenes.txt

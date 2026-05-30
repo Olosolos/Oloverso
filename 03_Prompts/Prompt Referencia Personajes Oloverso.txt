@@ -1,0 +1,36 @@
+﻿Crea una hoja de referencia visual del Oloverso en formato 16:9, limpia y ordenada, sobre fondo negro profundo.
+
+Debe incluir, como guia de coherencia para miles de imagenes futuras:
+- OLO de frente.
+- OLO de lado.
+- OLO caminando.
+- OLO señalando.
+- OLO meditando.
+- OLO preocupado.
+- OLO decidido.
+- NEO.
+- UMBRA.
+- SEN.
+- LA MASA.
+- OLO FUTURO.
+- Logo del Oloverso integrado como referencia.
+
+Estilo obligatorio:
+Personajes tipo stickman moderno, cabeza circular simple, cuerpo de lineas limpias, color base blanco o gris claro, contorno negro fino, estilo simbolico, filosofico, pedagogico y reconocible. No meme, no infantil, no anime, no hiperrealismo.
+
+Logo:
+Aro circular verde luminoso sobre fondo negro, centro oscuro vacio, onda amarilla central tipo pulso vital o senal mental. Integrarlo como emblema, aura y referencia visual, sin cambiar colores ni deformarlo.
+
+Personajes:
+OLO: stickman blanco/gris claro con pequeno emblema del Oloverso o aura verde y pulso amarillo.
+NEO: stickman gris claro, mas apagado, expresion confundida o distraida.
+UMBRA: silueta oscura elegante, sombra psicologica, sin demonios ni horror.
+SEN: stickman sereno con libro simple, baston fino o aura suave.
+LA MASA: grupo de stickmans grises, discretos, sin robar protagonismo.
+OLO FUTURO: OLO mas luminoso, aura verde estable, postura firme.
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."

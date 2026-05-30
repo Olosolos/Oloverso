@@ -1,0 +1,21 @@
+﻿Necesito que actues como director de arte y generes una Biblia Visual coherente para el Oloverso. Usa como referencia el logo adjunto: fondo negro, aro circular verde luminoso, centro oscuro vacio y onda amarilla central tipo pulso vital o senal mental.
+
+La Biblia Visual debe incluir:
+1. Estilo visual general.
+2. Personaje principal OLO.
+3. Personajes secundarios NEO, UMBRA, SEN, LA MASA y OLO FUTURO.
+4. Uso del logo.
+5. Paleta de colores.
+6. Reglas de composicion.
+7. Reglas de iluminacion.
+8. Reglas para representar emociones.
+9. Reglas para representar conceptos mentales.
+10. Reglas para representar disciplina, error, enfoque, miedo, exito, evolucion, control, habito y claridad.
+11. Prompt base global.
+12. Prompt negativo global.
+13. Reglas de nombres de archivos.
+14. Reglas para que todas las imagenes parezcan del mismo universo.
+
+OLO debe ser un stickman moderno, blanco o gris claro, cabeza circular simple, cuerpo de lineas limpias, contorno negro fino, limpio, simbolico, filosofico y reconocible. No debe parecer meme, infantil ni generico. Debe tener pequeno emblema del logo, aura verde, pulso amarillo o reflejo verde/amarillo.
+
+Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico.

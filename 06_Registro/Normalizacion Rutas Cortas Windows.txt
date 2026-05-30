@@ -1,0 +1,13 @@
+NORMALIZACION DE RUTAS CORTAS PARA WINDOWS
+Fecha: 30/05/2026
+
+Prompts revisados: 3842
+Prompts actualizados: 2342
+Nombres acortados: 2332
+Rutas que superaban 240 antes de esta normalizacion: 2133
+Longitud maxima estimada despues: 238
+
+Regla aplicada:
+- Si la ruta completa cabe, se conserva nombre descriptivo largo.
+- Si la ruta supera el margen seguro, se usa formato corto: Ley XXXX - Pn - etiqueta.png o Ley XXXX - An - etiqueta.png.
+- Objetivo: evitar fallos de guardado en Windows/OneDrive por rutas demasiado largas.

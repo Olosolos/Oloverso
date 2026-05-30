@@ -1,0 +1,13 @@
+﻿LEY 0259 - NO DETECTADA EN TEXTO EXTRAIDO
+Fecha: 30/05/2026
+
+Durante la extracción textual del PDF "Las Leyes de Olosolos 1 (1).pdf" se detectaron leyes 0001 a 0666, excepto la Ley 0259.
+
+Decision tomada:
+- No se crea prompt visual inventado para la Ley 0259.
+- No se crea imagen de la Ley 0259 sin título y texto reales.
+- Queda pendiente de revisión manual visual dentro del PDF.
+
+Contexto cercano:
+- La Ley 0258 aparece antes.
+- La Ley 0260 aparece en la página aproximada 210 como "La Ley del Cono del Aprendizaje".

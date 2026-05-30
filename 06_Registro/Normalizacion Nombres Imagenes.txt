@@ -1,0 +1,13 @@
+NORMALIZACION DE NOMBRES DE IMAGENES
+Fecha: 30/05/2026
+
+Prompts canonicos revisados: 3842
+Prompts actualizados: 3832
+
+Regla aplicada:
+- Linea Ley corregida a Ley N.? X ? Titulo.
+- Frase de coherencia obligatoria corregida con acentos validos.
+- Imagen General: Ley XXXX - Titulo - Imagen General.png
+- Principios: Ley XXXX - Titulo - Principio N - etiqueta breve.png
+- Apartados: Ley XXXX - Titulo - Apartado N - etiqueta breve.png
+- Se limpian caracteres invalidos de Windows y se evitan fragmentos largos de explicacion.

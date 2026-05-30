@@ -1,0 +1,465 @@
+﻿LOTE 0206 - PROMPTS COMPLETOS
+Fecha: 30/05/2026
+Generar una imagen por item. Descargar, renombrar y guardar en la ruta indicada.
+No mezclar nombres: usar exactamente GUARDAR COMO / OutputPath.
+
+ITEM: IMG-02050 | 0396 | La Ley de la Fluidez del Campo Cuantico | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - La Ley de la Fluidez del Campo Cuantico - Imagen.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 396 — La Ley de la Fluidez del Campo Cuantico
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que aunque el ser humano entra en el campo cuántico de forma natural e inconsciente —por ejemplo, al quedarse parado con los ojos abiertos o al entrar en fase REM del sueño—, existe una forma deliberada y artificial de fluir conscientemente por él para obtener beneficios reales y controlados.
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Fluidez del Campo Cuántico en un mapa mental oscuro activado por nodos verdes; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0396 - La Ley de la Fluidez del Campo Cuantico - Imagen.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 448. Bloque: Bloque 5.00 - Neurologia 3 y Fluicion Cuantica.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02051 | 0396 | La Ley de la Fluidez del Campo Cuantico | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 396 — La Ley de la Fluidez del Campo Cuantico
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: Entradas involuntarias al campo cuántico. El ser humano accede al campo cuántico de forma natural en ciertos momentos: al mantener la mirada fija, al entrar en el estado previo al sueño profundo, o durante fases de ensoñación. Pero no suele sacar ningún beneficio de ese estado porque lo atraviesa sin consciencia. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 1 mediante un simbolo central simple: camino, puerta y nucleo energetico del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un simbolo central simple: camino, puerta y nucleo energetico del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02052 | 0396 | La Ley de la Fluidez del Campo Cuantico | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 396 — La Ley de la Fluidez del Campo Cuantico
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: El acceso tradicional mediante meditación. La meditación ha sido hasta ahora la única vía conocida para acceder al campo cuántico de manera consciente. Sin embargo, su efectividad es irregular, sujeta al estado emocional, a la práctica constante y a la técnica del individuo. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02053 | 0396 | La Ley de la Fluidez del Campo Cuantico | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 396 — La Ley de la Fluidez del Campo Cuantico
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Método OL0P 0-2 para el flujo cuántico consciente. El método OL0P 0-2 es un protocolo preciso, directo y profundamente efectivo. Consta de los siguientes pasos: ○ Presiona con ambos pulgares el espacio entre tus cejas durante todo el proceso. ○ Escucha ondas cerebrales theta (para acceder a la mente subconsciente) o delta (para entrar a la mente inconsciente). Advertencia: las ondas delta pueden provocar dolor de cabeza; no...
+
+Personajes:
+OLO como guia principal. LA MASA como fondo gris discreto.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02054 | 0396 | La Ley de la Fluidez del Campo Cuantico | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0396 - La Ley de la Fluidez del Campo Cuantico\Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 396 — La Ley de la Fluidez del Campo Cuantico
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: Un puente hacia tu versión más elevada. Este método OL0P 0-2 no solo permite entrar conscientemente en el campo cuántico, sino que además crea una conexión profunda con tu versión más elevada, alineando cuerpo, mente y energía. Es sencillo, práctico y más potente que cualquier forma tradicional de acceso. "Cuando entras conscientemente al campo cuántico, no solo viajas en energía: viajas hacia ti mismo."
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 4 mediante ondas verdes y amarillas saliendo del nucleo del Oloverso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+ondas verdes y amarillas saliendo del nucleo del Oloverso
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0396 - La Ley de la Fluidez del Campo Cuantico.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02055 | 0397 | La Ley de la Jurisdiccion Cuantica Infantil | Imagen General
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - Prompt Imagen General.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 397 — La Ley de la Jurisdiccion Cuantica Infantil
+
+Tipo de imagen:
+Imagen General
+
+Objetivo pedagogico:
+Explicar visualmente que los bebés de 0 a 2 años viven completamente en estado Delta, lo que los mantiene en un estado de inconsciencia profunda, ajenos a todo excepto a lo 449 físico.
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO se situa en un espacio mental oscuro y limpio. La escena traduce La Ley de la Jurisdicción Cuántica Infantil en una semilla luminosa que une mente y realidad; los elementos visuales muestran la idea central sin texto grande, con una jerarquia clara entre confusion, decision y comprension.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Pagina PDF aproximada: 449. Bloque: Bloque 5.00 - Neurologia 3 y Fluicion Cuantica.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02056 | 0397 | La Ley de la Jurisdiccion Cuantica Infantil | Principio 1
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - Prompt Principio 1.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 397 — La Ley de la Jurisdiccion Cuantica Infantil
+
+Tipo de imagen:
+Principio 1
+
+Objetivo pedagogico:
+Representar el principio 1: El poder cuántico de los bebés en estado Delta. El estado Delta es un estado de inconsciencia total. Los bebés de 0 a 2 años viven en él las 24 horas del día. En este estado, aunque parezcan frágiles, su mente se conecta sin filtros al campo cuántico, lo que les permite absorber energía, información emocional y patrones sin interferencias racionales. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 1 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Primer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02057 | 0397 | La Ley de la Jurisdiccion Cuantica Infantil | Principio 2
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - Prompt Principio 2.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 397 — La Ley de la Jurisdiccion Cuantica Infantil
+
+Tipo de imagen:
+Principio 2
+
+Objetivo pedagogico:
+Representar el principio 2: La fase Theta y el inicio de la conciencia infantil. A partir de los 2 años y hasta los 6, los niños pasan a un estado Theta. Este estado sigue siendo altamente receptivo, pero ya introduce una mínima forma de conciencia. Por eso, aprenden tan rápido durante esta etapa, aunque el aprendizaje en estado Delta (bebés) es aún más veloz, aunque menos estructurado. ●
+
+Personajes:
+OLO como guia principal.
+
+Escena:
+OLO explica el principio 2 mediante un mapa mental oscuro activado por nodos verdes. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+un mapa mental oscuro activado por nodos verdes
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Segundo principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02058 | 0397 | La Ley de la Jurisdiccion Cuantica Infantil | Principio 3
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - Prompt Principio 3.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 397 — La Ley de la Jurisdiccion Cuantica Infantil
+
+Tipo de imagen:
+Principio 3
+
+Objetivo pedagogico:
+Representar el principio 3: Formación de la personalidad y estructuras mentales. En la etapa Theta, el niño empieza a formar su personalidad adulta futura, ya que por primera vez aprende cosas no instintivas: el lenguaje, los valores, la diferenciación emocional, la noción de límites, y la definición inicial de sus gustos y preferencias. ●
+
+Personajes:
+OLO como guia principal. NEO como persona promedio.
+
+Escena:
+OLO explica el principio 3 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Tercer principio.
+
+--- FIN DEL ITEM ---
+
+ITEM: IMG-02059 | 0397 | La Ley de la Jurisdiccion Cuantica Infantil | Principio 4
+ESTADO: Pendiente
+PROMPT: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - Prompt Principio 4.txt
+GUARDAR COMO: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 5.00 - Neurologia 3 y Fluicion Cuantica\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil\Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+--- PROMPT PARA CHATGPT IMAGEN ---
+Ley:
+Ley N.º 397 — La Ley de la Jurisdiccion Cuantica Infantil
+
+Tipo de imagen:
+Principio 4
+
+Objetivo pedagogico:
+Representar el principio 4: La niñez como base cuántica de la identidad futura. Aunque los gustos cambien con el tiempo, la infancia crea una base sólida de personalidad que será la referencia estructural de su yo futuro. Las redes neuronales que se consolidan entre los 2 y los 6 años marcan el tono emocional, social y cognitivo con el que ese niño interpretará el mundo el resto de su vida. "Un bebé no tiene conciencia, pero tiene el poder del campo. Y...
+
+Personajes:
+OLO como guia principal. NEO como persona promedio. OLO FUTURO como version evolucionada.
+
+Escena:
+OLO explica el principio 4 mediante una semilla luminosa que une mente y realidad. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+
+Metafora visual:
+una semilla luminosa que une mente y realidad
+
+Uso del logo:
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
+
+Estilo:
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
+
+Formato:
+16:9 por defecto.
+
+Nombre de archivo sugerido:
+Ley 0397 - La Ley de la Jurisdiccion Cuantica Infantil.png
+
+Prompt negativo:
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
+
+Frase de coherencia obligatoria:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
+
+--- FIN DEL ITEM ---
+

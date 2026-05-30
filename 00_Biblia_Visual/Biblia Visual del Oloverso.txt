@@ -1,0 +1,86 @@
+﻿BIBLIA VISUAL DEL OLOVERSO
+Version base preparada para ChatGPT Imagen
+Fecha: 30/05/2026
+
+1. Estilo visual general
+El Oloverso debe verse como una coleccion de ilustraciones conceptuales, oscuras, limpias, filosoficas y pedagogicas. El estilo principal es stickman moderno: personajes simples, expresivos, con siluetas claras, lineas limpias, contorno negro fino y lenguaje visual simbolico. No debe parecer meme, caricatura infantil, anime, videojuego barato ni hiperrealismo humano.
+
+El mundo visual combina fondo negro profundo, espacio mental abstracto, caminos, espejos, escaleras, puertas, mapas, circulos de energia, brujulas, ondas, sombras psicologicas y arquitectura minimalista. Cada imagen debe explicar una ley de forma visual, no solo decorar.
+
+2. Personaje principal: OLO
+OLO es el guia visual del Oloverso. Es un stickman moderno, blanco o gris claro, cabeza circular simple, cuerpo de lineas limpias, contorno negro fino y presencia serena. Debe tener un detalle estable del Oloverso: pequeno emblema del logo en el pecho, aura circular verde suave o pulso amarillo flotando cerca.
+
+OLO representa conciencia, aprendizaje, evolucion, disciplina, direccion y comprension. No es superheroe, no es humano realista y no es un muneco generico. Debe poder expresar concentracion, calma, duda, decision, miedo, claridad, alegria, cansancio, disciplina y comprension mediante postura, inclinacion de cabeza, gesto de manos, energia alrededor y relacion con los simbolos.
+
+3. Personajes secundarios
+NEO: stickman gris claro, menos luminoso que OLO. Representa a la persona promedio antes de comprender una ley. Puede aparecer confundido, cansado, distraido, mirando el movil, siguiendo a la masa o comparandose.
+
+UMBRA: stickman oscuro o silueta negra/gris. Representa miedo, bloqueo, autosabotaje, ansiedad, malos habitos, pensamiento negativo o confusion. Debe ser sombra psicologica elegante, no demonio literal, sin gore ni horror barato.
+
+SEN: stickman sereno y sabio. Puede llevar libro simple, baston fino, pequena luz sobre la cabeza o aura suave. Representa experiencia, calma, reflexion y vision. No debe parecer mago ridiculo.
+
+LA MASA: grupo de stickmans grises, simplificados y discretos. Representan presion social, juicio, ruido externo, expectativas y pensamiento colectivo. Nunca deben robar protagonismo a OLO.
+
+OLO FUTURO: version evolucionada de OLO. Misma identidad, mas luminoso, postura firme, aura verde estable y pulso amarillo claro. Representa destino alcanzado, madurez, disciplina y objetivo cumplido.
+
+4. Uso del logo
+El logo del Oloverso es un aro circular verde luminoso sobre fondo negro, con centro oscuro vacio y una onda amarilla central tipo pulso vital, energia mental o senal interior. No se cambian sus colores principales ni su identidad. Puede aparecer como aura, emblema, portal, sello, nucleo energetico, marca sutil, reflejo o sistema de energia.
+
+El logo debe integrarse con elegancia en la escena. No debe verse como pegatina mal colocada ni deformarse sin sentido. Si aparece en el pecho de OLO, debe ser pequeno y limpio. Si aparece como portal o simbolo central, debe conservar aro verde, centro oscuro y pulso amarillo.
+
+5. Paleta de colores
+Colores dominantes: negro profundo, gris oscuro, gris claro, blanco limpio.
+Colores energeticos: verde luminoso del Oloverso y amarillo pulso.
+Colores secundarios muy controlados: azul frio tenue para claridad mental, rojo oscuro muy puntual para alarma/error/miedo, dorado suave para exito o comprension.
+Evitar colores aleatorios, saturacion excesiva y paletas infantiles.
+
+6. Reglas de composicion
+Composicion 16:9 por defecto. Una idea visual principal por imagen. OLO debe ser el foco en la mayoria de escenas. Usar espacio negativo, caminos claros, flechas sutiles, luz direccional y jerarquia visual limpia. Evitar exceso de elementos, texto grande dentro de la imagen y caos visual.
+
+7. Reglas de iluminacion
+Fondo oscuro elegante con luz verde y pulso amarillo como fuentes principales. La luz debe guiar la mirada hacia la idea pedagogica. El verde representa energia, direccion y conciencia. El amarillo representa activacion, intuicion, impulso o vida mental. Las sombras deben ser psicologicas, no terrorificas.
+
+8. Reglas para emociones
+Las emociones se muestran con postura, distancia entre personajes, inclinacion de cabeza, direccion de mirada, intensidad del aura, forma del pulso amarillo y presencia de UMBRA o LA MASA. Evitar expresiones exageradas de cartoon. La emocion debe ser simple y legible.
+
+9. Conceptos mentales
+Objetivo: camino iluminado, brujula, puerta, mapa, faro, escalera.
+Creencia: semilla luminosa, espejo de futuro, puente entre mente y realidad.
+Correspondencia: espejo interior/exterior, reflejo, doble paisaje.
+Atraccion: campo magnetico verde, ondas, objetos alineandose.
+Sacrificio: soltar peso oscuro, cortar cadenas finas, abrir espacio luminoso.
+Inversa: OLO actual actuando bajo la guia de OLO FUTURO.
+Planteamiento: calendario, mapa, ritmo, escalones, engranajes limpios.
+Inercia: figura quieta contra fuerza externa, flecha de impulso consciente.
+Poderes: dos nucleos, amor como luz calida y sugestión como ondas de informacion.
+
+10. Disciplina, error, enfoque, miedo, exito, evolucion, control, habito y claridad
+Disciplina: camino repetido, escalones, postura firme, aura estable.
+Error: grieta pequena, luz roja tenue, senal de correccion, no fracaso dramatico.
+Enfoque: rayo verde concentrado, circulo de atencion, fondo simplificado.
+Miedo: UMBRA cerca, sombra alargada, luz verde debilitada.
+Exito: OLO FUTURO, puerta abierta, pulso amarillo limpio, altura alcanzada.
+Evolucion: varias siluetas de OLO avanzando, aura mas clara en cada etapa.
+Control: manos sobre energia, brujula estable, tablero ordenado.
+Habito: bucle, camino circular que se transforma en camino ascendente.
+Claridad: espejo limpio, niebla disipandose, linea verde recta.
+
+11. Prompt base global
+Ilustracion conceptual clara, elegante, simbolica y pedagogica del Oloverso, con personajes tipo stickman modernos y expresivos, OLO como guia principal, fondo oscuro limpio, aro verde luminoso del Oloverso con onda amarilla central integrado como emblema, aura, portal o nucleo energetico, energia verde y pulso amarillo, composicion ordenada, tono filosofico moderno, sin texto innecesario dentro de la imagen, formato 16:9.
+
+12. Prompt negativo global
+Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, tipografia grande, exceso de elementos, caos visual, personajes incoherentes, cambios del logo, colores aleatorios, deformaciones absurdas, gore, terror exagerado, demonios literales, estetica de videojuego barato, collage confuso, logo como pegatina, fondos saturados o comicos.
+
+13. Reglas de nombres de archivos
+Usar nombres limpios para Windows sin estos caracteres: \ / : * ? " < > |
+Formato general:
+Ley 0001 - La Ley del Objetivo - Imagen General.png
+Ley 0001 - La Ley del Objetivo - Principio 1 - La singularidad como brujula.png
+Ley 0039 - La Ley de la Administracion del Tiempo - Apartado 1 - Metas claras y especificas.png
+No usar nombres genericos como image.png, download.png o ChatGPT Image 1.png.
+
+14. Coherencia obligatoria
+Todas las imagenes deben parecer del mismo universo. OLO debe mantener identidad estable. El logo debe conservar aro verde luminoso, centro oscuro y pulso amarillo. La paleta debe mantenerse en negro, gris, blanco, verde y amarillo. La composicion debe ser limpia y pedagogica. Cada imagen debe explicar una ley sin depender de texto grande.
+
+Frase obligatoria para todos los prompts:
+"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."

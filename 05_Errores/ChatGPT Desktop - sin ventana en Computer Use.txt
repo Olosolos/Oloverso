@@ -1,0 +1,15 @@
+﻿CHATGPT DESKTOP - SIN VENTANA EN COMPUTER USE
+Fecha: 30/05/2026
+
+Intento realizado:
+- Computer Use detecto la app "ChatGPT" como OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0!ChatGPT.
+- Se intento abrirla desde Computer Use.
+- Tras esperar y volver a listar apps/ventanas, no aparecio ninguna ventana targetable de ChatGPT Desktop.
+
+Estado observado:
+- Chrome sigue teniendo una ventana con titulo relacionado con ChatGPT Images.
+- No se interactuo con Chrome en esta pasada para evitar repetir el bloqueo de validacion de URL ya registrado.
+
+Decision:
+- Se mantiene la produccion preparada en archivos: cola CSV, indice de lotes y primeros lotes completos.
+- La generacion/descarga real de imagenes sigue pendiente de una via estable para ChatGPT Imagen o intervencion humana en navegador.

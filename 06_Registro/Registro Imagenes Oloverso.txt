@@ -1,0 +1,259 @@
+﻿REGISTRO IMAGENES OLOVERSO
+Fecha de inicio: 30/05/2026
+
+Estado actual:
+- Carpeta principal creada en el Escritorio OneDrive.
+- Subcarpetas base creadas.
+- Logo guardado en 02_Logo_Oloverso como "Logo Oloverso - Referencia.jpeg".
+- Biblia Visual base preparada en 00_Biblia_Visual.
+- Prompt de referencia de personajes preparado en 03_Prompts.
+
+Pendiente:
+- Abrir ChatGPT en Chrome cuando Computer Use pueda validar la URL del navegador.
+- Pegar o subir el logo y pedir la Biblia Visual definitiva.
+- Generar y descargar "Referencia Personajes Oloverso.png".
+- Procesar leyes por bloques y registrar cada imagen.
+
+Formato de registro por imagen:
+Ley trabajada:
+Tipo de imagen:
+Prompt usado:
+Nombre del archivo final:
+Estado: Correcta / Fallida / Pendiente
+Fecha aproximada:
+Observaciones:
+
+Primer lote preparado:
+- Bloque 1.33 - Leyes Mentales.
+- Carpetas creadas para Ley 0001 a Ley 0010 en 04_Imagenes_Generadas.
+- Prompts de Imagen General creados para Ley 0001 a Ley 0010 en 03_Prompts.
+- Las imagenes siguen pendientes de generarse en ChatGPT Imagen por bloqueo de Computer Use con Chrome.
+
+Primer lote verificado:
+- Bloque 1.33 - Leyes Mentales.
+- Carpetas creadas para Ley 0001 a Ley 0010 en 04_Imagenes_Generadas.
+- Prompts de Imagen General creados para Ley 0001 a Ley 0010 en 03_Prompts.
+- Las imagenes siguen pendientes de generarse en ChatGPT Imagen por bloqueo de Computer Use con Chrome.
+
+Escalado a todas las leyes detectables:
+- Fecha: 30/05/2026.
+- Leyes detectadas: 665 de rango 0001-0666.
+- Leyes no detectadas en texto extraido: 0259.
+- Prompts generales objetivo: 665.
+- Prompts por principio objetivo: 2699.
+- Prompts por apartados de leyes largas objetivo: 478.
+- Archivos nuevos creados en esta pasada: 3805.
+- Archivos ya existentes respetados: 37.
+- Directorios nuevos creados: 1310.
+- Las imagenes finales siguen pendientes de generarse/descargarse en ChatGPT Imagen por el bloqueo de control de Chrome.
+Correccion de nombres y huecos:
+- Fecha: 30/05/2026.
+- Se normalizaron 195 nombres de prompts generales que habian quedado recortados por longitud.
+- Todas las 665 carpetas de ley detectadas tienen ahora un prompt de Imagen General localizable por nombre.
+- Se dejo nota especifica de la Ley 0259 en 05_Errores porque no aparece en la extraccion textual.
+Cola operativa creada:
+- Fecha: 30/05/2026.
+- Items totales en cola: 3843.
+- Items pendientes: 3843.
+- Items correctos detectados: 0.
+- Lotes de 10 items: 385.
+- Archivo de cola: Cola Generacion Imagenes Oloverso.csv.
+- Primer lote listo con prompts completos: 03_Prompts/00_Lotes_Generacion/Lote 0001 - Referencia y primeras imagenes.txt.
+Lotes iniciales preparados:
+- Fecha: 30/05/2026.
+- Se crearon archivos con prompts completos para los Lotes 0001 a 0005.
+- Se creo Resumen Produccion por Bloques.csv.
+- Se creo Resumen Cola Generacion Imagenes Oloverso.txt.
+
+Normalizacion de nombres sugeridos:
+- Fecha: 30/05/2026.
+- Prompts canonicos revisados: 3842.
+- Prompts actualizados: 0.
+- Prompts omitidos: 3832.
+- Se limpiaron nombres sugeridos de principios/apartados para evitar fragmentos explicativos largos.
+
+Correccion de prompts canonicos:
+- Fecha: 30/05/2026.
+- Prompts canonicos revisados: 3842.
+- Prompts actualizados: 3832.
+- Se corrigieron linea Ley, frase de coherencia y nombres sugeridos.
+
+Cola regenerada tras normalizacion de nombres:
+- Fecha: 30/05/2026.
+- Items totales: 3843.
+- Lotes: 385.
+- Primeros 5 lotes reescritos con nombres limpios.
+
+Intento con ChatGPT Desktop:
+- Fecha: 30/05/2026.
+- Computer Use detecto la app ChatGPT, pero al abrirla no aparecio ninguna ventana targetable.
+- Se dejo nota en 05_Errores/ChatGPT Desktop - sin ventana en Computer Use.txt.
+- No se reintento automatizar Chrome para evitar repetir el bloqueo de URL.
+Lotes completos generados:
+- Fecha: 30/05/2026.
+- Archivos de lote escritos: 385.
+- Prompts no encontrados al escribir lotes: 0.
+- Carpeta: 03_Prompts/00_Lotes_Generacion.
+Tablero de seguimiento creado:
+- Fecha: 30/05/2026.
+- Archivo: Tablero Produccion Imagenes Oloverso.md.
+- Siguiente accion: SIGUIENTE_ACCION_GENERAR.txt.
+- Prompt de inicio: 03_Prompts/00_Lotes_Generacion/00_PROMPT_INICIO_CHATGPT_IMAGEN.txt.
+
+Normalizacion de rutas cortas Windows:
+- Fecha: 30/05/2026.
+- Prompts revisados: 3842.
+- Prompts actualizados: 2342.
+- Nombres acortados: 2332.
+- Longitud maxima estimada despues: 238.
+
+Cola/lotes/tablero regenerados con rutas cortas:
+- Fecha: 30/05/2026.
+- Items: 3843.
+- Lotes escritos: 385.
+- Prompts faltantes: 0.
+
+
+Correccion de prompts sin nombre sugerido:
+- Fecha: 30/05/2026.
+- Prompts actualizados: 10.
+- Prompts sin carpeta de ley reconocible: 0.
+
+Correccion de cola tras prompts sin nombre:
+- Fecha: 30/05/2026.
+- Items: 3843.
+- Lotes escritos: 385.
+- Estados correctos calculados solo si existe archivo de imagen real.
+
+Referencia de personajes generada:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1af2608520819891de2e36ea341122.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\01_Personajes\Referencia Personajes Oloverso.png.
+- REF-0000 marcado como Correcta en la cola.
+- Siguiente item pendiente: IMG-00001 (0001 - Imagen General).
+Primera imagen de ley generada:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1af6fe30f881988cf14f2f93e62e58.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0001 - La Ley del Objetivo\Ley 0001 - La Ley del Objetivo - Imagen General.png.
+- IMG-00001 marcado como Correcta en la cola.
+- Siguiente item pendiente: IMG-00002 (0001 - Principio 1).
+
+Ley 0001 Principio 1 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1af886653481988cc15b49ae087030.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0001 - La Ley del Objetivo\Ley 0001 - La Ley del Objetivo - Principio 1 - La singularidad como brujula.png.
+- IMG-00002 marcado como Correcta.
+
+
+Ley 0001 Principio 2 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1af934d8fc819894b12b447204f176.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0001 - La Ley del Objetivo\Ley 0001 - La Ley del Objetivo - Principio 2 - Comparar es sabotear tu avance.png.
+- IMG-00003 marcado como Correcta.
+
+
+Ley 0001 Principio 3 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1af9be4ce081988e11a6d07e6a9699.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0001 - La Ley del Objetivo\Ley 0001 - La Ley del Objetivo - Principio 3 - El enfoque dirige la energia.png.
+- IMG-00004 marcado como Correcta.
+
+
+Ley 0001 Principio 4 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1afa9438b48198bf6f1a206666752d.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0001 - La Ley del Objetivo\Ley 0001 - La Ley del Objetivo - Principio 4 - La meta propia es intransferible.png.
+- IMG-00005 marcado como Correcta.
+
+Ley 0001 completada:
+- Fecha: 30/05/2026.
+- Imagenes de Ley 0001 correctas: 5/5.
+- Referencia de personajes correcta: si.
+- Siguiente item pendiente: IMG-00006 (0002 - Imagen General).
+
+Ley 0002 Imagen General generada:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b25802b6c8198b69d92d0e9839f3d.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0002 - La Ley de la Creencia\Ley 0002 - La Ley de la Creencia - Imagen General.png.
+- IMG-00006 marcado como Correcta.
+
+
+Ley 0002 Principio 1 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b262cd3948198a288f0d0259a6f1f.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0002 - La Ley de la Creencia\Ley 0002 - La Ley de la Creencia - Principio 1 - La mente proyecta lo que sostiene.png.
+- IMG-00007 marcado como Correcta.
+
+
+Ley 0002 Principio 2 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b26b18844819882c233345a6f6865.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0002 - La Ley de la Creencia\Ley 0002 - La Ley de la Creencia - Principio 2 - Actuar como si es acelerar el proceso.png.
+- IMG-00008 marcado como Correcta.
+
+
+Ley 0002 Principio 3 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b2785dbf88198a5b03a5e0ae53659.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0002 - La Ley de la Creencia\Ley 0002 - La Ley de la Creencia - Principio 3 - La duda es el veneno de la manifestacion.png.
+- IMG-00009 marcado como Correcta.
+
+
+Ley 0002 Principio 4 generado:
+- Fecha: 30/05/2026.
+- Fuente generada: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b287fd2b88198afee9b853bffce75.png.
+- Archivo final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0002 - La Ley de la Creencia\Ley 0002 - La Ley de la Creencia - Principio 4 - La emocion es el combustible de la creencia.png.
+- IMG-00010 marcado como Correcta.
+
+Ley 0002 completada:
+- Fecha: 30/05/2026.
+- Imagenes de Ley 0002 correctas: 5/5.
+- Siguiente item pendiente: IMG-00011 (0003 - Imagen General).
+
+IMG-00011 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b2e3c71048198ad487a6f546817d5.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Imagen General.png.
+
+
+IMG-00012 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b2f7d0528819895037da38abde75d.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Principio 1 - El reflejo es inevitable.png.
+
+
+IMG-00013 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b30a4736081989d0d4327eedb0ec3.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Principio 2 - El cambio comienza en ti.png.
+
+
+IMG-00014 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b313bd1d881988c3ef7dded20e517.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Principio 3 - La coherencia interna crea.png.
+
+
+IMG-00015 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b31de6f4c8198a16f6feddd2f8d04.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Principio 4 - El conflicto interno proyecta.png.
+
+
+IMG-00016 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b32d34010819893fcf1fa5ed37a06.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - La Ley de la Atraccion - Imagen General.png.
+
+
+IMG-00017 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b336938c48198a52802542c1aaf33.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - La Ley de la Atraccion - Principio 1 - El pensamiento es una orden al universo.png.
+
+
+IMG-00018 generado:
+- Fecha: 30/05/2026.
+- Fuente: C:\Users\david\.codex\generated_images\019e78ef-9cf3-7fb3-be65-95b180bed39a\ig_0ead4555739025c5016a1b3403b92c819895b7b5bb5e4c6554.png.
+- Final: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - La Ley de la Atraccion - Principio 2 - La emocion intensifica el magnetismo.png.
+
