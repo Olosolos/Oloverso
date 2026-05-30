@@ -3,27 +3,37 @@ Fecha: 30/05/2026
 
 ## Estado global
 - Items totales en cola: 3843
-- Pendientes: 3832
-- Correctas: 11
+- Pendientes: 3823
+- Correctas: 20
 - Fallidas: 0
 - Referencia de personajes: Correcta
 - Ley 0001 completa: Correcta
 - Ley 0002 completa: Correcta
+- Ley 0003 completa: Correcta
+- Ley 0004 completa: Pendiente
 - Archivos de lote completos: 385
 
+## Automatizacion
+- Codex automation: Oloverso
+- Frecuencia: cada hora
+- Entorno: worktree
+- Repo local: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso
+- GitHub/Drive: pendiente de reautenticacion si se requiere sincronizacion remota.
+
 ## Siguiente accion
-- Item: IMG-00011
-- Lote: Lote 0002
-- Tipo: Imagen General
-- Ley: 0003 - La Ley de la Correspondencia
-- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Prompt Imagen General.txt
-- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Imagen General.png
-- Archivo de lote: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\00_Lotes_Generacion\Lote 0002 - prompts completos.txt
+- Item: IMG-00020
+- Lote: Lote 0003
+- Tipo: Principio 4
+- Ley: 0004 - La Ley de la Atraccion
+- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - Prompt Principio 4.txt
+- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - La Ley de la Atraccion - Principio 4 - Lo que rechazas con fuerza tambien lo atraes.png
+- Archivo de lote: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\00_Lotes_Generacion\Lote 0003 - prompts completos.txt
 
 ## Resumen por bloque
 | Bloque | Leyes | Items | General | Principios | Apartados | Pendientes | Correctas |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 158 | 10 |
+| 00_Referencia | - | 1 | 0 | 0 | 0 | 0 |  |
+| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 149 | 19 |
 | Bloque 1.73 - Leyes Mentales 2 | 0034-0073 | 210 | 40 | 168 | 2 | 210 | 0 |
 | Bloque 2.00 - Leyes Mentales 3 | 0074-0100 | 142 | 27 | 115 | 0 | 142 | 0 |
 | Bloque 2.50 - Psicologia de Ventas | 0101-0150 | 253 | 50 | 203 | 0 | 253 | 0 |
@@ -46,7 +56,7 @@ Fecha: 30/05/2026
 | Lote | Items | Primer item | Ultimo item | Leyes | Pendientes | Correctas |
 |---|---:|---|---|---|---:|---:|
 | Lote 0001 | 10 | REF-0000 | IMG-00009 | 0000-0002 | 0 | 10 |
-| Lote 0002 | 10 | IMG-00010 | IMG-00019 | 0002-0004 | 9 |  |
+| Lote 0002 | 10 | IMG-00010 | IMG-00019 | 0002-0004 | 0 | 10 |
 | Lote 0003 | 10 | IMG-00020 | IMG-00029 | 0004-0006 | 10 | 0 |
 | Lote 0004 | 10 | IMG-00030 | IMG-00039 | 0006-0008 | 10 | 0 |
 | Lote 0005 | 10 | IMG-00040 | IMG-00049 | 0008-0010 | 10 | 0 |

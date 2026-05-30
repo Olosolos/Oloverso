@@ -2,49 +2,52 @@
 Fecha: 30/05/2026
 
 Generar ahora el siguiente item pendiente:
-Item: IMG-00011
-Lote: Lote 0002
-Tipo: Imagen General
-Ley: 0003 - La Ley de la Correspondencia
-Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Prompt Imagen General.txt
-Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0003 - La Ley de la Correspondencia\Ley 0003 - La Ley de la Correspondencia - Imagen General.png
+Item: IMG-00020
+Lote: Lote 0003
+Tipo: Principio 4
+Ley: 0004 - La Ley de la Atraccion
+Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - Prompt Principio 4.txt
+Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0004 - La Ley de la Atraccion\Ley 0004 - La Ley de la Atraccion - Principio 4 - Lo que rechazas con fuerza tambien lo atraes.png
 
 Prompt completo para copiar en ChatGPT Imagen:
 ---
 Ley:
-Ley N.º 3 — La Ley de la Correspondencia
+Ley N.Âº 4 â€” La Ley de la Atraccion
 
 Tipo de imagen:
-Imagen General
+Principio 4
 
 Objetivo pedagogico:
-Visualizar que el mundo exterior refleja el estado interior.
+Representar el principio 4: Lo que rechazas con fuerza tambiÃ©n lo atraes. Enfocarte intensamente en lo que no quieres lo refuerza. La ley no distingue entre deseo y rechazo; solo responde a aquello en lo que concentras tu energÃ­a. â€œAquello que ocupa tu mente de forma constante termina ocupando tambiÃ©n tu vida.â€ 10
 
 Personajes:
-OLO como guia principal. Usar NEO, UMBRA, LA MASA u OLO FUTURO solo si ayudan a explicar la escena.
+OLO como guia principal.
 
 Escena:
-OLO mira un gran espejo dividido: en un lado su mundo interior con pensamientos ordenados en luz verde; en el otro lado un paisaje externo que se alinea y ordena.
+OLO explica el principio 4 mediante un campo magnetico verde que ordena los elementos. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
 
 Metafora visual:
-El espejo interior-exterior.
+un campo magnetico verde que ordena los elementos
 
 Uso del logo:
-El logo aparece en el centro del espejo, conectando ambas realidades con pulso amarillo.
+El logo aparece integrado como nucleo energetico, brujula o portal: aro verde luminoso, centro oscuro y onda amarilla central conectada a la accion de OLO.
 
 Estilo:
-Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno.
+Ilustracion conceptual clara, elegante, simbolica y pedagogica, con personajes tipo stickman modernos y expresivos, fondo oscuro limpio, energia verde del Oloverso, pulso amarillo, composicion ordenada y tono filosofico moderno. Sin texto grande dentro de la imagen.
 
 Formato:
 16:9 por defecto.
 
 Nombre de archivo sugerido:
-Ley 0003 - La Ley de la Correspondencia - Imagen General.png
+Ley 0004 - La Ley de la Atraccion - Principio 4 - Lo que rechazas con fuerza tambien lo atraes.png
 
 Prompt negativo:
 Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
 
 Frase de coherencia obligatoria:
-"Mantén la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guía principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energía verde y pulso amarillo, composición simbólica limpia, tono filosófico y pedagógico."
+"MantÃ©n la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guÃ­a principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energÃ­a verde y pulso amarillo, composiciÃ³n simbÃ³lica limpia, tono filosÃ³fico y pedagÃ³gico."
+
+Nota de extraccion:
+Principio extraido como: Cuarto principio.
 
 ---
