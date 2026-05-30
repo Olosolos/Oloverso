@@ -3,8 +3,8 @@ Fecha: 30/05/2026
 
 ## Estado global
 - Items totales en cola: 3843
-- Pendientes: 3821
-- Correctas: 22
+- Pendientes: 3820
+- Correctas: 23
 - Fallidas: 0
 - Referencia de personajes: Correcta
 - Ley 0001 completa: Correcta
@@ -22,19 +22,19 @@ Fecha: 30/05/2026
 - GitHub/Drive: pendiente de reautenticacion si se requiere sincronizacion remota.
 
 ## Siguiente accion
-- Item: IMG-00022
+- Item: IMG-00023
 - Lote: Lote 0003
-- Tipo: Principio 1
+- Tipo: Principio 2
 - Ley: 0005 - La Ley del Sacrificio
-- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - Prompt Principio 1.txt
-- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - La Ley del Sacrificio - Principio 1 - Lo pequeno tambien detiene lo grande.png
+- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - Prompt Principio 2.txt
+- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - La Ley del Sacrificio - Principio 2 - Sacrificar es elegir conscientemente el.png
 - Archivo de lote: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\00_Lotes_Generacion\Lote 0003 - prompts completos.txt
 
 ## Resumen por bloque
 | Bloque | Leyes | Items | General | Principios | Apartados | Pendientes | Correctas |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | 00_Referencia | - | 1 | 0 | 0 | 0 | 0 |  |
-| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 147 | 21 |
+| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 146 | 22 |
 | Bloque 1.73 - Leyes Mentales 2 | 0034-0073 | 210 | 40 | 168 | 2 | 210 | 0 |
 | Bloque 2.00 - Leyes Mentales 3 | 0074-0100 | 142 | 27 | 115 | 0 | 142 | 0 |
 | Bloque 2.50 - Psicologia de Ventas | 0101-0150 | 253 | 50 | 203 | 0 | 253 | 0 |
@@ -58,7 +58,7 @@ Fecha: 30/05/2026
 |---|---:|---|---|---|---:|---:|
 | Lote 0001 | 10 | REF-0000 | IMG-00009 | 0000-0002 | 0 | 10 |
 | Lote 0002 | 10 | IMG-00010 | IMG-00019 | 0002-0004 | 0 | 10 |
-| Lote 0003 | 10 | IMG-00020 | IMG-00029 | 0004-0006 | 8 | 2 |
+| Lote 0003 | 10 | IMG-00020 | IMG-00029 | 0004-0006 | 7 | 3 |
 | Lote 0004 | 10 | IMG-00030 | IMG-00039 | 0006-0008 | 10 | 0 |
 | Lote 0005 | 10 | IMG-00040 | IMG-00049 | 0008-0010 | 10 | 0 |
 | Lote 0006 | 10 | IMG-00050 | IMG-00059 | 0010-0012 | 10 | 0 |

@@ -2,12 +2,12 @@
 Fecha: 30/05/2026
 
 Generar ahora el siguiente item pendiente:
-Item: IMG-00022
+Item: IMG-00023
 Lote: Lote 0003
-Tipo: Principio 1
+Tipo: Principio 2
 Ley: 0005 - La Ley del Sacrificio
-Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - Prompt Principio 1.txt
-Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - La Ley del Sacrificio - Principio 1 - Lo pequeno tambien detiene lo grande.png
+Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - Prompt Principio 2.txt
+Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - La Ley del Sacrificio - Principio 2 - Sacrificar es elegir conscientemente el.png
 
 Prompt completo para copiar en ChatGPT Imagen:
 ---
@@ -15,16 +15,16 @@ Ley:
 Ley N.Âº 5 â€” La Ley del Sacrificio
 
 Tipo de imagen:
-Principio 1
+Principio 2
 
 Objetivo pedagogico:
-Representar el principio 1: Lo pequeÃ±o tambiÃ©n detiene lo grande. Un hÃ¡bito negativo, aunque parezca insignificante, erosiona tu progreso con el tiempo. El sacrificio consciente de lo mÃ­nimo genera cambios exponenciales. â—
+Representar el principio 2: Sacrificar es elegir conscientemente el futuro. Cada renuncia es un voto a favor de la vida que quieres construir. El sacrificio deja de ser doloroso cuando entiendes que es un intercambio estratÃ©gico. â—
 
 Personajes:
-OLO como guia principal. UMBRA como sombra psicologica elegante.
+OLO como guia principal. OLO FUTURO como version evolucionada.
 
 Escena:
-OLO explica el principio 1 mediante una carga oscura soltada para abrir espacio luminoso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
+OLO explica el principio 2 mediante una carga oscura soltada para abrir espacio luminoso. La escena debe enfocar una sola accion pedagogica: pasar de confusion a claridad, de impulso disperso a direccion consciente, manteniendo fondo oscuro y energia del Oloverso.
 
 Metafora visual:
 una carga oscura soltada para abrir espacio luminoso
@@ -39,7 +39,7 @@ Formato:
 16:9 por defecto.
 
 Nombre de archivo sugerido:
-Ley 0005 - La Ley del Sacrificio - Principio 1 - Lo pequeno tambien detiene lo grande.png
+Ley 0005 - La Ley del Sacrificio - Principio 2 - Sacrificar es elegir conscientemente el.png
 
 Prompt negativo:
 Evitar estilo infantil barato, anime, hiperrealismo humano, meme, exceso de texto, exceso de elementos, personajes incoherentes, cambios del logo, colores aleatorios, caos visual, deformaciones absurdas, gore, terror exagerado o estetica de videojuego barato.
@@ -48,6 +48,6 @@ Frase de coherencia obligatoria:
 "MantÃ©n la coherencia absoluta con la Biblia Visual del Oloverso: OLO como stickman guÃ­a principal, personajes secundarios consistentes, logo del Oloverso como aro verde luminoso con onda amarilla central, fondo oscuro elegante, energÃ­a verde y pulso amarillo, composiciÃ³n simbÃ³lica limpia, tono filosÃ³fico y pedagÃ³gico."
 
 Nota de extraccion:
-Principio extraido como: Primer principio.
+Principio extraido como: Segundo principio.
 
 ---
