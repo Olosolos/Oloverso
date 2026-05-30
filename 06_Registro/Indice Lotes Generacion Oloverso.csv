@@ -1,7 +1,7 @@
-﻿"Batch","Count","FirstItem","LastItem","FirstLaw","LastLaw","FirstKind","LastKind","Pending","Correct"
+"Batch","Count","FirstItem","LastItem","FirstLaw","LastLaw","FirstKind","LastKind","Pending","Correct"
 "Lote 0001","10","REF-0000","IMG-00009","0000","0002","Referencia Personajes","Principio 3","0","10"
-"Lote 0002","10","IMG-00010","IMG-00019","0002","0004","Principio 4","Principio 3","9",
-"Lote 0003","10","IMG-00020","IMG-00029","0004","0006","Principio 4","Principio 3","10","0"
+"Lote 0002","10","IMG-00010","IMG-00019","0002","0004","Principio 4","Principio 3","0","10"
+"Lote 0003","10","IMG-00020","IMG-00029","0004","0006","Principio 4","Principio 3","4","6"
 "Lote 0004","10","IMG-00030","IMG-00039","0006","0008","Principio 4","Principio 3","10","0"
 "Lote 0005","10","IMG-00040","IMG-00049","0008","0010","Principio 4","Principio 3","10","0"
 "Lote 0006","10","IMG-00050","IMG-00059","0010","0012","Principio 4","Principio 3","10","0"

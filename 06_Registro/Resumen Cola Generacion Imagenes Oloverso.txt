@@ -1,31 +1,32 @@
-﻿RESUMEN COLA GENERACION IMAGENES OLOVERSO
-Fecha: 30/05/2026
+RESUMEN COLA GENERACION IMAGENES OLOVERSO
+Fecha: 2026-05-30
 
 Items totales: 3843
-Pendientes: 3843
-Correctas detectadas: 0
+Pendientes: 3817
+Correctas detectadas: 26
 Fallidas registradas: 0
 Lotes: 385 lotes de hasta 10 items.
 
 Distribucion por bloque:
-- Bloque 1.33 - Leyes Mentales: 168 items (33 generales, 135 principios, 0 apartados), Ley 0001-0033
-- Bloque 1.73 - Leyes Mentales 2: 210 items (40 generales, 168 principios, 2 apartados), Ley 0034-0073
-- Bloque 2.00 - Leyes Mentales 3: 142 items (27 generales, 115 principios, 0 apartados), Ley 0074-0100
-- Bloque 2.50 - Psicologia de Ventas: 253 items (50 generales, 203 principios, 0 apartados), Ley 0101-0150
-- Bloque 3.00 - Psicologia de Ventas 2: 250 items (50 generales, 200 principios, 0 apartados), Ley 0151-0200
-- Bloque 3.50 - Pensamiento Financiero: 250 items (50 generales, 200 principios, 0 apartados), Ley 0201-0250
-- Bloque 3.90 - Pensamiento Financiero 2: 201 items (39 generales, 160 principios, 2 apartados), Ley 0251-0290
-- Bloque 4.15 - Leyes Mentales 4 y Manipulacion: 131 items (25 generales, 106 principios, 0 apartados), Ley 0291-0315
-- Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2: 133 items (26 generales, 104 principios, 3 apartados), Ley 0316-0341
-- Bloque 4.66 - Estoicismo: 127 items (25 generales, 100 principios, 2 apartados), Ley 0342-0366
-- Bloque 4.79 - Neurologia: 100 items (13 generales, 48 principios, 39 apartados), Ley 0367-0379
-- Bloque 4.83 - Neurologia 2: 32 items (4 generales, 8 principios, 20 apartados), Ley 0380-0383
-- Bloque 5.00 - Neurologia 3 y Fluicion Cuantica: 80 items (17 generales, 56 principios, 7 apartados), Ley 0384-0400
-- Bloque 5.40 - Perfeccionador de Bloques: 212 items (40 generales, 172 principios, 0 apartados), Ley 0401-0440
-- Bloque 6.00 - Perfeccionador de Bloques 2: 305 items (60 generales, 245 principios, 0 apartados), Ley 0441-0500
-- Bloque 6.50 - Perfeccionador de Bloques 3: 251 items (50 generales, 201 principios, 0 apartados), Ley 0501-0550
-- Bloque 7.00 - Perfeccionador de Bloques 4: 649 items (50 generales, 196 principios, 403 apartados), Ley 0551-0600
-- Bloque 7.66 - Leyes del Oloverso y Potenciadores: 348 items (66 generales, 282 principios, 0 apartados), Ley 0601-0666
+- 00_Referencia: 1 items (0 generales, 0 principios, 0 apartados), Ley -, pendientes 0, correctas 1
+- Bloque 1.33 - Leyes Mentales: 168 items (33 generales, 135 principios, 0 apartados), Ley 0001-0033, pendientes 143, correctas 25
+- Bloque 1.73 - Leyes Mentales 2: 210 items (40 generales, 168 principios, 2 apartados), Ley 0034-0073, pendientes 210, correctas 0
+- Bloque 2.00 - Leyes Mentales 3: 142 items (27 generales, 115 principios, 0 apartados), Ley 0074-0100, pendientes 142, correctas 0
+- Bloque 2.50 - Psicologia de Ventas: 253 items (50 generales, 203 principios, 0 apartados), Ley 0101-0150, pendientes 253, correctas 0
+- Bloque 3.00 - Psicologia de Ventas 2: 250 items (50 generales, 200 principios, 0 apartados), Ley 0151-0200, pendientes 250, correctas 0
+- Bloque 3.50 - Pensamiento Financiero: 250 items (50 generales, 200 principios, 0 apartados), Ley 0201-0250, pendientes 250, correctas 0
+- Bloque 3.90 - Pensamiento Financiero 2: 201 items (39 generales, 160 principios, 2 apartados), Ley 0251-0290, pendientes 201, correctas 0
+- Bloque 4.15 - Leyes Mentales 4 y Manipulacion: 131 items (25 generales, 106 principios, 0 apartados), Ley 0291-0315, pendientes 131, correctas 0
+- Bloque 4.41 - Leyes Mentales 5 y Manipulacion 2: 133 items (26 generales, 104 principios, 3 apartados), Ley 0316-0341, pendientes 133, correctas 0
+- Bloque 4.66 - Estoicismo: 127 items (25 generales, 100 principios, 2 apartados), Ley 0342-0366, pendientes 127, correctas 0
+- Bloque 4.79 - Neurologia: 100 items (13 generales, 48 principios, 39 apartados), Ley 0367-0379, pendientes 100, correctas 0
+- Bloque 4.83 - Neurologia 2: 32 items (4 generales, 8 principios, 20 apartados), Ley 0380-0383, pendientes 32, correctas 0
+- Bloque 5.00 - Neurologia 3 y Fluicion Cuantica: 80 items (17 generales, 56 principios, 7 apartados), Ley 0384-0400, pendientes 80, correctas 0
+- Bloque 5.40 - Perfeccionador de Bloques: 212 items (40 generales, 172 principios, 0 apartados), Ley 0401-0440, pendientes 212, correctas 0
+- Bloque 6.00 - Perfeccionador de Bloques 2: 305 items (60 generales, 245 principios, 0 apartados), Ley 0441-0500, pendientes 305, correctas 0
+- Bloque 6.50 - Perfeccionador de Bloques 3: 251 items (50 generales, 201 principios, 0 apartados), Ley 0501-0550, pendientes 251, correctas 0
+- Bloque 7.00 - Perfeccionador de Bloques 4: 649 items (50 generales, 196 principios, 403 apartados), Ley 0551-0600, pendientes 649, correctas 0
+- Bloque 7.66 - Leyes del Oloverso y Potenciadores: 348 items (66 generales, 282 principios, 0 apartados), Ley 0601-0666, pendientes 348, correctas 0
 
 Primeros archivos de lote con prompts completos creados:
 - Lote 0001 - Referencia y primeras imagenes.txt

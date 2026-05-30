@@ -1,17 +1,17 @@
-﻿# TABLERO PRODUCCION IMAGENES OLOVERSO
-Fecha: 30/05/2026
+# TABLERO PRODUCCION IMAGENES OLOVERSO
+Fecha: 2026-05-30
 
 ## Estado global
 - Items totales en cola: 3843
-- Pendientes: 3818
-- Correctas: 25
+- Pendientes: 3817
+- Correctas: 26
 - Fallidas: 0
 - Referencia de personajes: Correcta
 - Ley 0001 completa: Correcta
 - Ley 0002 completa: Correcta
 - Ley 0003 completa: Correcta
 - Ley 0004 completa: Correcta
-- Ley 0005 completa: Pendiente
+- Ley 0005 completa: Correcta
 - Archivos de lote completos: 385
 
 ## Automatizacion
@@ -22,19 +22,19 @@ Fecha: 30/05/2026
 - GitHub/Drive: pendiente de reautenticacion si se requiere sincronizacion remota.
 
 ## Siguiente accion
-- Item: IMG-00025
+- Item: IMG-00026
 - Lote: Lote 0003
-- Tipo: Principio 4
-- Ley: 0005 - La Ley del Sacrificio
-- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - Prompt Principio 4.txt
-- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0005 - La Ley del Sacrificio\Ley 0005 - La Ley del Sacrificio - Principio 4 - El sacrificio fortalece tu identidad.png
+- Tipo: Imagen General
+- Ley: 0006 - La Ley de la Psicologia del Llegar a Ser
+- Prompt: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\Bloque 1.33 - Leyes Mentales\Ley 0006 - La Ley de la Psicologia del Llegar a Ser\Ley 0006 - La Ley de la Psicologia del Llegar a Ser - Prompt Imagen General.txt
+- Guardar como: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\04_Imagenes_Generadas\Bloque 1.33 - Leyes Mentales\Ley 0006 - La Ley de la Psicologia del Llegar a Ser\Ley 0006 - La Ley de la Psicologia del Llegar a Ser - Imagen General.png
 - Archivo de lote: C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso\03_Prompts\00_Lotes_Generacion\Lote 0003 - prompts completos.txt
 
 ## Resumen por bloque
 | Bloque | Leyes | Items | General | Principios | Apartados | Pendientes | Correctas |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| 00_Referencia | - | 1 | 0 | 0 | 0 | 0 |  |
-| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 144 | 24 |
+| 00_Referencia | - | 1 | 0 | 0 | 0 | 0 | 1 |
+| Bloque 1.33 - Leyes Mentales | 0001-0033 | 168 | 33 | 135 | 0 | 143 | 25 |
 | Bloque 1.73 - Leyes Mentales 2 | 0034-0073 | 210 | 40 | 168 | 2 | 210 | 0 |
 | Bloque 2.00 - Leyes Mentales 3 | 0074-0100 | 142 | 27 | 115 | 0 | 142 | 0 |
 | Bloque 2.50 - Psicologia de Ventas | 0101-0150 | 253 | 50 | 203 | 0 | 253 | 0 |
@@ -58,7 +58,7 @@ Fecha: 30/05/2026
 |---|---:|---|---|---|---:|---:|
 | Lote 0001 | 10 | REF-0000 | IMG-00009 | 0000-0002 | 0 | 10 |
 | Lote 0002 | 10 | IMG-00010 | IMG-00019 | 0002-0004 | 0 | 10 |
-| Lote 0003 | 10 | IMG-00020 | IMG-00029 | 0004-0006 | 5 | 5 |
+| Lote 0003 | 10 | IMG-00020 | IMG-00029 | 0004-0006 | 4 | 6 |
 | Lote 0004 | 10 | IMG-00030 | IMG-00039 | 0006-0008 | 10 | 0 |
 | Lote 0005 | 10 | IMG-00040 | IMG-00049 | 0008-0010 | 10 | 0 |
 | Lote 0006 | 10 | IMG-00050 | IMG-00059 | 0010-0012 | 10 | 0 |
