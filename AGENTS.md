@@ -18,15 +18,17 @@ Google Drive is the image store. Final generated image files must be exported to
 
 Do not add new bulk PNG/JPG outputs to GitHub. Existing tracked images may remain until a deliberate migration removes them from Git history or replaces them with Drive manifest records. New generated outputs should be temporary local artifacts, uploaded to Drive, recorded in `06_Registro/Manifest Drive Imagenes Oloverso.csv`, and then left out of Git commits.
 
-If Drive upload is unavailable in the current environment, do not mark the queue item as `Correcta`. Use a clear temporary status such as `Pendiente_Drive` or `Generada_No_Subida`, record the blocker, and stop before claiming completion for that item.
+If Drive upload is unavailable in the current environment, do not generate new images, do not mark queue items as `Correcta`, and do not create commits that pretend a batch advanced. Stop and report `Bloqueado_DriveUpload`.
 
 ## Drive upload validity gate
 
-Read `06_Registro/CAPACIDAD_DRIVE_UPLOAD.md` before recording Drive results.
+Read `06_Registro/CAPACIDAD_DRIVE_UPLOAD.md` before planning or generating.
 
 A valid final image upload means a standalone PNG/JPG/WebP file exists as a Drive item in the `Oloverso` folder and its observed `DriveFileId` or URL is stored in the manifest. Inserting an image into a Google Doc, Google Slides deck, or Google Sheet is not a valid final upload for this project. Those can be previews, but they do not satisfy the image-storage requirement.
 
-Never invent Drive URLs or IDs. Only record values returned by a real Drive upload or verified by Drive metadata. If the available Drive tools cannot create raw image files in the target folder, mark the item `Pendiente_Drive` or `Generada_No_Subida` and leave exact notes.
+Preflight is mandatory before generation. The task must verify that it has a real authenticated raw-file upload path for PNG/JPG/WebP into the target Drive folder. If this cannot be verified, stop before `plan`, before generation, before queue edits, and before commit. Do not use `/tmp` generation scripts to create batches that cannot be uploaded.
+
+Never invent Drive URLs or IDs. Only record values returned by a real Drive upload or verified by Drive metadata. `Generada_No_Subida` may only be used to preserve an already-existing interrupted artifact when the user explicitly asks for that; it must not be used as the normal outcome of a new run.
 
 ## Work from the repo root
 
@@ -45,18 +47,20 @@ Use `06_Registro/Cola Generacion Imagenes Oloverso.csv` as the authoritative que
 
 Next item rule:
 
-1. Read the CSV.
-2. Find the first row where `Status` is not `Correcta`.
-3. Read its prompt from `PromptPath` after converting to a repo-relative path.
-4. Generate a temporary image file.
-5. Validate visual coherence and reject bad outputs before upload.
-6. Upload the accepted image to the Drive folder `1YFDN7o7yxyTVrH3kaPxHta8HxgOKmk1M`, preserving the block/law folder structure in Drive when possible.
-7. Verify the upload is a standalone image file in Drive, then append or update the row in `06_Registro/Manifest Drive Imagenes Oloverso.csv` with `DriveFileId`, `DriveUrl`, filename, status, and notes.
-8. Set the queue `Status` to `Correcta` only after Drive upload and manifest update succeed.
-9. Refresh `06_Registro/SIGUIENTE_ACCION_GENERAR.txt`, `06_Registro/Tablero Produccion Imagenes Oloverso.md`, and the summary CSV/TXT files.
-10. Commit only metadata, manifests, prompts, and records. Do not commit new final PNG/JPG outputs.
+1. Read `06_Registro/CAPACIDAD_DRIVE_UPLOAD.md` and verify raw Drive upload capability for PNG/JPG/WebP files.
+2. If raw Drive upload is unavailable, stop immediately and report `Bloqueado_DriveUpload`; do not generate images or edit records.
+3. Read the CSV.
+4. Find the first row where `Status` is not `Correcta`.
+5. Read its prompt from `PromptPath` after converting to a repo-relative path.
+6. Generate one temporary image file.
+7. Validate visual coherence and reject bad outputs before upload.
+8. Upload the accepted image to the Drive folder `1YFDN7o7yxyTVrH3kaPxHta8HxgOKmk1M`, preserving the block/law folder structure in Drive when possible.
+9. Verify the upload is a standalone image file in Drive, then append or update the row in `06_Registro/Manifest Drive Imagenes Oloverso.csv` with `DriveFileId`, `DriveUrl`, filename, status, and notes.
+10. Set the queue `Status` to `Correcta` only after Drive upload and manifest update succeed.
+11. Refresh `06_Registro/SIGUIENTE_ACCION_GENERAR.txt`, `06_Registro/Tablero Produccion Imagenes Oloverso.md`, and the summary CSV/TXT files.
+12. Commit only metadata, manifests, prompts, and records. Do not commit new final PNG/JPG outputs.
 
-Recommended batch size for unattended cloud work is 3 to 10 images per run. The overall objective is all images, but small batches are easier to validate, upload, and recover.
+Recommended batch size is 1 image until Drive upload has been proven in the current Cloud environment. After repeated successful uploads, unattended cloud work may increase to 3 images per run. The overall objective is all images, but small batches are easier to validate, upload, and recover.
 
 ## Drive-first helper
 
@@ -65,7 +69,7 @@ Use `tools/oloverso_drive_workflow.py` for the mechanical parts of the Drive-fir
 Common commands:
 
 ```powershell
-python tools/oloverso_drive_workflow.py plan --limit 5
+python tools/oloverso_drive_workflow.py plan --limit 1
 python tools/oloverso_drive_workflow.py audit
 python tools/oloverso_drive_workflow.py record-upload --item-id IMG-00030 --drive-file-id DRIVE_FILE_ID --drive-url DRIVE_URL --local-file path/to/generated.png --notes "Imagen validada y subida a Drive."
 ```
@@ -96,7 +100,7 @@ Some prompt files contain mojibake text such as `atenci\u00c3\u00b3n`. When gene
 
 ## Git discipline
 
-Commit small, verifiable increments. A good commit is one completed batch of Drive uploads plus the corresponding queue/dashboard/manifest updates.
+Commit small, verifiable increments. A good commit is one completed Drive upload plus the corresponding queue/dashboard/manifest updates.
 
 Do not delete existing generated images unless the task is explicitly a migration and the Drive manifest proves the images were uploaded. Do not rewrite history. Do not mark the overall goal complete until all required images for all laws are generated, uploaded to Drive, recorded, and verified.
 
