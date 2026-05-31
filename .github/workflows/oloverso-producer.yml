@@ -1,0 +1,74 @@
+name: Oloverso producer
+
+on:
+  schedule:
+    - cron: '31 * * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Maximum images to process. Keep 1 until stable.'
+        required: false
+        default: '1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oloverso-producer
+  cancel-in-progress: false
+
+jobs:
+  produce:
+    name: Generate and upload one image
+    runs-on: ubuntu-latest
+    if: ${{ vars.OLOVERSO_PRODUCER_ENABLED == 'true' }}
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+      OLOVERSO_DRIVE_FOLDER_ID: ${{ vars.OLOVERSO_DRIVE_FOLDER_ID || '1YFDN7o7yxyTVrH3kaPxHta8HxgOKmk1M' }}
+      OLOVERSO_IMAGE_MODEL: ${{ vars.OLOVERSO_IMAGE_MODEL || 'gpt-image-1.5' }}
+      OLOVERSO_IMAGE_QUALITY: ${{ vars.OLOVERSO_IMAGE_QUALITY || 'high' }}
+      OLOVERSO_IMAGE_SIZE: ${{ vars.OLOVERSO_IMAGE_SIZE || '1024x1024' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements-oloverso-cloud.txt
+
+      - name: Verify required secrets
+        run: |
+          test -n "$OPENAI_API_KEY" || { echo 'Missing OPENAI_API_KEY secret'; exit 1; }
+          test -n "$GOOGLE_SERVICE_ACCOUNT_JSON" || { echo 'Missing GOOGLE_SERVICE_ACCOUNT_JSON secret'; exit 1; }
+
+      - name: Generate, upload, and record
+        run: python tools/oloverso_cloud_producer.py --limit "${{ github.event.inputs.limit || '1' }}"
+
+      - name: Commit metadata updates
+        run: |
+          git config user.name "oloverso-producer"
+          git config user.email "actions@github.com"
+          git add 06_Registro
+          if git diff --cached --quiet; then
+            echo "No metadata changes to commit."
+          else
+            git commit -m "Record Oloverso Drive image upload"
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo '## Oloverso producer'
+            echo ''
+            echo '- Processes at most one image by default.'
+            echo '- Generates with OpenAI image API.'
+            echo '- Uploads PNG to Google Drive folder.'
+            echo '- Commits only metadata under 06_Registro.'
+          } >> "$GITHUB_STEP_SUMMARY"
