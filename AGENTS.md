@@ -50,6 +50,22 @@ Next item rule:
 
 Recommended batch size for unattended cloud work is 3 to 10 images per run. The overall objective is all images, but small batches are easier to validate, upload, and recover.
 
+## Drive-first helper
+
+Use `tools/oloverso_drive_workflow.py` for the mechanical parts of the Drive-first workflow.
+
+Common commands:
+
+```powershell
+python tools/oloverso_drive_workflow.py plan --limit 5
+python tools/oloverso_drive_workflow.py audit
+python tools/oloverso_drive_workflow.py record-upload --item-id IMG-00030 --drive-file-id DRIVE_FILE_ID --drive-url DRIVE_URL --local-file path/to/generated.png --notes "Imagen validada y subida a Drive."
+```
+
+Read `06_Registro/USO_HELPER_DRIVE_FIRST.md` for the full helper protocol.
+
+The helper does not generate images and does not upload files to Drive. Generate and validate the image first, upload it with the available Drive tool, then call `record-upload` to update queue, manifest, next action, dashboard, summaries, and batch index.
+
 ## Visual coherence
 
 Maintain absolute coherence with the Biblia Visual del Oloverso:
