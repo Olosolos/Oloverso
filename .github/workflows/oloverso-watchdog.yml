@@ -1,0 +1,70 @@
+name: Oloverso watchdog
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    name: Audit repo state
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Audit Oloverso records
+        run: |
+          python tools/oloverso_drive_workflow.py audit
+          python tools/oloverso_drive_workflow.py plan --limit 1
+
+      - name: Check Drive-first guardrails
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          required = [
+              Path('AGENTS.md'),
+              Path('06_Registro/CAPACIDAD_DRIVE_UPLOAD.md'),
+              Path('06_Registro/REANUDACION_TRAS_LIMITE_CODEX.md'),
+              Path('06_Registro/Manifest Drive Imagenes Oloverso.csv'),
+              Path('06_Registro/Cola Generacion Imagenes Oloverso.csv'),
+          ]
+          missing = [str(p) for p in required if not p.exists()]
+          if missing:
+              raise SystemExit('Missing required files: ' + ', '.join(missing))
+
+          agents = Path('AGENTS.md').read_text(encoding='utf-8', errors='replace')
+          cap = Path('06_Registro/CAPACIDAD_DRIVE_UPLOAD.md').read_text(encoding='utf-8', errors='replace')
+          if 'Bloqueado_DriveUpload' not in agents + cap:
+              raise SystemExit('Drive upload blocker rule is missing.')
+          if 'No generar imagenes temporales' not in cap and 'do not generate new images' not in agents:
+              raise SystemExit('Preflight-before-generation rule is missing.')
+
+          manifest_header = Path('06_Registro/Manifest Drive Imagenes Oloverso.csv').read_text(encoding='utf-8', errors='replace').splitlines()[0]
+          for column in ['DriveFileId', 'DriveUrl', 'Status']:
+              if column not in manifest_header:
+                  raise SystemExit(f'Manifest is missing column: {column}')
+
+          print('Oloverso watchdog OK: repo guardrails and queue files are present.')
+          PY
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo '## Oloverso watchdog'
+            echo ''
+            echo '- Repository: Olosolos/Oloverso'
+            echo '- Purpose: hourly repo audit and Drive-first guardrail check.'
+            echo '- This workflow does not generate images and does not upload to Drive.'
+            echo '- If this job fails, inspect the failed step before running more Codex Cloud production.'
+          } >> "$GITHUB_STEP_SUMMARY"
