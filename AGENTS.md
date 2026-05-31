@@ -20,6 +20,14 @@ Do not add new bulk PNG/JPG outputs to GitHub. Existing tracked images may remai
 
 If Drive upload is unavailable in the current environment, do not mark the queue item as `Correcta`. Use a clear temporary status such as `Pendiente_Drive` or `Generada_No_Subida`, record the blocker, and stop before claiming completion for that item.
 
+## Drive upload validity gate
+
+Read `06_Registro/CAPACIDAD_DRIVE_UPLOAD.md` before recording Drive results.
+
+A valid final image upload means a standalone PNG/JPG/WebP file exists as a Drive item in the `Oloverso` folder and its observed `DriveFileId` or URL is stored in the manifest. Inserting an image into a Google Doc, Google Slides deck, or Google Sheet is not a valid final upload for this project. Those can be previews, but they do not satisfy the image-storage requirement.
+
+Never invent Drive URLs or IDs. Only record values returned by a real Drive upload or verified by Drive metadata. If the available Drive tools cannot create raw image files in the target folder, mark the item `Pendiente_Drive` or `Generada_No_Subida` and leave exact notes.
+
 ## Work from the repo root
 
 Always treat the repository root as the project root. Do not depend on absolute Windows paths such as `C:\Users\david\...`.
@@ -43,7 +51,7 @@ Next item rule:
 4. Generate a temporary image file.
 5. Validate visual coherence and reject bad outputs before upload.
 6. Upload the accepted image to the Drive folder `1YFDN7o7yxyTVrH3kaPxHta8HxgOKmk1M`, preserving the block/law folder structure in Drive when possible.
-7. Compute or record the best available checksum/identifier, then append or update the row in `06_Registro/Manifest Drive Imagenes Oloverso.csv` with `DriveFileId`, `DriveUrl`, filename, status, and notes.
+7. Verify the upload is a standalone image file in Drive, then append or update the row in `06_Registro/Manifest Drive Imagenes Oloverso.csv` with `DriveFileId`, `DriveUrl`, filename, status, and notes.
 8. Set the queue `Status` to `Correcta` only after Drive upload and manifest update succeed.
 9. Refresh `06_Registro/SIGUIENTE_ACCION_GENERAR.txt`, `06_Registro/Tablero Produccion Imagenes Oloverso.md`, and the summary CSV/TXT files.
 10. Commit only metadata, manifests, prompts, and records. Do not commit new final PNG/JPG outputs.
@@ -64,7 +72,7 @@ python tools/oloverso_drive_workflow.py record-upload --item-id IMG-00030 --driv
 
 Read `06_Registro/USO_HELPER_DRIVE_FIRST.md` for the full helper protocol.
 
-The helper does not generate images and does not upload files to Drive. Generate and validate the image first, upload it with the available Drive tool, then call `record-upload` to update queue, manifest, next action, dashboard, summaries, and batch index.
+The helper does not generate images and does not upload files to Drive. Generate and validate the image first, upload it with a real raw-file Drive upload capability, then call `record-upload` to update queue, manifest, next action, dashboard, summaries, and batch index.
 
 ## Visual coherence
 
