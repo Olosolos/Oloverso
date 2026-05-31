@@ -8,3 +8,12 @@ Desktop.ini
 *.7z
 *.rar
 
+# Final generated image outputs belong in Google Drive, not GitHub.
+04_Imagenes_Generadas/**/*.png
+04_Imagenes_Generadas/**/*.jpg
+04_Imagenes_Generadas/**/*.jpeg
+04_Imagenes_Generadas/**/*.webp
+
+# Temporary local generation/cache areas.
+.generated_images/
+generated_images/
