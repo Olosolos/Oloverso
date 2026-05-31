@@ -12,7 +12,6 @@ import argparse
 import csv
 import hashlib
 import json
-import sys
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -233,7 +232,7 @@ def refresh_next_action(root: Path, queue_rows: list[dict[str, str]]) -> None:
     today = datetime.now().date().isoformat()
     pending = first_pending(queue_rows)
     if pending is None:
-        NEXT_ACTION_PATH.joinpath().parent.mkdir(parents=True, exist_ok=True)
+        (root / NEXT_ACTION_PATH).parent.mkdir(parents=True, exist_ok=True)
         (root / NEXT_ACTION_PATH).write_text(
             f"SIGUIENTE ACCION - OLOVERSO\nFecha: {today}\n\nNo quedan items pendientes en la cola.\n",
             encoding="utf-8",
