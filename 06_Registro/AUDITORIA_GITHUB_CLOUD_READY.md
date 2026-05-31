@@ -36,11 +36,21 @@ Primer item pendiente remoto:
 - Tipo: `Principio 1`
 - Estado: `Pendiente`
 
+## Comparacion contra carpeta local original
+
+Comparacion en solo lectura contra `C:\Users\david\OneDrive\Escritorio\Imagenes Oloverso`, excluyendo binarios finales de imagen y `.git`.
+
+- Archivos locales de control/prompts/registros revisados: 4.249
+- Archivos locales de control/prompts/registros que faltan en GitHub: 0
+
+Esto confirma que los `.txt`, `.csv`, `.md`, `.py`, `.json`, `.toml`, `.yml`, `.yaml` y `.ps1` necesarios del proyecto local estan cubiertos por GitHub.
+
 ## Archivos criticos verificados
 
 - `AGENTS.md`
 - `.gitignore`
 - `06_Registro/ARRANQUE_CODEX_CLOUD.md`
+- `06_Registro/AUDITORIA_GITHUB_CLOUD_READY.md`
 - `06_Registro/CAPACIDAD_DRIVE_UPLOAD.md`
 - `06_Registro/Cola Generacion Imagenes Oloverso.csv`
 - `06_Registro/ESTADO_AUTOMATIZACION_NUBE.md`
